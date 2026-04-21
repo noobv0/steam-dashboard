@@ -295,10 +295,14 @@
   }
   .game-table tr:hover td { background:var(--surface2); }
   .game-img {
-    width:46px; height:34px; border-radius:4px; flex-shrink:0;
-    object-fit:cover; background:var(--surface2);
+    width:80px; height:30px; border-radius:4px; flex-shrink:0;
+    object-fit:cover; object-position:center; background:var(--surface2);
   }
-  .owner-badges { display:flex; gap:4px; align-items:center; flex-wrap:wrap; }
+
+
+
+
+
   .badge {
     font-size:10px; padding:2px 7px; border-radius:4px;
     font-family:'JetBrains Mono',monospace; font-weight:500;
@@ -429,13 +433,33 @@
       <label>Contas (apelido + SteamID64)</label>
       <div class="accounts-grid" id="accounts-grid">
         <div class="account-row">
-          <input type="text" placeholder="Apelido" class="acc-name">
-          <input type="text" placeholder="SteamID64" class="acc-id">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Lírio">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198158302059">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
-          <input type="text" placeholder="Apelido" class="acc-name">
-          <input type="text" placeholder="SteamID64" class="acc-id">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Kiri">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199011715965">
+          <button class="btn-remove" onclick="removeRow(this)">✕</button>
+        </div>
+        <div class="account-row">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Dudu">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198833523657">
+          <button class="btn-remove" onclick="removeRow(this)">✕</button>
+        </div>
+        <div class="account-row">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Bambo">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199148095723">
+          <button class="btn-remove" onclick="removeRow(this)">✕</button>
+        </div>
+        <div class="account-row">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Nino">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198394798327">
+          <button class="btn-remove" onclick="removeRow(this)">✕</button>
+        </div>
+        <div class="account-row">
+          <input type="text" placeholder="Apelido" class="acc-name" value="Carrot">
+          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199001083134">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
       </div>
@@ -640,9 +664,7 @@ async function loadData() {
             appid: g.appid,
             totalHours: 0,
             owners: [],
-            img: g.img_icon_url
-              ? `https://media.steampowered.com/steamcommunity/public/images/apps/${g.appid}/${g.img_icon_url}.jpg`
-              : null
+            img: `https://cdn.cloudflare.steamstatic.com/steam/apps/${g.appid}/capsule_sm_120.jpg`,
           };
         }
         allGames[g.appid].totalHours += (g.playtime_forever || 0) / 60;
