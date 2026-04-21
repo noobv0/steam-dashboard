@@ -277,7 +277,7 @@
   .game-table-wrap { overflow-x:auto; }
   .game-table {
     width:100%; border-collapse:collapse;
-    font-size:14px;
+    font-size:14px; table-layout:fixed;
   }
   .game-table th {
     text-align:left; padding:10px 14px;
@@ -285,17 +285,20 @@
     letter-spacing:1.5px; text-transform:uppercase; color:var(--muted);
     border-bottom:1px solid var(--border); cursor:pointer; white-space:nowrap;
   }
+  .game-table th:nth-child(1) { width:48px; }
+  .game-table th:nth-child(2) { width:35%; }
+  .game-table th:nth-child(4) { width:130px; }
   .game-table th:hover { color:var(--blue); }
   .game-table td {
     padding:10px 14px; border-bottom:1px solid rgba(30,45,74,0.5);
-    vertical-align:middle;
+    vertical-align:middle; overflow:hidden;
   }
   .game-table tr:hover td { background:var(--surface2); }
   .game-img {
-    width:40px; height:30px; border-radius:4px;
+    width:46px; height:34px; border-radius:4px; flex-shrink:0;
     object-fit:cover; background:var(--surface2);
   }
-  .owner-badges { display:flex; gap:4px; flex-wrap:wrap; }
+  .owner-badges { display:flex; gap:4px; align-items:center; flex-wrap:wrap; }
   .badge {
     font-size:10px; padding:2px 7px; border-radius:4px;
     font-family:'JetBrains Mono',monospace; font-weight:500;
@@ -833,7 +836,7 @@ function buildEmComum() {
           <span style="color:var(--muted);font-weight:400;margin-left:8px">(${common.length} jogos)</span>
         </div>
         <div class="common-pills">${common.length
-          ? common.sort((a,b)=>a.name.localeCompare(b.name)).slice(0,40).map(g=>`<div class="pill">${g.name}</div>`).join('')+(common.length>40?`<div class="pill" style="color:var(--muted)">+${common.length-40} mais...</div>`:'')
+          ? common.sort((a,b)=>a.name.localeCompare(b.name)).slice(0,40).map(g=>`<div class="pill">${g.name}</div>`).join('')+(common.length>40?`<div class="pill pill-more" style="color:var(--blue);cursor:pointer;border-color:var(--blue)" data-all='${JSON.stringify(common.sort((a,b)=>a.name.localeCompare(b.name)).slice(40).map(g=>g.name))}' onclick="expandCommon(this)">+${common.length-40} mais</div>`:'')
           : '<span style="color:var(--muted);font-size:13px">Nenhum em comum</span>'}
         </div>
       </div>`;
@@ -857,11 +860,31 @@ function buildUnicos() {
             ${g.name}
             <span class="pill-count">${g.totalHours.toFixed(0)}h</span>
           </div>`).join('')}
-        ${unique.length>60?`<div class="pill" style="color:var(--muted)">+${unique.length-60} mais</div>`:''}
+        ${unique.length>60?`<div class="pill pill-more" style="color:var(--blue);cursor:pointer;border-color:var(--blue)" onclick="expandUnicos(this,'${name.replace(/'/g,"\\'")}')">+${unique.length-60} mais</div>`:''}
       </div>
     </div>`;
   }
   document.getElementById('unicos-content').innerHTML = html;
+}
+
+function expandUnicos(btn, name) {
+  const unique = Object.values(allGames).filter(g=>g.owners.length===1&&g.owners[0]===name);
+  unique.sort((a,b)=>b.totalHours-a.totalHours);
+  const container = btn.closest('.common-pills');
+  const extra = unique.slice(60).map(g=>`
+    <div class="pill">
+      ${g.name}
+      <span class="pill-count">${g.totalHours.toFixed(0)}h</span>
+    </div>`).join('');
+  btn.insertAdjacentHTML('beforebegin', extra);
+  btn.remove();
+}
+
+function expandCommon(btn) {
+  const names = JSON.parse(btn.dataset.all);
+  const extra = names.map(n=>`<div class="pill">${n}</div>`).join('');
+  btn.insertAdjacentHTML('beforebegin', extra);
+  btn.remove();
 }
 
 // ─── Conquistas ───────────────────────────────────────────────────────────────
