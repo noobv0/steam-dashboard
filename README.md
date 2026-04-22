@@ -1,7 +1,7 @@
 # 🎮 Steam Family Hub
 
 <p align="center">
-  <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/6903994371dff2d7837b773a3b58fdf78c051f7a.jpg" width="100" height="100" style="border-radius: 20px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" width="100" height="100" />
 </p>
 
 <p align="center">
