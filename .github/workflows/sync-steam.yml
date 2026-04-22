@@ -1,0 +1,25 @@
+name: Sincronizar Dados da Steam
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Roda todo dia às 03:00 da manhã
+  workflow_dispatch:     # Botão para rodar manual
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: npm run sync-steam
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: atualizar cache da Steam [skip ci]'
+          file_pattern: 'src/data/steam_cache.json'
