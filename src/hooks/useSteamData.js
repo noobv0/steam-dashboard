@@ -68,27 +68,42 @@ export function useSteamData() {
     } catch {}
 
     tick('categorias e precos');
+    const accountNames = Object.keys(newData);
+    // Priorizar jogos em comum entre todos, depois por horas
     const allAppids = Object.values(newGames)
-      .sort((a, b) => b.totalHours - a.totalHours)
-      .slice(0, 500)
+      .sort((a, b) => {
+        const aCommon = a.owners.length === accountNames.length;
+        const bCommon = b.owners.length === accountNames.length;
+        if (aCommon && !bCommon) return -1;
+        if (!aCommon && bCommon) return 1;
+        return b.totalHours - a.totalHours;
+      })
+      .slice(0, 400)
       .map(g => g.appid);
 
-    for (let i = 0; i < allAppids.length; i += 10) {
-      const batch = allAppids.slice(i, i + 10);
+    // Batches menores para evitar timeout e bloqueio
+    for (let i = 0; i < allAppids.length; i += 5) {
+      const batch = allAppids.slice(i, i + 5);
       try {
         const res = await fetch(`/api/steam?endpoint=store/appdetails&appids=${batch.join(',')}`);
-        if (!res.ok) continue;
+        if (!res.ok) {
+          console.error(`Erro API Store: ${res.status}`);
+          continue;
+        }
         const json = await res.json();
         for (const appid of batch) {
           const d = json?.[appid];
-          if (d?.success && newGames[appid]) {
-            newGames[appid].categories = (d.data?.categories || []).map(c => c.id);
-            newGames[appid].price = d.data?.price_overview?.final_formatted || null;
-            newGames[appid].priceUSD = d.data?.price_overview?.final || 0;
+          if (d?.success && d.data && newGames[appid]) {
+            newGames[appid].categories = (d.data.categories || []).map(c => c.id);
+            newGames[appid].price = d.data.price_overview?.final_formatted || null;
+            newGames[appid].priceUSD = d.data.price_overview?.final || 0;
           }
         }
-      } catch {}
-      await new Promise(resolve => setTimeout(resolve, 100));
+      } catch (e) {
+        console.error("Erro ao processar batch:", e);
+      }
+      // Delay maior entre batches para respeitar rate limit
+      await new Promise(resolve => setTimeout(resolve, 300));
     }
 
     setAllData(newData);

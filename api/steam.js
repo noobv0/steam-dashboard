@@ -16,9 +16,11 @@ export default async function handler(req, res) {
   // Rota especial: proxy para Steam Store API (sem API key)
   if (endpoint === 'store/appdetails') {
     const { appids, filters = 'categories,price_overview' } = params;
-    const url = `https://store.steampowered.com/api/appdetails?appids=${appids}&filters=${filters}&cc=br&l=portuguese`;
+    // Removido cc=br e l=portuguese para testar se a API responde melhor com o padrão
+    const url = `https://store.steampowered.com/api/appdetails?appids=${appids}&filters=${filters}`;
     try {
       const response = await fetch(url);
+      if (!response.ok) throw new Error(`Steam Store respondeu com ${response.status}`);
       const data = await response.json();
       res.setHeader('Cache-Control', 's-maxage=86400'); // cache 24h
       return res.status(200).json(data);
