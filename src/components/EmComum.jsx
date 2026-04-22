@@ -66,7 +66,7 @@ export default function EmComum({ allGames, allData }) {
       {/* Nota sobre categorias */}
       {activeFilter !== 'all' && (
         <div style={{ background:'rgba(79,172,254,0.06)', border:'1px solid rgba(79,172,254,0.2)', borderRadius:8, padding:'10px 14px', fontSize:12, color:'var(--muted)', marginBottom:20 }}>
-          ℹ️ Categorias são carregadas para os top 200 jogos em comum. Jogos sem dados de categoria podem não aparecer neste filtro.
+          ℹ️ Categorias carregadas via cache diário. Jogos muito recentes ou gratuitos podem não ter dados de categoria ainda.
         </div>
       )}
 
