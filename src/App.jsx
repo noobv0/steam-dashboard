@@ -34,7 +34,7 @@ export default function App() {
       <header style={{ borderBottom:'1px solid var(--border)', background:headerBg, backdropFilter:'blur(12px)', position:'sticky', top:0, zIndex:100, padding:'14px 0' }}>
         <div style={{ maxWidth:1400, margin:'0 auto', padding:'0 24px', display:'flex', alignItems:'center', gap:16, position:'relative', zIndex:1 }}>
           <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:22, fontWeight:700, letterSpacing:3, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent' }}>
-            STEAM<span style={{ color:'var(--muted)', WebkitTextFillColor:'var(--muted)', fontWeight:400, fontSize:13, letterSpacing:1, marginLeft:8 }}>FAMILY HUB</span>
+            STEAM<span style={{ color:'var(--muted)', WebkitTextFillColor:'var(--muted)', fontWeight:400, fontSize:13, letterSpacing:1, marginLeft:8 }}>KIN</span>
           </div>
 
           <div style={{ marginLeft:'auto', display:'flex', alignItems:'center', gap:12 }}>

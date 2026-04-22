@@ -1,7 +1,7 @@
-# 🎮 Steam Family Hub
+# 🎮 SteamKin
 
 <p align="center">
-  <strong>Dashboard inteligente para gerenciar e comparar bibliotecas da Steam entre amigos e família.</strong>
+  <strong>Dashboard inteligente para gerenciar e comparar bibliotecas da Steam entre amigos e família (Kin).</strong>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 git clone https://github.com/noobv0/steam-dashboard.git
 
 # Entre na pasta
-cd steam-dashboard
+cd steam-kin
 
 # Instale as dependências
 npm install

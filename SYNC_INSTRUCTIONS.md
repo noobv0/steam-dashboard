@@ -1,4 +1,4 @@
-# 🔄 Sincronização de Dados da Steam
+# 🔄 Sincronização de Dados - SteamKin
 
 Este projeto agora usa um sistema de **cache com sincronização automática** para evitar problemas de rate limit da Steam API.
 
