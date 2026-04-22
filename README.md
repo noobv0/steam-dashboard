@@ -1,10 +1,6 @@
 # 🎮 Steam Family Hub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" width="100" height="100" />
-</p>
-
-<p align="center">
   <strong>Dashboard inteligente para gerenciar e comparar bibliotecas da Steam entre amigos e família.</strong>
 </p>
 
