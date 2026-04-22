@@ -70,8 +70,9 @@ export function useSteamData() {
 
     // Categorias via nosso backend (sem CORS)
     tick('categorias');
+    const accountNames = Object.keys(newData);
     const commonAppids = Object.values(newGames)
-      .filter(g => g.owners.length > 1)
+      .filter(g => g.owners.length === accountNames.length)
       .sort((a, b) => b.totalHours - a.totalHours)
       .slice(0, 300)
       .map(g => g.appid);

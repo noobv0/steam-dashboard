@@ -84,9 +84,9 @@ export default function VisaoGeral({ allData, allGames, players }) {
                 }
               </div>
               <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:20, fontWeight:700, marginBottom:4 }}>{name}</div>
-              {p?.personaname && p.personaname !== name &&
-                <div style={{ fontSize:12, color:'var(--muted)', marginBottom:10 }}>{p.personaname}</div>
-              }
+              <div style={{ fontSize:12, color:'var(--muted)', marginBottom:10, minHeight:16 }}>
+                {p?.personaname && p.personaname !== name ? p.personaname : ''}
+              </div>
               <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:8, marginTop:8 }}>
                 {[['Jogos', games.length.toLocaleString()],['Horas', `${hours.toLocaleString()}h`],['Média/jogo', `${avg}h`],['Únicos', uniq]].map(([l,v])=>(
                   <div key={l} style={{ background:'var(--bg2)', borderRadius:6, padding:'10px 12px' }}>
