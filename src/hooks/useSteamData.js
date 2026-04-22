@@ -13,7 +13,7 @@ export function useSteamData() {
 
   const load = useCallback(async (accounts) => {
     setPhase('loading');
-    const totalSteps = accounts.length * 2 + 2;
+    const totalSteps = accounts.length * 2 + 3;
     setLoadingTotal(totalSteps);
     setLoadingStep(0);
 
@@ -46,6 +46,7 @@ export function useSteamData() {
               img: `https://cdn.cloudflare.steamstatic.com/steam/apps/${g.appid}/capsule_sm_120.jpg`,
               categories: [],
               price: null,
+              priceUSD: 0,
             };
           }
           newGames[g.appid].totalHours += (g.playtime_forever || 0) / 60;
@@ -66,27 +67,28 @@ export function useSteamData() {
       setPlayers(playerMap);
     } catch {}
 
-    tick('categorias');
-    const accountNames = Object.keys(newData);
-    const commonAppids = Object.values(newGames)
-      .filter(g => g.owners.length === accountNames.length)
+    tick('categorias e precos');
+    const allAppids = Object.values(newGames)
       .sort((a, b) => b.totalHours - a.totalHours)
-      .slice(0, 300)
+      .slice(0, 500)
       .map(g => g.appid);
 
-    for (let i = 0; i < commonAppids.length; i += 10) {
-      const batch = commonAppids.slice(i, i + 10);
+    for (let i = 0; i < allAppids.length; i += 10) {
+      const batch = allAppids.slice(i, i + 10);
       try {
         const res = await fetch(`/api/steam?endpoint=store/appdetails&appids=${batch.join(',')}`);
+        if (!res.ok) continue;
         const json = await res.json();
         for (const appid of batch) {
           const d = json?.[appid];
           if (d?.success && newGames[appid]) {
             newGames[appid].categories = (d.data?.categories || []).map(c => c.id);
             newGames[appid].price = d.data?.price_overview?.final_formatted || null;
+            newGames[appid].priceUSD = d.data?.price_overview?.final || 0;
           }
         }
       } catch {}
+      await new Promise(resolve => setTimeout(resolve, 100));
     }
 
     setAllData(newData);

@@ -36,6 +36,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
   const totalGamesUniq = Object.keys(allGames).length;
   const totalHours = Object.values(allGames).reduce((s,g)=>s+g.totalHours,0);
   const totalCommon = Object.values(allGames).filter(g=>g.owners.length===names.length).length;
+  const totalValue = Object.values(allGames).reduce((s,g)=>s+(g.priceUSD||0),0);
 
   const mostGames = [...names].sort((a,b)=>allData[b].length-allData[a].length)[0];
   const mostHours = [...names].sort((a,b)=>{
@@ -46,8 +47,15 @@ export default function VisaoGeral({ allData, allGames, players }) {
   const byHours = [...names].sort((a,b)=>{
     return allData[b].reduce((s,g)=>s+g.playtime_forever/60,0) - allData[a].reduce((s,g)=>s+g.playtime_forever/60,0);
   });
+  const byValue = [...names].sort((a,b)=>{
+    const aVal = allData[a].reduce((s,g)=>s+(allGames[g.appid]?.priceUSD||0),0);
+    const bVal = allData[b].reduce((s,g)=>s+(allGames[g.appid]?.priceUSD||0),0);
+    return bVal - aVal;
+  });
+
   const maxG = allData[byGames[0]]?.length || 1;
   const maxH = allData[byHours[0]]?.reduce((s,g)=>s+g.playtime_forever/60,0) || 1;
+  const maxV = Math.max(...byValue.map(n=>allData[n].reduce((s,g)=>s+(allGames[g.appid]?.priceUSD||0),0))) || 1;
 
   return (
     <div style={{ animation:'fadeUp .3s ease' }}>
@@ -57,8 +65,8 @@ export default function VisaoGeral({ allData, allGames, players }) {
         <StatCard label="Jogos Únicos" value={totalGamesUniq.toLocaleString()} />
         <StatCard label="Horas Totais" value={`${Math.round(totalHours).toLocaleString()}h`} />
         <StatCard label="Em Comum" value={totalCommon} />
+        <StatCard label="Valor Total" value={`$${(totalValue/100).toFixed(2)}`} small />
         <StatCard label="Mais Jogos" value={mostGames} small />
-        <StatCard label="Mais Horas" value={mostHours} small />
       </div>
 
       {/* Account cards */}
@@ -69,6 +77,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
           const hours = Math.round(games.reduce((s,g)=>s+g.playtime_forever/60,0));
           const avg = games.length ? (hours/games.length).toFixed(1) : 0;
           const uniq = games.filter(g=>allGames[g.appid]?.owners.length===1).length;
+          const accountValue = games.reduce((s,g)=>s+(allGames[g.appid]?.priceUSD||0),0);
           const p = players[name];
           const color = COLORS[i % COLORS.length];
           const initials = name.slice(0,2).toUpperCase();
@@ -88,7 +97,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
                 {p?.personaname && p.personaname !== name ? p.personaname : ''}
               </div>
               <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:8, marginTop:8 }}>
-                {[['Jogos', games.length.toLocaleString()],['Horas', `${hours.toLocaleString()}h`],['Média/jogo', `${avg}h`],['Únicos', uniq]].map(([l,v])=>(
+                {[['Jogos', games.length.toLocaleString()],['Horas', `${hours.toLocaleString()}h`],['Valor', `$${(accountValue/100).toFixed(2)}`],['Únicos', uniq]].map(([l,v])=>(
                   <div key={l} style={{ background:'var(--bg2)', borderRadius:6, padding:'10px 12px' }}>
                     <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)', marginBottom:4 }}>{l}</div>
                     <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color:'var(--cyan)' }}>{v}</div>
@@ -101,7 +110,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
       </div>
 
       {/* Rankings */}
-      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:24 }}>
+      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr 1fr', gap:24 }}>
         <div>
           <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, letterSpacing:2, textTransform:'uppercase', color:'var(--blue)', marginBottom:16 }}>🏆 Ranking Jogos</div>
           {byGames.map((n,i)=>(
@@ -113,6 +122,13 @@ export default function VisaoGeral({ allData, allGames, players }) {
           {byHours.map((n,i)=>{
             const h = Math.round(allData[n].reduce((s,g)=>s+g.playtime_forever/60,0));
             return <RankItem key={n} rank={i} name={n} value={h} max={maxH} label={`${h.toLocaleString()}h`} avatar={players[n]?.avatarmedium} />;
+          })}
+        </div>
+        <div>
+          <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, letterSpacing:2, textTransform:'uppercase', color:'var(--blue)', marginBottom:16 }}>💰 Ranking Valor</div>
+          {byValue.map((n,i)=>{
+            const v = allData[n].reduce((s,g)=>s+(allGames[g.appid]?.priceUSD||0),0);
+            return <RankItem key={n} rank={i} name={n} value={v} max={maxV} label={`$${(v/100).toFixed(2)}`} avatar={players[n]?.avatarmedium} />;
           })}
         </div>
       </div>
