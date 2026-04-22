@@ -35,7 +35,7 @@ export default function EmComum({ allGames, allData }) {
   const allCommon = useMemo(() => {
     const base = Object.values(allGames).filter(g=>g.owners.length===names.length);
     return filterGames(base).sort((a,b)=>a.name.localeCompare(b.name));
-  }, [allGames, names, activeFilter]);
+  }, [allGames, names, activeFilter, filterCatId]);
 
   const pairs = useMemo(() => {
     const result = [];
@@ -48,7 +48,7 @@ export default function EmComum({ allGames, allData }) {
       }
     }
     return result;
-  }, [allGames, names, activeFilter]);
+  }, [allGames, names, activeFilter, filterCatId]);
 
   const filterBtn = (f) => (
     <button key={f.key} onClick={()=>setActiveFilter(f.key)} style={{ background: activeFilter===f.key?'rgba(79,172,254,0.1)':'var(--surface)', border:`1px solid ${activeFilter===f.key?'var(--blue)':'var(--border)'}`, borderRadius:8, padding:'8px 14px', color: activeFilter===f.key?'var(--blue)':'var(--muted)', fontFamily:'Rajdhani,sans-serif', fontSize:13, fontWeight:600, letterSpacing:1, cursor:'pointer', whiteSpace:'nowrap', display:'flex', alignItems:'center', gap:6 }}>
