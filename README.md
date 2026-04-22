@@ -1,7 +1,7 @@
 # 🎮 Steam Family Hub
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" width="100" height="100" />
 </p>
 
 <p align="center">
