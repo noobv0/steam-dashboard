@@ -90,7 +90,11 @@ body::before {
 }
 
 /* ── Garantir que o conteúdo fica sobre o canvas ────────────── */
-#root > * { position: relative; z-index: 1; }
+#root {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+}
 
 /* ── Theme transition ───────────────────────────────────────── */
 .theme-transitioning * {
