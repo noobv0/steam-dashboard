@@ -46,3 +46,69 @@ body::before {
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
 @keyframes spin { to{transform:rotate(360deg)} }
 @keyframes fadeUp { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:none} }
+
+/* ── Theme transition overlay ─────────────────────────────── */
+.theme-transitioning * {
+  transition: background-color .4s ease, color .4s ease, border-color .4s ease, box-shadow .4s ease !important;
+}
+
+/* ── Theme toggle button ──────────────────────────────────── */
+.theme-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 7px 12px;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+  color: var(--text);
+  position: relative;
+  overflow: hidden;
+  transition: border-color .2s, transform .1s;
+}
+.theme-btn:hover { border-color: var(--blue); transform: scale(1.05); }
+.theme-btn:active { transform: scale(0.95); }
+.theme-btn .icon {
+  display: inline-block;
+  transition: transform .4s cubic-bezier(.34,1.56,.64,1), opacity .3s;
+}
+.theme-btn.switching .icon {
+  transform: rotate(180deg) scale(0);
+  opacity: 0;
+}
+
+/* ── Game hover tooltip ───────────────────────────────────── */
+.game-row { position: relative; }
+.game-tooltip {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0;
+  transform: scale(0.92) translateY(6px);
+  transition: opacity .18s ease, transform .18s ease;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 16px 48px rgba(0,0,0,0.6);
+  border: 1px solid var(--border);
+  width: 300px;
+}
+.game-tooltip.visible {
+  opacity: 1;
+  transform: scale(1) translateY(0);
+}
+.game-tooltip img { width: 100%; display: block; }
+
+/* ── Tab fade transition ──────────────────────────────────── */
+.tab-fade {
+  animation: tabFadeIn .25s ease;
+}
+@keyframes tabFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Charts ───────────────────────────────────────────────── */
+@keyframes barGrow {
+  from { transform: scaleY(0); }
+  to   { transform: scaleY(1); }
+}

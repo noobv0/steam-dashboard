@@ -1,14 +1,50 @@
 // src/components/Biblioteca.jsx
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useRef, useEffect } from 'react';
 
 const PAGE_SIZE = 50;
 
+function GameTooltip({ game, pos }) {
+  if (!game) return null;
+  const headerImg = `https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appid}/header.jpg`;
+  const style = {
+    position: 'fixed',
+    left: pos.x + 16,
+    top: pos.y - 60,
+    zIndex: 9999,
+    pointerEvents: 'none',
+    width: 300,
+    borderRadius: 10,
+    overflow: 'hidden',
+    boxShadow: '0 16px 48px rgba(0,0,0,0.6)',
+    border: '1px solid var(--border)',
+    background: 'var(--surface)',
+    opacity: 1,
+    transform: 'scale(1)',
+    transition: 'opacity .15s ease, transform .15s ease',
+  };
+  return (
+    <div style={style}>
+      <img src={headerImg} style={{ width:'100%', display:'block', height:140, objectFit:'cover' }}
+        onError={e=>{ e.target.style.display='none'; }} />
+      <div style={{ padding:'10px 14px' }}>
+        <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:15, fontWeight:700, marginBottom:4 }}>{game.name}</div>
+        <div style={{ display:'flex', gap:16, fontSize:12, color:'var(--muted)' }}>
+          <span>⏱ {game.totalHours.toFixed(1)}h</span>
+          {game.price && <span>💰 {game.price}</span>}
+          <span>👥 {game.owners.length === 1 ? `só ${game.owners[0]}` : game.owners.join(', ')}</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function Biblioteca({ allGames }) {
-  const [search, setSearch] = useState('');
-  const [filter, setFilter] = useState('all');
+  const [search, setSearch]   = useState('');
+  const [filter, setFilter]   = useState('all');
   const [sortKey, setSortKey] = useState('hours');
   const [sortAsc, setSortAsc] = useState(false);
-  const [page, setPage] = useState(1);
+  const [page, setPage]       = useState(1);
+  const [hovered, setHovered] = useState(null); // { game, x, y }
 
   const games = useMemo(() => {
     let list = Object.values(allGames);
@@ -17,7 +53,7 @@ export default function Biblioteca({ allGames }) {
     if (filter === 'unique') list = list.filter(g => g.owners.length === 1);
     if (filter === 'shared') list = list.filter(g => g.owners.length > 1);
     list.sort((a, b) => {
-      if (sortKey === 'name') return sortAsc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name);
+      if (sortKey === 'name')   return sortAsc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name);
       if (sortKey === 'owners') return sortAsc ? a.owners.length - b.owners.length : b.owners.length - a.owners.length;
       return sortAsc ? a.totalHours - b.totalHours : b.totalHours - a.totalHours;
     });
@@ -26,18 +62,20 @@ export default function Biblioteca({ allGames }) {
 
   const pages = Math.ceil(games.length / PAGE_SIZE);
   const slice = games.slice((page-1)*PAGE_SIZE, page*PAGE_SIZE);
-
   const sort = key => { if (sortKey===key) setSortAsc(p=>!p); else { setSortKey(key); setSortAsc(false); } setPage(1); };
+
   const filterBtn = (f, label) => (
     <button onClick={()=>{setFilter(f);setPage(1);}} style={{ background: filter===f?'rgba(79,172,254,0.08)':'var(--surface)', border:`1px solid ${filter===f?'var(--blue)':'var(--border)'}`, borderRadius:8, padding:'10px 16px', color: filter===f?'var(--blue)':'var(--muted)', fontFamily:'Rajdhani,sans-serif', fontSize:13, fontWeight:600, letterSpacing:1, cursor:'pointer', whiteSpace:'nowrap' }}>{label}</button>
   );
-
   const thStyle = (k) => ({ textAlign:'left', padding:'10px 14px', fontFamily:'Rajdhani,sans-serif', fontSize:12, fontWeight:600, letterSpacing:'1.5px', textTransform:'uppercase', color: sortKey===k?'var(--blue)':'var(--muted)', borderBottom:'1px solid var(--border)', cursor:'pointer', whiteSpace:'nowrap', userSelect:'none' });
 
   return (
     <div style={{ animation:'fadeUp .3s ease' }}>
+      {hovered && <GameTooltip game={hovered.game} pos={hovered} />}
+
       <div style={{ display:'flex', gap:12, marginBottom:20, alignItems:'center', flexWrap:'wrap' }}>
-        <input value={search} onChange={e=>{setSearch(e.target.value);setPage(1);}} placeholder="Buscar jogo..." style={{ flex:1, minWidth:200, background:'var(--bg2)', border:'1px solid var(--border)', borderRadius:8, padding:'10px 14px', color:'var(--text)', fontFamily:'JetBrains Mono,monospace', fontSize:13, outline:'none' }} />
+        <input value={search} onChange={e=>{setSearch(e.target.value);setPage(1);}} placeholder="Buscar jogo..."
+          style={{ flex:1, minWidth:200, background:'var(--bg2)', border:'1px solid var(--border)', borderRadius:8, padding:'10px 14px', color:'var(--text)', fontFamily:'JetBrains Mono,monospace', fontSize:13, outline:'none' }} />
         {filterBtn('all','Todos')}
         {filterBtn('shared','Compartilhados')}
         {filterBtn('unique','Únicos')}
@@ -64,7 +102,12 @@ export default function Biblioteca({ allGames }) {
               const idx = (page-1)*PAGE_SIZE+i+1;
               const isUnique = g.owners.length === 1;
               return (
-                <tr key={g.appid} style={{ borderBottom:'1px solid rgba(30,45,74,0.5)' }}>
+                <tr key={g.appid}
+                  style={{ borderBottom:'1px solid rgba(30,45,74,0.5)', cursor:'default', transition:'background .15s' }}
+                  onMouseEnter={e => setHovered({ game: g, x: e.clientX, y: e.clientY })}
+                  onMouseMove={e  => setHovered(h => h ? { ...h, x: e.clientX, y: e.clientY } : null)}
+                  onMouseLeave={() => setHovered(null)}
+                >
                   <td style={{ padding:'10px 14px', color:'var(--muted)', fontSize:12, verticalAlign:'middle' }}>{idx}</td>
                   <td style={{ padding:'10px 14px', verticalAlign:'middle', overflow:'hidden' }}>
                     <div style={{ display:'flex', alignItems:'center', gap:10 }}>
@@ -91,7 +134,6 @@ export default function Biblioteca({ allGames }) {
         </table>
       </div>
 
-      {/* Pagination */}
       {pages > 1 && (
         <div style={{ display:'flex', gap:8, justifyContent:'center', marginTop:20, flexWrap:'wrap' }}>
           {Array.from({length:Math.min(pages,10)},(_,i)=>i+1).map(p=>(
