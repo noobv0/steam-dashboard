@@ -1,19 +1,18 @@
 // src/components/VisaoGeral.jsx
 import { useState, useEffect, useRef } from 'react';
 
-const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#f0e442','#e84393'];
+const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#ffffff','#e84393'];
 
 function formatCurrency(value) {
   return new Intl.NumberFormat('pt-BR', { style:'currency', currency:'BRL' }).format(value / 100);
 }
 
 function StatCard({ label, value }) {
-  const isLong = String(value).length > 10;
   return (
-    <div style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'18px 20px', display:'flex', flexDirection:'column', justifyContent:'space-between', minHeight:88 }}>
+    <div style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'18px 20px', display:'flex', flexDirection:'column', justifyContent:'space-between', height:88 }}>
       <div style={{ fontSize:11, textTransform:'uppercase', letterSpacing:1, color:'var(--muted)', marginBottom:6 }}>{label}</div>
-      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize: isLong ? 18 : 28, fontWeight:700, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', lineHeight:1.1, wordBreak:'break-word' }}>
-        {value}
+      <div style={{ fontFamily:'Rajdhani,sans-serif', fontWeight:700, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', lineHeight:1, overflow:'hidden', display:'flex', alignItems:'flex-end' }}>
+        <span style={{ fontSize:'clamp(16px, 2.2vw, 28px)', whiteSpace:'nowrap', overflow:'hidden', textOverflow:'ellipsis', maxWidth:'100%' }}>{value}</span>
       </div>
     </div>
   );
