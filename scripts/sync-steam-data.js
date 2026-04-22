@@ -32,15 +32,15 @@ async function fetchWithRetry(url, maxRetries = 3) {
     try {
       const res = await fetch(url);
       if (res.status === 429) {
-        console.log(`Rate limited, aguardando ${2000 * (i + 1)}ms...`);
-        await sleep(2000 * (i + 1));
+        console.log(`Rate limited (429), aguardando ${5000 * (i + 1)}ms...`);
+        await sleep(5000 * (i + 1));
         continue;
       }
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res;
     } catch (e) {
       if (i === maxRetries - 1) throw e;
-      await sleep(1000 * (i + 1));
+      await sleep(2000 * (i + 1));
     }
   }
 }
@@ -60,10 +60,9 @@ async function getPlayerSummaries(steamids) {
   return data?.response?.players || [];
 }
 
-async function getAppDetails(appids) {
-  if (!appids.length) return {};
-  const ids = appids.join(',');
-  const url = `https://store.steampowered.com/api/appdetails?appids=${ids}&filters=categories,price_overview`;
+async function getAppDetails(appid) {
+  // Chamada individual é mais estável para evitar HTTP 400
+  const url = `https://store.steampowered.com/api/appdetails?appids=${appid}&filters=categories,price_overview&cc=br&l=portuguese`;
   const res = await fetchWithRetry(url);
   return res.json();
 }
@@ -124,7 +123,7 @@ async function syncSteamData() {
   }
 
   // 3. Buscar categorias e preços (priorizar jogos em comum)
-  console.log('\n💰 Buscando categorias e preços...');
+  console.log('\n💰 Buscando categorias e preços (isso pode demorar)...');
   const accountNames = Object.keys(newData);
   const allAppids = Object.values(newGames)
     .sort((a, b) => {
@@ -134,32 +133,35 @@ async function syncSteamData() {
       if (!aCommon && bCommon) return 1;
       return b.totalHours - a.totalHours;
     })
-    .slice(0, 400)
+    .slice(0, 400) // Limite de 400 jogos para não demorar horas
     .map(g => g.appid);
 
   let successCount = 0;
-  for (let i = 0; i < allAppids.length; i += 10) {
-    const batch = allAppids.slice(i, i + 10);
+  for (let i = 0; i < allAppids.length; i++) {
+    const appid = allAppids[i];
     try {
-      console.log(`  → Processando batch ${Math.floor(i / 10) + 1}/${Math.ceil(allAppids.length / 10)}...`);
-      const json = await getAppDetails(batch);
-      
-      for (const appid of batch) {
-        const d = json?.[appid];
-        if (d?.success && d.data && newGames[appid]) {
-          newGames[appid].categories = (d.data.categories || []).map(c => c.id);
-          newGames[appid].price = d.data.price_overview?.final_formatted || null;
-          newGames[appid].priceUSD = d.data.price_overview?.final || 0;
-          successCount++;
-        }
+      if (i % 10 === 0) {
+        console.log(`  → Processando jogo ${i + 1}/${allAppids.length}...`);
       }
-      await sleep(1000);
+      
+      const json = await getAppDetails(appid);
+      const d = json?.[appid];
+      
+      if (d?.success && d.data && newGames[appid]) {
+        newGames[appid].categories = (d.data.categories || []).map(c => c.id);
+        newGames[appid].price = d.data.price_overview?.final_formatted || null;
+        newGames[appid].priceUSD = d.data.price_overview?.final || 0;
+        successCount++;
+      }
+      
+      // Delay de 1.5s entre cada jogo para ser bem seguro contra rate limit
+      await sleep(1500);
     } catch (e) {
-      console.error(`  ✗ Erro no batch:`, e.message);
-      await sleep(2000);
+      console.error(`  ✗ Erro no appid ${appid}:`, e.message);
+      await sleep(3000); // Espera mais se der erro
     }
   }
-  console.log(`✓ ${successCount} jogos com dados de categoria/preço`);
+  console.log(`✓ ${successCount} jogos com dados de categoria/preço atualizados`);
 
   // 4. Salvar cache
   console.log('\n💾 Salvando cache...');
