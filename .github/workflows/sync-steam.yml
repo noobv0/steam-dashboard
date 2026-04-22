@@ -16,10 +16,15 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - run: npm run sync-steam
+            - run: npm run sync-steam
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: atualizar cache da Steam [skip ci]'
           file_pattern: 'src/data/steam_cache.json'
+
