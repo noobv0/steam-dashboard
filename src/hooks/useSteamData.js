@@ -1,36 +1,29 @@
 // src/hooks/useSteamData.js
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback } from 'react';
 import steamCache from '../data/steam_cache.json';
 
+// Inicializa direto com o cache — sem flash de tela vazia
+const initialData    = steamCache?.data    || {};
+const initialGames   = steamCache?.games   || {};
+const initialPlayers = steamCache?.players || {};
+
 export function useSteamData() {
-  const [phase, setPhase] = useState('done');
-  const [loadingStep, setLoadingStep] = useState(0);
-  const [loadingTotal, setLoadingTotal] = useState(0);
-  const [loadingLabel, setLoadingLabel] = useState('');
-  const [allData, setAllData] = useState({});
-  const [allGames, setAllGames] = useState({});
-  const [players, setPlayers] = useState({});
+  const [allData]   = useState(initialData);
+  const [allGames]  = useState(initialGames);
+  const [players]   = useState(initialPlayers);
 
-  // Carregar dados do cache na inicialização
-  useEffect(() => {
-    if (steamCache && steamCache.data) {
-      setAllData(steamCache.data);
-      setAllGames(steamCache.games);
-      setPlayers(steamCache.players);
-      setPhase('done');
-    }
-  }, []);
+  const load  = useCallback(async () => {}, []);
+  const reset = useCallback(() => {}, []);
 
-  const load = useCallback(async (accounts) => {
-    // Função load não é mais usada, pois os dados vêm do cache
-    // Mas mantemos por compatibilidade com a interface
-    setPhase('done');
-  }, []);
-
-  const reset = useCallback(() => {
-    setPhase('done');
-    // Os dados continuam carregados do cache
-  }, []);
-
-  return { phase, loadingStep, loadingTotal, loadingLabel, allData, allGames, players, load, reset };
+  return {
+    phase: 'done',
+    loadingStep: 0,
+    loadingTotal: 0,
+    loadingLabel: '',
+    allData,
+    allGames,
+    players,
+    load,
+    reset,
+  };
 }
