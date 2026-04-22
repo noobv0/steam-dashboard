@@ -1,7 +1,7 @@
 // src/components/VisaoGeral.jsx
 import { useState, useEffect, useRef } from 'react';
 
-const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#ffffff','#e84393'];
+const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#d97706','#e84393'];
 
 function formatCurrency(value) {
   return new Intl.NumberFormat('pt-BR', { style:'currency', currency:'BRL' }).format(value / 100);
