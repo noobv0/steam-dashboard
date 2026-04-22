@@ -13,7 +13,6 @@ export function useSteamData() {
 
   const load = useCallback(async (accounts) => {
     setPhase('loading');
-    // total steps: resolve + games per account + avatars + categories
     const totalSteps = accounts.length * 2 + 2;
     setLoadingTotal(totalSteps);
     setLoadingStep(0);
@@ -55,7 +54,6 @@ export function useSteamData() {
       } catch { newData[acc.name] = []; }
     }
 
-    // Avatares
     tick('avatares');
     try {
       const sids = Object.values(steamids);
@@ -68,7 +66,6 @@ export function useSteamData() {
       setPlayers(playerMap);
     } catch {}
 
-    // Categorias via nosso backend (sem CORS)
     tick('categorias');
     const accountNames = Object.keys(newData);
     const commonAppids = Object.values(newGames)
