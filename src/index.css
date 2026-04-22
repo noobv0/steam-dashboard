@@ -1,58 +1,108 @@
-/* src/index.css */
+/* ═══════════════════════════════════════════════════════════════
+   STEAMKIN — Design System
+   Dark:  Noite Estrelada  (azul-marinho + dourado)
+   Light: Carmim & Branco  (#A50034 / #FFFFFF / #F7C6C7)
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ── Dark: Noite Estrelada ───────────────────────────────────── */
 :root {
-  --bg: #090c14; --bg2: #0d1220; --bg3: #111827;
-  --surface: #141c2e; --surface2: #1a2540; --border: #1e2d4a;
-  --blue: #4facfe; --cyan: #00c8a8; --green: #a78bfa;
-  --yellow: #d97706; --orange: #f5a623; --pink: #e84393;
-  --text: #e2e8f0; --muted: #64748b;
-  --glow: 0 0 20px rgba(79,172,254,0.3);
-}
-[data-theme="light"] {
-  --bg: #f0f4f8; --bg2: #e2e8f0; --bg3: #cbd5e1;
-  --surface: #ffffff; --surface2: #f1f5f9; --border: #cbd5e1;
-  --blue: #2563eb; --cyan: #0891b2; --green: #7c3aed;
-  --yellow: #b45309; --orange: #c2610c; --pink: #be185d;
-  --text: #0f172a; --muted: #64748b;
-  --glow: 0 0 20px rgba(37,99,235,0.15);
+  --bg:      #05080f;
+  --bg2:     #080d1a;
+  --bg3:     #0d1526;
+  --surface: #0d1526;
+  --surface2:#111e35;
+  --border:  #1a2d50;
+
+  --blue:    #4facfe;   /* azul-elétrico   */
+  --cyan:    #f0b429;   /* dourado — cor principal dark */
+  --green:   #a78bfa;   /* violeta          */
+  --yellow:  #f0b429;   /* alias dourado    */
+  --orange:  #fb923c;   /* laranja-nebulosa */
+  --pink:    #f472b6;   /* rosa-cósmico     */
+  --text:    #e8eaf6;
+  --muted:   #4a6080;
+  --glow:    0 0 24px rgba(240,180,41,0.25);
+
+  /* gradiente do logo/acentos */
+  --grad: linear-gradient(90deg, #4facfe, #f0b429);
 }
 
-* { margin: 0; padding: 0; box-sizing: border-box; }
+/* ── Light: Carmim & Branco ─────────────────────────────────── */
+[data-theme="light"] {
+  --bg:      #ffffff;
+  --bg2:     #fff5f5;
+  --bg3:     #fce8e8;
+  --surface: #ffffff;
+  --surface2:#fff0f0;
+  --border:  #f7c6c7;
+
+  --blue:    #d50032;   /* carmim — cor principal light */
+  --cyan:    #a50034;   /* carmim-escuro                */
+  --green:   #7c3aed;   /* violeta (contrasta no branco)*/
+  --yellow:  #b45309;   /* âmbar-escuro                 */
+  --orange:  #c2410c;   /* laranja-escuro               */
+  --pink:    #be185d;   /* rosa-escuro                  */
+  --text:    #1a0008;
+  --muted:   #9e6070;
+  --glow:    0 0 24px rgba(213,0,50,0.15);
+
+  --grad: linear-gradient(90deg, #d50032, #a50034);
+}
+
+/* ── Reset & Base ───────────────────────────────────────────── */
+* { margin:0; padding:0; box-sizing:border-box; }
+
 body {
   font-family: 'Barlow', sans-serif;
   background: var(--bg);
   color: var(--text);
   min-height: 100vh;
   overflow-x: hidden;
-  transition: background .3s, color .3s;
   font-size: 16px;
 }
-table { font-size: 15px; }
-input, button { font-size: 15px; }
+
+/* ── Dark: grade de estrelas ────────────────────────────────── */
 body::before {
   content: '';
   position: fixed; inset: 0;
   background-image:
-    linear-gradient(rgba(79,172,254,0.03) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(79,172,254,0.03) 1px, transparent 1px);
-  background-size: 40px 40px;
+    radial-gradient(1px 1px at 15% 20%, rgba(240,180,41,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 72% 8%,  rgba(240,180,41,0.4) 0%, transparent 100%),
+    radial-gradient(1.5px 1.5px at 40% 55%, rgba(240,180,41,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 88% 35%, rgba(240,180,41,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 55% 80%, rgba(240,180,41,0.4) 0%, transparent 100%),
+    radial-gradient(1px 1px at 25% 70%, rgba(240,180,41,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 60% 15%, rgba(240,180,41,0.5) 0%, transparent 100%),
+    radial-gradient(1px 1px at 92% 65%, rgba(240,180,41,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 10% 90%, rgba(240,180,41,0.2) 0%, transparent 100%),
+    radial-gradient(1px 1px at 78% 88%, rgba(240,180,41,0.4) 0%, transparent 100%),
+    radial-gradient(2px 2px at 33% 40%, rgba(79,172,254,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 66% 50%, rgba(79,172,254,0.2) 0%, transparent 100%),
+    linear-gradient(rgba(13,21,38,0.0) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(13,21,38,0.0) 1px, transparent 1px);
+  background-size:
+    100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%,
+    100% 100%, 100% 100%, 100% 100%, 100% 100%, 100% 100%,
+    100% 100%, 100% 100%,
+    60px 60px, 60px 60px;
   pointer-events: none; z-index: 0;
 }
+
+/* ── Light: padrão sutil vermelho ───────────────────────────── */
 [data-theme="light"] body::before {
   background-image:
-    linear-gradient(rgba(37,99,235,0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(37,99,235,0.04) 1px, transparent 1px);
+    linear-gradient(rgba(213,0,50,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(213,0,50,0.03) 1px, transparent 1px);
+  background-size: 40px 40px;
 }
 
-@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.4} }
-@keyframes spin { to{transform:rotate(360deg)} }
-@keyframes fadeUp { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:none} }
-
-/* ── Theme transition overlay ─────────────────────────────── */
+/* ── Theme transition ───────────────────────────────────────── */
 .theme-transitioning * {
-  transition: background-color .4s ease, color .4s ease, border-color .4s ease, box-shadow .4s ease !important;
+  transition: background-color .4s ease, color .4s ease,
+              border-color .4s ease, box-shadow .4s ease !important;
 }
 
-/* ── Theme toggle button ──────────────────────────────────── */
+/* ── Theme toggle button ────────────────────────────────────── */
 .theme-btn {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -64,51 +114,28 @@ body::before {
   color: var(--text);
   position: relative;
   overflow: hidden;
-  transition: border-color .2s, transform .1s;
+  transition: border-color .2s, transform .15s;
 }
-.theme-btn:hover { border-color: var(--blue); transform: scale(1.05); }
-.theme-btn:active { transform: scale(0.95); }
-.theme-btn .icon {
-  display: inline-block;
-  transition: transform .4s cubic-bezier(.34,1.56,.64,1), opacity .3s;
-}
-.theme-btn.switching .icon {
-  transform: rotate(180deg) scale(0);
-  opacity: 0;
-}
+.theme-btn:hover  { border-color: var(--cyan); transform: scale(1.06); }
+.theme-btn:active { transform: scale(0.94); }
+.theme-btn .icon  { display:inline-block; transition: transform .4s cubic-bezier(.34,1.56,.64,1), opacity .3s; }
+.theme-btn.switching .icon { transform: rotate(180deg) scale(0); opacity: 0; }
 
-/* ── Game hover tooltip ───────────────────────────────────── */
-.game-row { position: relative; }
-.game-tooltip {
-  position: fixed;
-  z-index: 9999;
-  pointer-events: none;
-  opacity: 0;
-  transform: scale(0.92) translateY(6px);
-  transition: opacity .18s ease, transform .18s ease;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 16px 48px rgba(0,0,0,0.6);
-  border: 1px solid var(--border);
-  width: 300px;
-}
-.game-tooltip.visible {
-  opacity: 1;
-  transform: scale(1) translateY(0);
-}
-.game-tooltip img { width: 100%; display: block; }
-
-/* ── Tab fade transition ──────────────────────────────────── */
-.tab-fade {
-  animation: tabFadeIn .25s ease;
-}
+/* ── Tab fade ───────────────────────────────────────────────── */
+.tab-fade { animation: tabFadeIn .25s ease; }
 @keyframes tabFadeIn {
-  from { opacity: 0; transform: translateY(8px); }
-  to   { opacity: 1; transform: translateY(0); }
+  from { opacity:0; transform:translateY(8px); }
+  to   { opacity:1; transform:translateY(0);   }
 }
 
-/* ── Charts ───────────────────────────────────────────────── */
-@keyframes barGrow {
-  from { transform: scaleY(0); }
-  to   { transform: scaleY(1); }
-}
+/* ── Scrollbar ──────────────────────────────────────────────── */
+::-webkit-scrollbar { width:6px; height:6px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius:4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cyan); }
+
+/* ── Keyframes ──────────────────────────────────────────────── */
+@keyframes pulse   { 0%,100%{opacity:1} 50%{opacity:.4} }
+@keyframes spin    { to{transform:rotate(360deg)} }
+@keyframes fadeUp  { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:none} }
+@keyframes twinkle { 0%,100%{opacity:.3} 50%{opacity:1} }
