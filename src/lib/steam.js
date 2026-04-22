@@ -37,10 +37,15 @@ export async function getPlayerSummaries(steamids) {
   return data?.response?.players || [];
 }
 
-// Busca categorias via nosso backend (evita CORS da Steam Store)
+// Busca tags/categorias de um app via Steam Store API
+// (não precisa de API key, mas chamamos via proxy do nosso backend pra evitar CORS)
 export async function getAppDetails(appids) {
-  const ids = Array.isArray(appids) ? appids.join(',') : appids;
-  return steamFetch('store/appdetails', { appids: ids });
+  // appids: array de números
+  // Steam Store API: /api/appdetails?appids=...
+  const ids = appids.join(',');
+  const res = await fetch(`https://store.steampowered.com/api/appdetails?appids=${ids}&filters=categories`);
+  if (!res.ok) return {};
+  return res.json();
 }
 
 // Categorias relevantes da Steam (IDs oficiais)

@@ -93,7 +93,7 @@ async function syncSteamData() {
             img: `https://cdn.cloudflare.steamstatic.com/steam/apps/${g.appid}/capsule_sm_120.jpg`,
             categories: [],
             price: null,
-            priceBRL: 0,
+            priceUSD: 0,
           };
         }
         newGames[g.appid].totalHours += (g.playtime_forever || 0) / 60;
@@ -150,7 +150,7 @@ async function syncSteamData() {
       if (d?.success && d.data && newGames[appid]) {
         newGames[appid].categories = (d.data.categories || []).map(c => c.id);
         newGames[appid].price = d.data.price_overview?.final_formatted || null;
-        newGames[appid].priceBRL = d.data.price_overview?.final || 0;
+        newGames[appid].priceUSD = d.data.price_overview?.final || 0;
         successCount++;
       }
       

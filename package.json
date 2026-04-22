@@ -6,8 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "sync-steam": "node scripts/sync-steam-data.js",
-    "sync": "node scripts/sync-steam-data.js"
+    "sync-steam": "node --experimental-modules scripts/sync-steam-data.js"
   },
   "type": "module",
   "dependencies": {
