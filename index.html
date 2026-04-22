@@ -7,22 +7,30 @@
 <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #090c14;
-    --bg2: #0d1220;
-    --bg3: #111827;
-    --surface: #141c2e;
-    --surface2: #1a2540;
-    --border: #1e2d4a;
-    --blue: #4facfe;
-    --cyan: #00f5d4;
-    --green: #39ff14;
-    --yellow: #ffd60a;
-    --orange: #ff6b35;
-    --pink: #ff2d78;
-    --text: #e2e8f0;
-    --muted: #64748b;
+    --bg: #090c14; --bg2: #0d1220; --bg3: #111827;
+    --surface: #141c2e; --surface2: #1a2540; --border: #1e2d4a;
+    --blue: #4facfe; --cyan: #00c8a8; --green: #39ff14;
+    --yellow: #ffd60a; --orange: #ff6b35; --pink: #ff2d78;
+    --text: #e2e8f0; --muted: #64748b;
     --glow: 0 0 20px rgba(79,172,254,0.3);
   }
+  [data-theme="light"] {
+    --bg: #f0f4f8; --bg2: #e2e8f0; --bg3: #cbd5e1;
+    --surface: #ffffff; --surface2: #f1f5f9; --border: #cbd5e1;
+    --blue: #2563eb; --cyan: #0891b2; --green: #16a34a;
+    --yellow: #ca8a04; --orange: #ea580c; --pink: #db2777;
+    --text: #0f172a; --muted: #64748b;
+    --glow: 0 0 20px rgba(37,99,235,0.15);
+  }
+  [data-theme="light"] body::before {
+    background-image: linear-gradient(rgba(37,99,235,0.04) 1px,transparent 1px),linear-gradient(90deg,rgba(37,99,235,0.04) 1px,transparent 1px);
+  }
+  .theme-toggle {
+    background:var(--surface); border:1px solid var(--border);
+    border-radius:8px; padding:7px 12px; cursor:pointer;
+    font-size:16px; transition:.2s; line-height:1; color:var(--text);
+  }
+  .theme-toggle:hover { border-color:var(--blue); }
   * { margin:0; padding:0; box-sizing:border-box; }
   body {
     font-family: 'Barlow', sans-serif;
@@ -413,6 +421,7 @@
         <span class="status-dot" id="status-dot"></span>
         <span id="status-text">Aguardando configuração</span>
       </div>
+      <button class="theme-toggle" onclick="toggleTheme()" title="Alternar tema">🌙</button>
       <button class="btn-reset" id="btn-reset" style="display:none" onclick="resetDashboard()">⟵ Reconfigurar</button>
     </div>
   </div>
@@ -423,7 +432,7 @@
   <div class="container">
     <div class="setup-card">
       <div class="setup-title">⚙ CONFIGURAÇÃO</div>
-      <div class="setup-sub">Insira sua API Key e os SteamIDs das contas que deseja analisar.</div>
+      <div class="setup-sub">Insira sua API Key e os perfis Steam (URL do perfil ou SteamID64).</div>
 
       <div class="error-box" id="error-box"></div>
 
@@ -434,32 +443,32 @@
       <div class="accounts-grid" id="accounts-grid">
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Lírio">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198158302059">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561198158302059">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Kiri">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199011715965">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561199011715965">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Dudu">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198833523657">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561198833523657">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Bambo">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199148095723">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561199148095723">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Nino">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561198394798327">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561198394798327">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
         <div class="account-row">
           <input type="text" placeholder="Apelido" class="acc-name" value="Carrot">
-          <input type="text" placeholder="SteamID64" class="acc-id" value="76561199001083134">
+          <input type="text" placeholder="URL ou SteamID64" class="acc-id" value="76561199001083134">
           <button class="btn-remove" onclick="removeRow(this)">✕</button>
         </div>
       </div>
@@ -489,7 +498,6 @@
       <button class="tab" onclick="switchTab('biblioteca')">Biblioteca</button>
       <button class="tab" onclick="switchTab('em-comum')">Em Comum</button>
       <button class="tab" onclick="switchTab('unicos')">Únicos</button>
-      <button class="tab" onclick="switchTab('conquistas')">Conquistas</button>
     </div>
 
     <!-- VISÃO GERAL -->
@@ -547,13 +555,7 @@
       <div id="unicos-content"></div>
     </div>
 
-    <!-- CONQUISTAS -->
-    <div class="tab-content" id="tab-conquistas">
-      <div style="background:rgba(79,172,254,0.07);border:1px solid rgba(79,172,254,0.2);border-radius:8px;padding:14px 18px;margin-bottom:24px;font-size:13px;color:var(--muted);">
-        ℹ️ A API de conquistas retorna dados por jogo específico. Abaixo aparecem os jogos com mais horas jogadas — clique em <b style="color:var(--blue)">Ver Conquistas</b> para buscar os dados daquele jogo.
-      </div>
-      <div id="conquistas-list"></div>
-    </div>
+
 
   </div>
 </div>
@@ -576,7 +578,7 @@ function addRow() {
   row.className = 'account-row';
   row.innerHTML = `
     <input type="text" placeholder="Apelido" class="acc-name">
-    <input type="text" placeholder="SteamID64" class="acc-id">
+    <input type="text" placeholder="URL ou SteamID64" class="acc-id">
     <button class="btn-remove" onclick="removeRow(this)">✕</button>`;
   grid.appendChild(row);
 }
@@ -615,6 +617,26 @@ async function loadData() {
 
   allData = {}; allGames = {};
 
+  // Resolve vanity URL or steam link to SteamID64
+  async function resolveId(input) {
+    input = input.trim();
+    // Already a 64-bit ID
+    if (/^7656119\d{10}$/.test(input)) return input;
+    // Extract vanity from URL: steamcommunity.com/id/VANITY or /profiles/ID
+    let vanity = input;
+    const mProfile = input.match(/\/profiles\/(\d+)/);
+    if (mProfile) return mProfile[1];
+    const mId = input.match(/\/id\/([^\/\?]+)/);
+    if (mId) vanity = mId[1];
+    // Strip trailing slash/spaces
+    vanity = vanity.replace(/\/$/, '').trim();
+    // Call ResolveVanityURL
+    const resolveUrl = `https://api.steampowered.com/ISteamWebAPIUtil/ResolveVanityURL/v1/?key=${API_KEY}&vanityurl=${encodeURIComponent(vanity)}&format=json`;
+    const data = await fetchWithFallback(resolveUrl);
+    if (data?.response?.success === 1) return data.response.steamid;
+    return null;
+  }
+
   const PROXIES = [
     url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
     url => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
@@ -649,9 +671,13 @@ async function loadData() {
   }
 
   for (const acc of accounts) {
+    setLoader(`Resolvendo ${acc.name}...`);
+    let steamid64 = await resolveId(acc.id);
+    if (!steamid64) { console.warn(`Não foi possível resolver ${acc.name}`); allData[acc.name]=[]; continue; }
+    window._steamids[acc.name] = steamid64;
     setLoader(`Carregando biblioteca de ${acc.name}...`);
     try {
-      const url = `https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key=${API_KEY}&steamid=${acc.id}&include_appinfo=1&include_played_free_games=1&skip_unvetted_apps=false&format=json`;
+      const url = `https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/?key=${API_KEY}&steamid=${steamid64}&include_appinfo=1&include_played_free_games=1&skip_unvetted_apps=false&format=json`;
 
       const data = await fetchWithFallback(url);
       const games = data?.response?.games || [];
@@ -693,7 +719,6 @@ function buildDashboard() {
   renderBiblioteca();
   buildEmComum();
   buildUnicos();
-  buildConquistas();
 }
 
 function buildStatsBar() {
@@ -719,8 +744,23 @@ function buildStatsBar() {
 function buildVisaoGeral() {
   const names = Object.keys(allData);
 
+  // Fetch avatars
+  const colors = ['#4facfe','#00c8a8','#39ff14','#ffd60a','#ff6b35','#ff2d78'];
+  names.forEach(name => {
+    const sid = window._steamids?.[name];
+    if (!sid) return;
+    const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(`https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/?key=${API_KEY}&steamids=${sid}&format=json`)}`;
+    fetch(proxyUrl).then(r=>r.json()).then(d=>{
+      const player = d?.response?.players?.[0];
+      if (!player) return;
+      const avatarEl = document.getElementById('avatar-'+name.replace(/\W/g,'_'));
+      if (avatarEl) {
+        avatarEl.innerHTML = `<img src="${player.avatarfull}" style="width:100%;height:100%;object-fit:cover;border-radius:6px">`;
+      }
+    }).catch(()=>{});
+  });
+
   // Account cards
-  const colors = ['#4facfe','#00f5d4','#39ff14','#ffd60a','#ff6b35','#ff2d78'];
   document.getElementById('accounts-display').innerHTML = names.map((name,i) => {
     const games = allData[name];
     const hours = Math.round(games.reduce((s,g)=>s+g.playtime_forever/60,0));
@@ -728,7 +768,7 @@ function buildVisaoGeral() {
     const initials = name.slice(0,2).toUpperCase();
     return `
       <div class="account-card">
-        <div class="account-avatar">
+        <div class="account-avatar" id="avatar-${name.replace(/\W/g,'_')}">
           <div class="account-avatar-placeholder" style="color:${colors[i%colors.length]}">${initials}</div>
         </div>
         <div class="account-card-name">${name}</div>
@@ -819,7 +859,7 @@ function renderBiblioteca() {
     return `<tr>
       <td style="color:var(--muted);font-size:12px">${idx}</td>
       <td><div style="display:flex;align-items:center;gap:10px">${img}<span>${g.name}</span></div></td>
-      <td><div class="owner-badges">${badge}<span style="font-size:12px;color:var(--muted)">${ownerList}</span></div></td>
+      <td><div class="owner-badges">${badge}<span style="font-size:12px;color:var(--muted);margin-left:4px">${ownerList}</span></div></td>
       <td style="font-family:'JetBrains Mono',monospace;color:var(--cyan)">${hrs}h</td>
     </tr>`;
   }).join('');
@@ -909,81 +949,9 @@ function expandCommon(btn) {
   btn.remove();
 }
 
-// ─── Conquistas ───────────────────────────────────────────────────────────────
-function buildConquistas() {
-  const names = Object.keys(allData);
-  // Top 5 most played games per account
-  let html = '';
-  for (const name of names) {
-    const top = [...allData[name]].sort((a,b)=>b.playtime_forever-a.playtime_forever).slice(0,5);
-    html+=`<div style="margin-bottom:28px">
-      <div class="section-title">${name} — Top jogos</div>
-      <div class="achiev-grid">
-        ${top.map(g=>`
-          <div class="achiev-card" id="ac-${name.replace(/\s/g,'_')}-${g.appid}">
-            <div class="achiev-header">
-              <div class="achiev-icon">🎮</div>
-              <div>
-                <div class="achiev-account">${g.name||'Jogo '+g.appid}</div>
-                <div class="achiev-game">${(g.playtime_forever/60).toFixed(0)}h jogadas</div>
-              </div>
-            </div>
-            <button onclick="loadAchievements('${name}','${g.appid}','${name.replace(/\s/g,'_')}-${g.appid}')"
-              style="background:rgba(79,172,254,0.1);border:1px solid rgba(79,172,254,0.3);border-radius:6px;
-              padding:7px 14px;color:var(--blue);font-size:12px;cursor:pointer;width:100%">
-              Ver Conquistas
-            </button>
-          </div>`).join('')}
-      </div>
-    </div>`;
-  }
-  document.getElementById('conquistas-list').innerHTML = html;
-}
 
-async function loadAchievements(accountName, appid, cardId) {
-  const names = Object.keys(allData);
-  const acc = names.find(n=>n===accountName);
-  // find steamid — we stored by name, need id
-  // Re-read from DOM (stored during setup)
-  const rows = []; // fallback: use allData index
-  const steamid = window._steamids?.[accountName];
-  if (!steamid) {
-    const card = document.getElementById('ac-'+cardId);
-    card.innerHTML += `<div style="color:var(--muted);font-size:12px;margin-top:8px">SteamID não disponível. Recarregue a página.</div>`;
-    return;
-  }
 
-  const url = `https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v1/?key=${API_KEY}&steamid=${steamid}&appid=${appid}&format=json`;
 
-  const card = document.getElementById('ac-'+cardId);
-  card.querySelector('button').textContent = 'Carregando...';
-
-  try {
-    const data = await fetchWithFallback(url);
-
-    const achievements = data.playerstats?.achievements || [];
-    if (!achievements.length) {
-      card.querySelector('button').textContent = 'Sem conquistas';
-      return;
-    }
-    const total = achievements.length;
-    const done = achievements.filter(a=>a.achieved).length;
-    const pct = Math.round((done/total)*100);
-
-    card.innerHTML = card.innerHTML.replace(/<button[\s\S]*<\/button>/,'');
-    card.innerHTML += `
-      <div style="margin-top:8px">
-        <div style="display:flex;justify-content:space-between;margin-bottom:4px">
-          <span style="font-size:12px;color:var(--muted)">${done}/${total} conquistas</span>
-          <span class="achiev-pct">${pct}%</span>
-        </div>
-        <div class="achiev-bar-wrap"><div class="achiev-bar" style="width:${pct}%"></div></div>
-      </div>`;
-  } catch(e) {
-    card.querySelector('button').textContent = 'Erro ao carregar';
-    console.error(e);
-  }
-}
 
 // ─── Tabs ─────────────────────────────────────────────────────────────────────
 function switchTab(id) {
@@ -1001,6 +969,14 @@ function resetDashboard() {
   document.getElementById('status-dot').classList.remove('live');
   document.getElementById('status-text').textContent='Aguardando configuração';
   allData={}; allGames={};
+}
+
+// ─── Theme ────────────────────────────────────────────────────────────────────
+function toggleTheme() {
+  const html = document.documentElement;
+  const isLight = html.getAttribute('data-theme') === 'light';
+  html.setAttribute('data-theme', isLight ? 'dark' : 'light');
+  document.querySelector('.theme-toggle').textContent = isLight ? '🌙' : '☀️';
 }
 
 // Store steamids for achievement lookup
