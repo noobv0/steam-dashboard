@@ -1,14 +1,24 @@
 // src/components/VisaoGeral.jsx
 import { useState, useEffect, useRef } from 'react';
 
-// Paleta Noite Estrelada (dark) — azul, dourado, violeta, ciano, laranja-nebulosa, rosa
-const COLORS_DARK  = ['#4facfe','#f0b429','#a78bfa','#38bdf8','#fb923c','#f472b6'];
-// Paleta Carmim (light) — carmim, bordô, rosa-carmim, roxo, azul-royal, coral
-const COLORS_LIGHT = ['#d50032','#a50034','#f06292','#7c3aed','#1d4ed8','#f97316'];
+// Paleta Noite Estrelada (dark) — azul, dourado, violeta, laranja, ciano, rosa
+const COLORS_DARK  = ['#4facfe','#f0b429','#a78bfa','#fb923c','#38bdf8','#f472b6'];
+// Paleta Carmim (light) — carmim, azul-royal, verde-floresta, roxo, laranja-torrado, rosa-escuro
+const COLORS_LIGHT = ['#c8001e','#1d4ed8','#166534','#7c3aed','#c2410c','#9d174d'];
 
-function getColors() {
-  const isLight = document.documentElement.getAttribute('data-theme') === 'light';
-  return isLight ? COLORS_LIGHT : COLORS_DARK;
+function useThemeColors() {
+  const [colors, setColors] = useState(
+    document.documentElement.getAttribute('data-theme') === 'light' ? COLORS_LIGHT : COLORS_DARK
+  );
+  useEffect(() => {
+    const obs = new MutationObserver(() => {
+      const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+      setColors(isLight ? COLORS_LIGHT : COLORS_DARK);
+    });
+    obs.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+    return () => obs.disconnect();
+  }, []);
+  return colors;
 }
 
 function formatCurrency(value) {
@@ -47,6 +57,7 @@ function RankItem({ rank, name, value, max, label, avatar }) {
 // ── Gráfico de barras de horas por pessoa ─────────────────────────────────────
 
 function HoursChart({ allData, allGames, players }) {
+  const colors = useThemeColors();
   const names = Object.keys(allData);
   const [animated, setAnimated] = useState(false);
   const ref = useRef();
@@ -60,7 +71,7 @@ function HoursChart({ allData, allGames, players }) {
   const data = names.map((name, i) => {
     const hours = Math.round(allData[name].reduce((s,g)=>s+g.playtime_forever/60,0));
     const games = allData[name].length;
-    return { name, hours, games, color: getColors()[i % 6], avatar: players[name]?.avatarmedium };
+    return { name, hours, games, color: colors[i % 6], avatar: players[name]?.avatarmedium };
   });
   const maxH = Math.max(...data.map(d => d.hours));
 
@@ -93,6 +104,7 @@ function HoursChart({ allData, allGames, players }) {
 
 // ── Comparador entre 2 pessoas ────────────────────────────────────────────────
 function Comparador({ allData, allGames, players }) {
+  const colors = useThemeColors();
   const names = Object.keys(allData);
   const [a, setA] = useState(names[0] || '');
   const [b, setB] = useState(names[1] || '');
@@ -138,7 +150,7 @@ function Comparador({ allData, allGames, players }) {
             {/* A */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[a]?.avatarmedium && <img src={players[a].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(a) % 6], marginBottom:12 }}>{a}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: colors[names.indexOf(a) % 6], marginBottom:12 }}>{a}</div>
               {[['Jogos', allData[a]?.length || 0],['Horas', `${hoursA.toLocaleString()}h`],['Exclusivos', onlyA]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -154,7 +166,7 @@ function Comparador({ allData, allGames, players }) {
             {/* B */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[b]?.avatarmedium && <img src={players[b].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(b) % 6], marginBottom:12 }}>{b}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: colors[names.indexOf(b) % 6], marginBottom:12 }}>{b}</div>
               {[['Jogos', allData[b]?.length || 0],['Horas', `${hoursB.toLocaleString()}h`],['Exclusivos', onlyB]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -176,8 +188,8 @@ function Comparador({ allData, allGames, players }) {
                   const hB = (allData[b]?.find(x=>x.appid===g.appid)?.playtime_forever||0)/60;
                   const total = hA + hB || 1;
                   const pctA = (hA / total) * 100;
-                  const colorA = getColors()[names.indexOf(a) % 6];
-                  const colorB = getColors()[names.indexOf(b) % 6];
+                  const colorA = colors[names.indexOf(a) % 6];
+                  const colorB = colors[names.indexOf(b) % 6];
                   const winner = hA > hB ? a : hB > hA ? b : null;
                   return (
                     <div key={g.appid} style={{ background:'var(--bg2)', borderRadius:8, padding:'10px 14px' }}>
@@ -205,6 +217,7 @@ function Comparador({ allData, allGames, players }) {
 
 // ── Hall da Fama ──────────────────────────────────────────────────────────────
 function HallDaFama({ allData, allGames, players }) {
+  const colors = useThemeColors();
   const names = Object.keys(allData);
 
   const records = [
@@ -257,7 +270,7 @@ function HallDaFama({ allData, allGames, players }) {
       <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(220px,1fr))', gap:12 }}>
         {records.map((r, i) => {
           const w = r.winner;
-          const color = w ? getColors()[names.indexOf(w) % 6] : '#ffd60a';
+          const color = w ? colors[names.indexOf(w) % 6] : '#ffd60a';
           const p = w ? players[w] : null;
           return (
             <div key={i} style={{ background:'var(--bg2)', borderRadius:10, padding:16, border:`1px solid ${color}33`, position:'relative', overflow:'hidden' }}>
@@ -288,6 +301,7 @@ function HallDaFama({ allData, allGames, players }) {
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 export default function VisaoGeral({ allData, allGames, players }) {
+  const colors = useThemeColors();
   const names = Object.keys(allData);
 
   const totalGamesUniq = Object.keys(allGames).length;
@@ -328,7 +342,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
           const uniq = games.filter(g=>allGames[g.appid]?.owners.length===1).length;
           const accountValue = games.reduce((s,g)=>s+(allGames[g.appid]?.priceBRL||allGames[g.appid]?.priceUSD||0),0);
           const p = players[name];
-          const color = getColors()[i % 6];
+          const color = colors[i % 6];
           return (
             <div key={name} style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:12, padding:20, position:'relative', overflow:'hidden', transition:'transform .2s, box-shadow .2s' }}
               onMouseEnter={e=>{e.currentTarget.style.transform='translateY(-2px)';e.currentTarget.style.boxShadow=`0 8px 32px ${color}22`;}}
