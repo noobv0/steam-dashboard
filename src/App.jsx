@@ -1,8 +1,6 @@
 // src/App.jsx
 import { useState, useEffect } from 'react';
 import { useSteamData } from './hooks/useSteamData';
-import SetupPanel from './components/SetupPanel';
-import LoadingPanel from './components/LoadingPanel';
 import VisaoGeral from './components/VisaoGeral';
 import Biblioteca from './components/Biblioteca';
 import EmComum from './components/EmComum';
@@ -18,7 +16,7 @@ const TABS = [
 export default function App() {
   const [theme, setTheme] = useState('dark');
   const [tab, setTab] = useState('visao-geral');
-  const { phase, loadingStep, loadingTotal, loadingLabel, allData, allGames, players, load, reset } = useSteamData();
+  const { phase, allData, allGames, players } = useSteamData();
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -27,6 +25,8 @@ export default function App() {
   const toggleTheme = () => setTheme(t => t==='dark'?'light':'dark');
 
   const headerBg = theme==='dark' ? 'rgba(9,12,20,0.9)' : 'rgba(240,244,248,0.9)';
+
+  const hasData = Object.keys(allData).length > 0;
 
   return (
     <>
@@ -38,30 +38,35 @@ export default function App() {
           </div>
 
           <div style={{ marginLeft:'auto', display:'flex', alignItems:'center', gap:12 }}>
-            {phase==='done' && (
+            {hasData && (
               <div style={{ fontFamily:'JetBrains Mono,monospace', fontSize:12, color:'var(--muted)', display:'flex', alignItems:'center', gap:6 }}>
                 <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--green)', boxShadow:'0 0 8px var(--green)', animation:'pulse 2s infinite', display:'inline-block' }} />
-                {Object.keys(allData).length} contas carregadas
+                {Object.keys(allData).length} contas • Atualizado em {new Date().toLocaleDateString('pt-BR')}
               </div>
             )}
             <button onClick={toggleTheme} title="Alternar tema" style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:8, padding:'7px 12px', cursor:'pointer', fontSize:16, lineHeight:1, color:'var(--text)' }}>
               {theme==='dark'?'☀️':'🌙'}
             </button>
-            {phase==='done' && (
-              <button onClick={reset} style={{ background:'none', border:'1px solid var(--border)', borderRadius:8, padding:'8px 16px', color:'var(--muted)', fontSize:13, cursor:'pointer' }}>
-                ⟵ Reconfigurar
-              </button>
-            )}
           </div>
         </div>
       </header>
 
       {/* PANELS */}
       <div style={{ maxWidth:1400, margin:'0 auto', padding:'0 24px', position:'relative', zIndex:1 }}>
-        {phase === 'setup'   && <SetupPanel onLoad={load} />}
-        {phase === 'loading' && <LoadingPanel step={loadingStep} total={loadingTotal} label={loadingLabel} />}
-
-        {phase === 'done' && (
+        {!hasData ? (
+          <div style={{ padding:'60px 24px', textAlign:'center' }}>
+            <div style={{ fontSize:18, color:'var(--muted)', marginBottom:16 }}>
+              ⏳ Nenhum dado carregado ainda
+            </div>
+            <div style={{ fontSize:14, color:'var(--muted)' }}>
+              Execute o script de sincronização para carregar os dados das contas:
+              <br />
+              <code style={{ background:'var(--surface)', padding:'8px 12px', borderRadius:6, display:'inline-block', marginTop:8, fontFamily:'monospace' }}>
+                npm run sync-steam
+              </code>
+            </div>
+          </div>
+        ) : (
           <div style={{ padding:'32px 0 60px' }}>
             {/* Tabs */}
             <div style={{ display:'flex', gap:4, marginBottom:28, borderBottom:'1px solid var(--border)', overflowX:'auto' }}>
