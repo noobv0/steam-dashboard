@@ -2,7 +2,7 @@ name: Sincronizar Dados da Steam
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Roda todo dia às 03:00 AM (Brasília)
+    - cron: '0 6 * * *'  # Todo dia às 03:00 AM (Brasília)
   workflow_dispatch:     # Botão manual
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Baixa todo o histórico
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -24,15 +24,25 @@ jobs:
       - name: Install
         run: npm install
 
-      - name: Sync
+      - name: Sync Steam Data
         run: npm run sync-steam
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
 
-      - name: Commit and Push
+      - name: Commit and Push (Forced)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Adiciona apenas o arquivo de cache
           git add src/data/steam_cache.json
-          # Só faz commit se houver mudanças
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: atualizar cache da Steam [skip ci]" && git pull origin main --rebase && git push origin main)
+          
+          # Verifica se houve mudança real nos dados
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança detectada no cache."
+          else
+            git commit -m "chore: atualizar cache da Steam [skip ci]"
+            # O segredo: pull com rebase para alinhar o histórico e push forçado seguro
+            git pull origin main --rebase
+            git push origin main
+          fi
