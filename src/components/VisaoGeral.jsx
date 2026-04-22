@@ -60,7 +60,7 @@ function HoursChart({ allData, allGames, players }) {
   const data = names.map((name, i) => {
     const hours = Math.round(allData[name].reduce((s,g)=>s+g.playtime_forever/60,0));
     const games = allData[name].length;
-    return { name, hours, games, color: getColors()[i % COLORS.length], avatar: players[name]?.avatarmedium };
+    return { name, hours, games, color: getColors()[i % 6], avatar: players[name]?.avatarmedium };
   });
   const maxH = Math.max(...data.map(d => d.hours));
 
@@ -138,7 +138,7 @@ function Comparador({ allData, allGames, players }) {
             {/* A */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[a]?.avatarmedium && <img src={players[a].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(a) % COLORS.length], marginBottom:12 }}>{a}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(a) % 6], marginBottom:12 }}>{a}</div>
               {[['Jogos', allData[a]?.length || 0],['Horas', `${hoursA.toLocaleString()}h`],['Exclusivos', onlyA]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -154,7 +154,7 @@ function Comparador({ allData, allGames, players }) {
             {/* B */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[b]?.avatarmedium && <img src={players[b].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(b) % COLORS.length], marginBottom:12 }}>{b}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(b) % 6], marginBottom:12 }}>{b}</div>
               {[['Jogos', allData[b]?.length || 0],['Horas', `${hoursB.toLocaleString()}h`],['Exclusivos', onlyB]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -176,8 +176,8 @@ function Comparador({ allData, allGames, players }) {
                   const hB = (allData[b]?.find(x=>x.appid===g.appid)?.playtime_forever||0)/60;
                   const total = hA + hB || 1;
                   const pctA = (hA / total) * 100;
-                  const colorA = getColors()[names.indexOf(a) % COLORS.length];
-                  const colorB = getColors()[names.indexOf(b) % COLORS.length];
+                  const colorA = getColors()[names.indexOf(a) % 6];
+                  const colorB = getColors()[names.indexOf(b) % 6];
                   const winner = hA > hB ? a : hB > hA ? b : null;
                   return (
                     <div key={g.appid} style={{ background:'var(--bg2)', borderRadius:8, padding:'10px 14px' }}>
@@ -257,7 +257,7 @@ function HallDaFama({ allData, allGames, players }) {
       <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(220px,1fr))', gap:12 }}>
         {records.map((r, i) => {
           const w = r.winner;
-          const color = w ? getColors()[names.indexOf(w) % COLORS.length] : '#ffd60a';
+          const color = w ? getColors()[names.indexOf(w) % 6] : '#ffd60a';
           const p = w ? players[w] : null;
           return (
             <div key={i} style={{ background:'var(--bg2)', borderRadius:10, padding:16, border:`1px solid ${color}33`, position:'relative', overflow:'hidden' }}>
@@ -328,7 +328,7 @@ export default function VisaoGeral({ allData, allGames, players }) {
           const uniq = games.filter(g=>allGames[g.appid]?.owners.length===1).length;
           const accountValue = games.reduce((s,g)=>s+(allGames[g.appid]?.priceBRL||allGames[g.appid]?.priceUSD||0),0);
           const p = players[name];
-          const color = getColors()[i % COLORS.length];
+          const color = getColors()[i % 6];
           return (
             <div key={name} style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:12, padding:20, position:'relative', overflow:'hidden', transition:'transform .2s, box-shadow .2s' }}
               onMouseEnter={e=>{e.currentTarget.style.transform='translateY(-2px)';e.currentTarget.style.boxShadow=`0 8px 32px ${color}22`;}}
