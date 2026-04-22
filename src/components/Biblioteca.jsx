@@ -117,7 +117,7 @@ export default function Biblioteca({ allGames }) {
                   </td>
                   <td style={{ padding:'10px 14px', verticalAlign:'middle', overflow:'hidden' }}>
                     <div style={{ display:'flex', alignItems:'center', gap:6, flexWrap:'wrap' }}>
-                      <span style={{ fontSize:10, padding:'2px 7px', borderRadius:4, fontFamily:'JetBrains Mono,monospace', fontWeight:500, background: isUnique?'rgba(57,255,20,0.15)':'rgba(79,172,254,0.15)', color: isUnique?'var(--green)':'var(--blue)', border:`1px solid ${isUnique?'rgba(57,255,20,0.3)':'rgba(79,172,254,0.3)'}` }}>
+                      <span style={{ fontSize:10, padding:'2px 7px', borderRadius:4, fontFamily:'JetBrains Mono,monospace', fontWeight:500, background: isUnique?'rgba(167,139,250,0.15)':'rgba(79,172,254,0.15)', color: isUnique?'var(--green)':'var(--blue)', border:`1px solid ${isUnique?'rgba(167,139,250,0.4)':'rgba(79,172,254,0.3)'}` }}>
                         {isUnique ? 'único' : `${g.owners.length} donos`}
                       </span>
                       <span style={{ fontSize:12, color:'var(--muted)', marginLeft:4 }}>{g.owners.join(', ')}</span>

@@ -54,7 +54,7 @@ export default function App() {
           <div style={{ marginLeft:'auto', display:'flex', alignItems:'center', gap:12 }}>
             {hasData && (
               <div style={{ fontFamily:'JetBrains Mono,monospace', fontSize:12, color:'var(--muted)', display:'flex', alignItems:'center', gap:6 }}>
-                <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--green)', boxShadow:'0 0 8px var(--green)', animation:'pulse 2s infinite', display:'inline-block' }} />
+                <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--cyan)', boxShadow:'0 0 8px var(--cyan)', animation:'pulse 2s infinite', display:'inline-block' }} />
                 {Object.keys(allData).length} contas • {new Date().toLocaleDateString('pt-BR')}
               </div>
             )}

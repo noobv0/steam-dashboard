@@ -1,17 +1,18 @@
 // src/components/VisaoGeral.jsx
 import { useState, useEffect, useRef } from 'react';
 
-const COLORS = ['#4facfe','#00c8a8','#39ff14','#ffd60a','#ff6b35','#ff2d78'];
+const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#f0e442','#e84393'];
 
 function formatCurrency(value) {
   return new Intl.NumberFormat('pt-BR', { style:'currency', currency:'BRL' }).format(value / 100);
 }
 
-function StatCard({ label, value, small }) {
+function StatCard({ label, value }) {
+  const isLong = String(value).length > 10;
   return (
-    <div style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'18px 20px' }}>
+    <div style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'18px 20px', display:'flex', flexDirection:'column', justifyContent:'space-between', minHeight:88 }}>
       <div style={{ fontSize:11, textTransform:'uppercase', letterSpacing:1, color:'var(--muted)', marginBottom:6 }}>{label}</div>
-      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize: small?20:28, fontWeight:700, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent' }}>
+      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize: isLong ? 18 : 28, fontWeight:700, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', lineHeight:1.1, wordBreak:'break-word' }}>
         {value}
       </div>
     </div>
@@ -305,8 +306,8 @@ export default function VisaoGeral({ allData, allGames, players }) {
         <StatCard label="Jogos Únicos" value={totalGamesUniq.toLocaleString()} />
         <StatCard label="Horas Totais" value={`${Math.round(totalHours).toLocaleString()}h`} />
         <StatCard label="Em Comum" value={totalCommon} />
-        <StatCard label="Valor Total" value={formatCurrency(totalValue)} small />
-        <StatCard label="Mais Jogos" value={mostGames} small />
+        <StatCard label="Valor Total" value={formatCurrency(totalValue)} />
+        <StatCard label="Mais Jogos" value={mostGames} />
       </div>
 
       {/* Account cards */}
