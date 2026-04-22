@@ -7,7 +7,7 @@ export default function LoadingPanel({ step, total, label }) {
     <div style={{ minHeight:'100vh', display:'flex', alignItems:'center', justifyContent:'center', flexDirection:'column', gap:32, padding:40, position:'relative', zIndex:1 }}>
 
       {/* Logo animado */}
-      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:32, fontWeight:700, letterSpacing:4, background:'var(--grad)', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', animation:'pulse 2s infinite' }}>
+      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:32, fontWeight:700, letterSpacing:4, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', animation:'pulse 2s infinite' }}>
         STEAM FAMILY HUB
       </div>
 
@@ -52,7 +52,7 @@ export default function LoadingPanel({ step, total, label }) {
       {/* Barra linear */}
       <div style={{ width:'100%', maxWidth:400 }}>
         <div style={{ height:4, background:'var(--border)', borderRadius:4, overflow:'hidden' }}>
-          <div style={{ height:'100%', width:`${pct}%`, background:'var(--grad)', borderRadius:4, transition:'width .5s ease' }} />
+          <div style={{ height:'100%', width:`${pct}%`, background:'linear-gradient(90deg,var(--blue),var(--cyan))', borderRadius:4, transition:'width .5s ease' }} />
         </div>
         <div style={{ display:'flex', justifyContent:'space-between', marginTop:8 }}>
           <span style={{ fontSize:11, color:'var(--muted)', fontFamily:'JetBrains Mono,monospace' }}>

@@ -42,19 +42,19 @@ export default function App() {
   }, [tab]);
 
   const hasData = Object.keys(allData).length > 0;
-  const headerBg = theme === 'dark' ? 'rgba(5,8,15,0.92)' : 'rgba(255,255,255,0.92)';
+  const headerBg = theme === 'dark' ? 'rgba(9,12,20,0.9)' : 'rgba(240,244,248,0.9)';
 
   return (
     <>
       <header style={{ borderBottom:'1px solid var(--border)', background:headerBg, backdropFilter:'blur(12px)', position:'sticky', top:0, zIndex:100, padding:'14px 0' }}>
         <div style={{ maxWidth:1400, margin:'0 auto', padding:'0 24px', display:'flex', alignItems:'center', gap:16, position:'relative', zIndex:1 }}>
-          <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:22, fontWeight:700, letterSpacing:3, background:'var(--grad)', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent' }}>
+          <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:22, fontWeight:700, letterSpacing:3, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent' }}>
             STEAM<span style={{ color:'var(--muted)', WebkitTextFillColor:'var(--muted)', fontWeight:400, fontSize:13, letterSpacing:1, marginLeft:8 }}>KIN</span>
           </div>
           <div style={{ marginLeft:'auto', display:'flex', alignItems:'center', gap:12 }}>
             {hasData && (
               <div style={{ fontFamily:'JetBrains Mono,monospace', fontSize:12, color:'var(--muted)', display:'flex', alignItems:'center', gap:6 }}>
-                <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--cyan)', boxShadow:'0 0 8px var(--cyan)44', animation:'pulse 2s infinite', display:'inline-block' }} />
+                <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--cyan)', boxShadow:'0 0 8px var(--cyan)', animation:'pulse 2s infinite', display:'inline-block' }} />
                 {Object.keys(allData).length} contas • {new Date().toLocaleDateString('pt-BR')}
               </div>
             )}

@@ -22,7 +22,7 @@ const s = {
   rowInputName: { maxWidth:140, background:'var(--bg2)', border:'1px solid var(--border)', borderRadius:8, padding:'11px 14px', color:'var(--text)', fontFamily:'JetBrains Mono,monospace', fontSize:13, outline:'none' },
   rmBtn: { background:'none', border:'1px solid var(--border)', borderRadius:6, color:'var(--muted)', cursor:'pointer', padding:'10px 12px', fontSize:14, flexShrink:0 },
   addBtn: { background:'none', border:'1px dashed var(--border)', borderRadius:8, color:'var(--muted)', cursor:'pointer', padding:10, fontSize:13, width:'100%', marginBottom:28, marginTop:4 },
-  loadBtn: { background:'var(--grad)', border:'none', borderRadius:8, color:'#000', fontFamily:'Rajdhani,sans-serif', fontSize:16, fontWeight:700, letterSpacing:2, padding:'13px 32px', cursor:'pointer', width:'100%', textTransform:'uppercase' },
+  loadBtn: { background:'linear-gradient(135deg,var(--blue),var(--cyan))', border:'none', borderRadius:8, color:'#000', fontFamily:'Rajdhani,sans-serif', fontSize:16, fontWeight:700, letterSpacing:2, padding:'13px 32px', cursor:'pointer', width:'100%', textTransform:'uppercase' },
   error: { background:'rgba(255,45,120,0.08)', border:'1px solid rgba(255,45,120,0.3)', borderRadius:8, padding:'14px 18px', color:'var(--pink)', fontSize:13, marginBottom:16 },
   note: { marginTop:16, fontSize:12, color:'var(--muted)', textAlign:'center', lineHeight:1.6 },
 };
