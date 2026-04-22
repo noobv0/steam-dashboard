@@ -2,7 +2,6 @@
 // Todas as chamadas à Steam passam por aqui, a API key fica só no servidor.
 
 export default async function handler(req, res) {
-  // CORS para o frontend
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET,OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
@@ -14,12 +13,25 @@ export default async function handler(req, res) {
   const { endpoint, ...params } = req.query;
   if (!endpoint) return res.status(400).json({ error: 'endpoint obrigatório' });
 
-  // Endpoints permitidos (whitelist de segurança)
+  // Rota especial: proxy para Steam Store API (sem API key)
+  if (endpoint === 'store/appdetails') {
+    const { appids, filters = 'categories,price_overview' } = params;
+    const url = `https://store.steampowered.com/api/appdetails?appids=${appids}&filters=${filters}&cc=br&l=portuguese`;
+    try {
+      const response = await fetch(url);
+      const data = await response.json();
+      res.setHeader('Cache-Control', 's-maxage=86400'); // cache 24h
+      return res.status(200).json(data);
+    } catch (err) {
+      return res.status(502).json({ error: 'Erro ao contatar Steam Store', detail: err.message });
+    }
+  }
+
+  // Endpoints Steam Web API (com API key)
   const ALLOWED = [
     'IPlayerService/GetOwnedGames/v1',
     'ISteamUser/GetPlayerSummaries/v2',
     'ISteamWebAPIUtil/ResolveVanityURL/v1',
-    'IStoreBrowseService/GetItems/v1',
   ];
   if (!ALLOWED.includes(endpoint)) {
     return res.status(403).json({ error: 'Endpoint não permitido.' });
@@ -31,7 +43,7 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(url);
     const data = await response.json();
-    res.setHeader('Cache-Control', 's-maxage=300'); // cache 5min no Vercel
+    res.setHeader('Cache-Control', 's-maxage=300');
     return res.status(200).json(data);
   } catch (err) {
     return res.status(502).json({ error: 'Erro ao contatar a Steam API', detail: err.message });

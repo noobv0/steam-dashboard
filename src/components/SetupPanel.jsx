@@ -61,9 +61,6 @@ export default function SetupPanel({ onLoad }) {
         <button style={s.addBtn} onClick={addRow}>+ Adicionar conta</button>
 
         <button style={s.loadBtn} onClick={handleLoad}>CARREGAR DADOS</button>
-        <div style={s.note}>
-          🔒 A API Key da Steam fica guardada de forma segura no servidor — seus amigos não precisam se preocupar com ela.
-        </div>
       </div>
     </div>
   );

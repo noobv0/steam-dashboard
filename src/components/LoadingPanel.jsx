@@ -1,46 +1,67 @@
 // src/components/LoadingPanel.jsx
-
-const TIPS = [
-  '💡 Jogos com mais de 1000h são considerados "eternos" — quem tem mais?',
-  '🎮 A Steam tem mais de 50.000 jogos catalogados.',
-  '⏱ A média de horas jogadas por jogo no Steam é menos de 5h.',
-  '🏆 Alguns jogos têm mais de 1.000 conquistas desbloqueáveis.',
-  '🌍 O Brasil é um dos 5 maiores mercados de jogadores no Steam.',
-  '👾 Albion Online: mais de 1000h no grupo — isso é dedicação!',
-];
-
-export default function LoadingPanel({ msg, step, total }) {
-  const pct = total > 0 ? Math.round((step / total) * 100) : 10;
-  const tip = TIPS[step % TIPS.length];
+export default function LoadingPanel({ step, total, label }) {
+  const pct = total > 0 ? Math.min(100, Math.round((step / total) * 100)) : 5;
+  const accounts = Array.from({ length: total - 2 }, (_, i) => i); // exclude avatars+categories steps
 
   return (
-    <div style={{ minHeight:'100vh', display:'flex', alignItems:'center', justifyContent:'center', flexDirection:'column', gap:24, padding:40, position:'relative', zIndex:1 }}>
-      {/* Spinner */}
-      <div style={{ width:64, height:64, borderRadius:'50%', border:'3px solid var(--border)', borderTopColor:'var(--blue)', animation:'spin 1s linear infinite' }} />
+    <div style={{ minHeight:'100vh', display:'flex', alignItems:'center', justifyContent:'center', flexDirection:'column', gap:32, padding:40, position:'relative', zIndex:1 }}>
 
-      {/* Mensagem atual */}
-      <div style={{ fontFamily:'JetBrains Mono,monospace', fontSize:14, color:'var(--text)', textAlign:'center' }}>
-        {msg || 'Iniciando...'}
+      {/* Logo animado */}
+      <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:32, fontWeight:700, letterSpacing:4, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', animation:'pulse 2s infinite' }}>
+        STEAM FAMILY HUB
       </div>
 
-      {/* Barra de progresso */}
+      {/* Círculo de progresso */}
+      <div style={{ position:'relative', width:140, height:140 }}>
+        <svg width="140" height="140" style={{ transform:'rotate(-90deg)' }}>
+          <circle cx="70" cy="70" r="60" fill="none" stroke="var(--border)" strokeWidth="8" />
+          <circle cx="70" cy="70" r="60" fill="none" stroke="url(#grad)" strokeWidth="8"
+            strokeDasharray={`${2 * Math.PI * 60}`}
+            strokeDashoffset={`${2 * Math.PI * 60 * (1 - pct/100)}`}
+            strokeLinecap="round"
+            style={{ transition:'stroke-dashoffset .5s ease' }}
+          />
+          <defs>
+            <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stopColor="var(--blue)" />
+              <stop offset="100%" stopColor="var(--cyan)" />
+            </linearGradient>
+          </defs>
+        </svg>
+        <div style={{ position:'absolute', inset:0, display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center' }}>
+          <span style={{ fontFamily:'Rajdhani,sans-serif', fontSize:36, fontWeight:700, color:'var(--blue)' }}>{pct}%</span>
+        </div>
+      </div>
+
+      {/* Conta atual */}
+      {label && label !== 'avatares' && label !== 'categorias' && (
+        <div style={{ display:'flex', alignItems:'center', gap:10, background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'12px 20px' }}>
+          <div style={{ width:8, height:8, borderRadius:'50%', background:'var(--blue)', boxShadow:'0 0 8px var(--blue)', animation:'pulse 1s infinite' }} />
+          <span style={{ fontFamily:'JetBrains Mono,monospace', fontSize:14, color:'var(--text)' }}>{label}</span>
+        </div>
+      )}
+      {(label === 'avatares' || label === 'categorias') && (
+        <div style={{ display:'flex', alignItems:'center', gap:10, background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'12px 20px' }}>
+          <div style={{ width:8, height:8, borderRadius:'50%', background:'var(--cyan)', boxShadow:'0 0 8px var(--cyan)', animation:'pulse 1s infinite' }} />
+          <span style={{ fontFamily:'JetBrains Mono,monospace', fontSize:14, color:'var(--muted)' }}>
+            {label === 'avatares' ? 'Carregando perfis...' : 'Buscando categorias...'}
+          </span>
+        </div>
+      )}
+
+      {/* Barra linear */}
       <div style={{ width:'100%', maxWidth:400 }}>
-        <div style={{ display:'flex', justifyContent:'space-between', marginBottom:8 }}>
-          <span style={{ fontSize:12, color:'var(--muted)' }}>
-            {step} de {total} contas
+        <div style={{ height:4, background:'var(--border)', borderRadius:4, overflow:'hidden' }}>
+          <div style={{ height:'100%', width:`${pct}%`, background:'linear-gradient(90deg,var(--blue),var(--cyan))', borderRadius:4, transition:'width .5s ease' }} />
+        </div>
+        <div style={{ display:'flex', justifyContent:'space-between', marginTop:8 }}>
+          <span style={{ fontSize:11, color:'var(--muted)', fontFamily:'JetBrains Mono,monospace' }}>
+            {step} / {total} etapas
           </span>
-          <span style={{ fontSize:12, color:'var(--blue)', fontFamily:'JetBrains Mono,monospace' }}>
-            {pct}%
+          <span style={{ fontSize:11, color:'var(--muted)', fontFamily:'JetBrains Mono,monospace' }}>
+            {pct === 100 ? 'Finalizando...' : 'Carregando...'}
           </span>
         </div>
-        <div style={{ height:6, background:'var(--border)', borderRadius:6, overflow:'hidden' }}>
-          <div style={{ height:'100%', width:`${pct}%`, background:'linear-gradient(90deg,var(--blue),var(--cyan))', borderRadius:6, transition:'width .4s ease' }} />
-        </div>
-      </div>
-
-      {/* Dica */}
-      <div style={{ maxWidth:420, background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'14px 18px', fontSize:13, color:'var(--muted)', textAlign:'center', lineHeight:1.6 }}>
-        {tip}
       </div>
     </div>
   );

@@ -18,7 +18,7 @@ const TABS = [
 export default function App() {
   const [theme, setTheme] = useState('dark');
   const [tab, setTab] = useState('visao-geral');
-  const { phase, loadingMsg, loadingStep, loadingTotal, allData, allGames, players, load, reset } = useSteamData();
+  const { phase, loadingStep, loadingTotal, loadingLabel, allData, allGames, players, load, reset } = useSteamData();
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -59,7 +59,7 @@ export default function App() {
       {/* PANELS */}
       <div style={{ maxWidth:1400, margin:'0 auto', padding:'0 24px', position:'relative', zIndex:1 }}>
         {phase === 'setup'   && <SetupPanel onLoad={load} />}
-        {phase === 'loading' && <LoadingPanel msg={loadingMsg} step={loadingStep} total={loadingTotal} />}
+        {phase === 'loading' && <LoadingPanel step={loadingStep} total={loadingTotal} label={loadingLabel} />}
 
         {phase === 'done' && (
           <div style={{ padding:'32px 0 60px' }}>
