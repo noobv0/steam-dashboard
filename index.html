@@ -3,12 +3,58 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Steam Family Hub</title>
+    <title>SteamKin</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet" />
   </head>
   <body>
+    <canvas id="star-canvas"></canvas>
     <div id="root"></div>
+    <script>
+      // Estrelas animadas — só roda no dark mode
+      const canvas = document.getElementById('star-canvas');
+      const ctx = canvas.getContext('2d');
+      let stars = [];
+
+      function resize() {
+        canvas.width  = window.innerWidth;
+        canvas.height = window.innerHeight;
+      }
+
+      function initStars() {
+        stars = Array.from({ length: 180 }, () => ({
+          x:       Math.random() * canvas.width,
+          y:       Math.random() * canvas.height,
+          r:       Math.random() * 1.4 + 0.3,
+          alpha:   Math.random(),
+          speed:   Math.random() * 0.004 + 0.001,
+          gold:    Math.random() < 0.35,   // 35% douradas, 65% brancas/azuis
+        }));
+      }
+
+      function drawStars() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        const isDark = document.documentElement.getAttribute('data-theme') !== 'light';
+        if (!isDark) return requestAnimationFrame(drawStars);
+
+        stars.forEach(s => {
+          s.alpha += s.speed;
+          if (s.alpha > 1 || s.alpha < 0) s.speed *= -1;
+          ctx.beginPath();
+          ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+          ctx.fillStyle = s.gold
+            ? `rgba(240,180,41,${s.alpha * 0.8})`
+            : `rgba(180,210,255,${s.alpha * 0.6})`;
+          ctx.fill();
+        });
+        requestAnimationFrame(drawStars);
+      }
+
+      resize();
+      initStars();
+      drawStars();
+      window.addEventListener('resize', () => { resize(); initStars(); });
+    </script>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

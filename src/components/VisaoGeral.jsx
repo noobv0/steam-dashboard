@@ -1,7 +1,15 @@
 // src/components/VisaoGeral.jsx
 import { useState, useEffect, useRef } from 'react';
 
-const COLORS = ['#4facfe','#f5a623','#9b59b6','#00c8a8','#ffffff','#e84393'];
+// Paleta Noite Estrelada (dark) — azul, dourado, violeta, ciano, laranja-nebulosa, rosa
+const COLORS_DARK  = ['#4facfe','#f0b429','#a78bfa','#38bdf8','#fb923c','#f472b6'];
+// Paleta Carmim (light) — carmim, bordô, rosa-carmim, roxo, azul-royal, coral
+const COLORS_LIGHT = ['#d50032','#a50034','#f06292','#7c3aed','#1d4ed8','#f97316'];
+
+function getColors() {
+  const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+  return isLight ? COLORS_LIGHT : COLORS_DARK;
+}
 
 function formatCurrency(value) {
   return new Intl.NumberFormat('pt-BR', { style:'currency', currency:'BRL' }).format(value / 100);
@@ -11,7 +19,7 @@ function StatCard({ label, value }) {
   return (
     <div style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:10, padding:'18px 20px', display:'flex', flexDirection:'column', justifyContent:'space-between', height:88 }}>
       <div style={{ fontSize:11, textTransform:'uppercase', letterSpacing:1, color:'var(--muted)', marginBottom:6 }}>{label}</div>
-      <div style={{ fontFamily:'Rajdhani,sans-serif', fontWeight:700, background:'linear-gradient(90deg,var(--blue),var(--cyan))', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', lineHeight:1, overflow:'hidden', display:'flex', alignItems:'flex-end' }}>
+      <div style={{ fontFamily:'Rajdhani,sans-serif', fontWeight:700, background:'var(--grad)', WebkitBackgroundClip:'text', WebkitTextFillColor:'transparent', lineHeight:1, overflow:'hidden', display:'flex', alignItems:'flex-end' }}>
         <span style={{ fontSize:'clamp(16px, 2.2vw, 28px)', whiteSpace:'nowrap', overflow:'hidden', textOverflow:'ellipsis', maxWidth:'100%' }}>{value}</span>
       </div>
     </div>
@@ -28,7 +36,7 @@ function RankItem({ rank, name, value, max, label, avatar }) {
       <div style={{ flex:1 }}>
         <div style={{ fontSize:15, fontWeight:500, marginBottom:4 }}>{name}</div>
         <div style={{ height:4, background:'var(--bg)', borderRadius:4, overflow:'hidden' }}>
-          <div style={{ height:'100%', width:`${pct}%`, background:'linear-gradient(90deg,var(--blue),var(--cyan))', transition:'width 1s ease' }} />
+          <div style={{ height:'100%', width:`${pct}%`, background:'var(--grad)', transition:'width 1s ease' }} />
         </div>
       </div>
       <div style={{ fontFamily:'JetBrains Mono,monospace', fontSize:13, color:'var(--cyan)', minWidth:70, textAlign:'right' }}>{label}</div>
@@ -37,6 +45,7 @@ function RankItem({ rank, name, value, max, label, avatar }) {
 }
 
 // ── Gráfico de barras de horas por pessoa ─────────────────────────────────────
+
 function HoursChart({ allData, allGames, players }) {
   const names = Object.keys(allData);
   const [animated, setAnimated] = useState(false);
@@ -51,7 +60,7 @@ function HoursChart({ allData, allGames, players }) {
   const data = names.map((name, i) => {
     const hours = Math.round(allData[name].reduce((s,g)=>s+g.playtime_forever/60,0));
     const games = allData[name].length;
-    return { name, hours, games, color: COLORS[i % COLORS.length], avatar: players[name]?.avatarmedium };
+    return { name, hours, games, color: getColors()[i % COLORS.length], avatar: players[name]?.avatarmedium };
   });
   const maxH = Math.max(...data.map(d => d.hours));
 
@@ -129,7 +138,7 @@ function Comparador({ allData, allGames, players }) {
             {/* A */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[a]?.avatarmedium && <img src={players[a].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: COLORS[names.indexOf(a) % COLORS.length], marginBottom:12 }}>{a}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(a) % COLORS.length], marginBottom:12 }}>{a}</div>
               {[['Jogos', allData[a]?.length || 0],['Horas', `${hoursA.toLocaleString()}h`],['Exclusivos', onlyA]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -145,7 +154,7 @@ function Comparador({ allData, allGames, players }) {
             {/* B */}
             <div style={{ background:'var(--bg2)', borderRadius:10, padding:16, textAlign:'center' }}>
               {players[b]?.avatarmedium && <img src={players[b].avatarmedium} style={{ width:48, height:48, borderRadius:8, objectFit:'cover', marginBottom:8 }} />}
-              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: COLORS[names.indexOf(b) % COLORS.length], marginBottom:12 }}>{b}</div>
+              <div style={{ fontFamily:'Rajdhani,sans-serif', fontSize:18, fontWeight:700, color: getColors()[names.indexOf(b) % COLORS.length], marginBottom:12 }}>{b}</div>
               {[['Jogos', allData[b]?.length || 0],['Horas', `${hoursB.toLocaleString()}h`],['Exclusivos', onlyB]].map(([l,v])=>(
                 <div key={l} style={{ marginBottom:8 }}>
                   <div style={{ fontSize:10, letterSpacing:1, textTransform:'uppercase', color:'var(--muted)' }}>{l}</div>
@@ -167,8 +176,8 @@ function Comparador({ allData, allGames, players }) {
                   const hB = (allData[b]?.find(x=>x.appid===g.appid)?.playtime_forever||0)/60;
                   const total = hA + hB || 1;
                   const pctA = (hA / total) * 100;
-                  const colorA = COLORS[names.indexOf(a) % COLORS.length];
-                  const colorB = COLORS[names.indexOf(b) % COLORS.length];
+                  const colorA = getColors()[names.indexOf(a) % COLORS.length];
+                  const colorB = getColors()[names.indexOf(b) % COLORS.length];
                   const winner = hA > hB ? a : hB > hA ? b : null;
                   return (
                     <div key={g.appid} style={{ background:'var(--bg2)', borderRadius:8, padding:'10px 14px' }}>
@@ -248,7 +257,7 @@ function HallDaFama({ allData, allGames, players }) {
       <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(220px,1fr))', gap:12 }}>
         {records.map((r, i) => {
           const w = r.winner;
-          const color = w ? COLORS[names.indexOf(w) % COLORS.length] : '#ffd60a';
+          const color = w ? getColors()[names.indexOf(w) % COLORS.length] : '#ffd60a';
           const p = w ? players[w] : null;
           return (
             <div key={i} style={{ background:'var(--bg2)', borderRadius:10, padding:16, border:`1px solid ${color}33`, position:'relative', overflow:'hidden' }}>
@@ -319,13 +328,13 @@ export default function VisaoGeral({ allData, allGames, players }) {
           const uniq = games.filter(g=>allGames[g.appid]?.owners.length===1).length;
           const accountValue = games.reduce((s,g)=>s+(allGames[g.appid]?.priceBRL||allGames[g.appid]?.priceUSD||0),0);
           const p = players[name];
-          const color = COLORS[i % COLORS.length];
+          const color = getColors()[i % COLORS.length];
           return (
             <div key={name} style={{ background:'var(--surface)', border:'1px solid var(--border)', borderRadius:12, padding:20, position:'relative', overflow:'hidden', transition:'transform .2s, box-shadow .2s' }}
               onMouseEnter={e=>{e.currentTarget.style.transform='translateY(-2px)';e.currentTarget.style.boxShadow=`0 8px 32px ${color}22`;}}
               onMouseLeave={e=>{e.currentTarget.style.transform='';e.currentTarget.style.boxShadow='';}}
             >
-              <div style={{ position:'absolute', top:0, left:0, right:0, height:3, background:`linear-gradient(90deg,${color},var(--cyan))` }} />
+              <div style={{ position:'absolute', top:0, left:0, right:0, height:3, background:`linear-gradient(90deg,${color},${color}bb)` }} />
               <div style={{ width:56, height:56, borderRadius:10, overflow:'hidden', marginBottom:12, border:`2px solid ${color}33`, background:'var(--surface2)' }}>
                 {p?.avatarfull
                   ? <img src={p.avatarfull} style={{ width:'100%', height:'100%', objectFit:'cover' }} />
