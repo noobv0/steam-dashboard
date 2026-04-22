@@ -2,29 +2,44 @@ name: Sincronizar Dados da Steam
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Roda todo dia às 03:00 da manhã
-  workflow_dispatch:     # Botão para rodar manual
+    - cron: '0 6 * * *'  # Roda todos os dias às 06:00 UTC (03:00 Horário de Brasília)
+  workflow_dispatch:     # Permite rodar manualmente pelo botão no GitHub
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write    # Permissão para o bot fazer commit no repositório
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout do código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Baixa todo o histórico para evitar erros de sincronização
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm install
-            - run: npm run sync-steam
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Executar Sincronização
+        run: npm run sync-steam
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-          
-      - name: Pull latest changes
-        run: git pull origin main --rebase
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Sincronizar com o repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
+
+      - name: Commit e Push das atualizações
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: atualizar cache da Steam [skip ci]'
+          commit_message: 'chore: atualizar cache de dados da Steam [skip ci]'
           file_pattern: 'src/data/steam_cache.json'
-
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
