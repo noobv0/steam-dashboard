@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T08:19:04.160Z",
+  "timestamp": "2026-04-25T07:32:25.118Z",
   "data": {
     "Lírio": [
       {
@@ -1493,7 +1493,7 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 6,
+        "playtime_2weeks": 5,
         "playtime_forever": 47693,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
@@ -2550,7 +2550,7 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 801,
+        "playtime_2weeks": 723,
         "playtime_forever": 15186,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
@@ -3618,7 +3618,7 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 1081,
+        "playtime_2weeks": 899,
         "playtime_forever": 16185,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
@@ -3931,28 +3931,29 @@
       {
         "appid": 3265700,
         "name": "Vampire Crawlers",
-        "playtime_forever": 0,
+        "playtime_2weeks": 343,
+        "playtime_forever": 343,
         "img_icon_url": "0ad548761903321badf0d368b1142e7976a455d7",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 343,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1777087125,
         "playtime_disconnected": 0
       },
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 14298,
-        "playtime_forever": 119506,
+        "playtime_2weeks": 15678,
+        "playtime_forever": 120886,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 119506,
+        "playtime_windows_forever": 120886,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777017212,
+        "rtime_last_played": 1777100014,
         "playtime_disconnected": 19
       },
       {
@@ -4063,15 +4064,15 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 14449,
-        "playtime_forever": 14449,
+        "playtime_2weeks": 15842,
+        "playtime_forever": 15842,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 14449,
+        "playtime_windows_forever": 15842,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777017181,
+        "rtime_last_played": 1777100806,
         "playtime_disconnected": 0
       }
     ],
@@ -4167,7 +4168,7 @@
       {
         "appid": 237310,
         "name": "Elsword",
-        "playtime_2weeks": 255,
+        "playtime_2weeks": 137,
         "playtime_forever": 2320,
         "img_icon_url": "311373619fe61198fa93080fa0c7deb3ad6f7c36",
         "has_community_visible_stats": true
@@ -4374,7 +4375,10 @@
         "name": "Tales of Zestiria",
         "playtime_forever": 112,
         "img_icon_url": "898f35ca5e8c803df592779a723cc741d32814c9",
-        "has_community_visible_stats": true
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
       },
       {
         "appid": 356190,
@@ -4651,7 +4655,10 @@
         "name": "Ni no Kuni™ II: Revenant Kingdom",
         "playtime_forever": 198,
         "img_icon_url": "d8469c3ccf71774d558cd51a1b40ba5f521f74d9",
-        "has_community_visible_stats": true
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
       },
       {
         "appid": 601150,
@@ -4949,7 +4956,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_forever": 9092,
+        "playtime_2weeks": 154,
+        "playtime_forever": 9247,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5360,8 +5368,8 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 2034,
-        "playtime_forever": 14562,
+        "playtime_2weeks": 2003,
+        "playtime_forever": 14623,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
       },
@@ -6977,7 +6985,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 2506,
+        "playtime_2weeks": 2242,
         "playtime_forever": 29018,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -7119,6 +7127,13 @@
         "has_community_visible_stats": true
       },
       {
+        "appid": 1634080,
+        "name": "Nocturnal",
+        "playtime_forever": 0,
+        "img_icon_url": "e1e2321cd4b6c89c46ab3ba0d59bd9523fc89c1c",
+        "has_community_visible_stats": true
+      },
+      {
         "appid": 1676840,
         "name": "For The King II",
         "playtime_forever": 1307,
@@ -7225,6 +7240,17 @@
         "name": "MIMESIS",
         "playtime_forever": 0,
         "img_icon_url": "ce0fd329bf46fe88b8c617d833473c48edcb1823"
+      },
+      {
+        "appid": 2835590,
+        "name": "8AM",
+        "playtime_forever": 0,
+        "img_icon_url": "44bd7fad168e4390dcf06499d890c1bcdf057aa5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
       },
       {
         "appid": 3142050,
@@ -8977,7 +9003,7 @@
     "236390": {
       "name": "War Thunder",
       "appid": 236390,
-      "totalHours": 242.7,
+      "totalHours": 243.71666666666667,
       "owners": [
         "Dudu"
       ],
@@ -12407,20 +12433,9 @@
         "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/529180/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        49,
-        36,
-        47,
-        9,
-        38,
-        48,
-        30,
-        62
-      ],
-      "price": "R$ 34,99",
-      "priceUSD": 3499
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "535930": {
       "name": "Two Point Hospital",
@@ -15113,7 +15128,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 660.1333333333333,
+      "totalHours": 662.7166666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16811,7 +16826,8 @@
       "appid": 1634080,
       "totalHours": 0,
       "owners": [
-        "Lírio"
+        "Lírio",
+        "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1634080/capsule_sm_120.jpg",
       "categories": [],
@@ -17688,8 +17704,8 @@
         29,
         62
       ],
-      "price": "R$ 9,89",
-      "priceUSD": 989
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "2524890": {
       "name": "Pixel Gun 3D: PC Edition",
@@ -17989,7 +18005,8 @@
       "appid": 2835590,
       "totalHours": 0,
       "owners": [
-        "Lírio"
+        "Lírio",
+        "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835590/capsule_sm_120.jpg",
       "categories": [],
@@ -18201,19 +18218,25 @@
     "3265700": {
       "name": "Vampire Crawlers",
       "appid": 3265700,
-      "totalHours": 0,
+      "totalHours": 5.716666666666667,
       "owners": [
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/3265700/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        23,
+        62
+      ],
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2264.0166666666664,
+      "totalHours": 2287.0166666666664,
       "owners": [
         "Lírio",
         "Nino"
@@ -18437,7 +18460,7 @@
     "3959890": {
       "name": "Tap Tap Loot",
       "appid": 3959890,
-      "totalHours": 240.81666666666666,
+      "totalHours": 264.03333333333336,
       "owners": [
         "Lírio"
       ],
@@ -18475,25 +18498,6 @@
     }
   },
   "players": {
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
-      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1777004347,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -18509,6 +18513,25 @@
       "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
       "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
+      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
+      "lastlogoff": 1777086590,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
@@ -18541,7 +18564,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1776875755,
+      "lastlogoff": 1777074823,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -18586,8 +18609,8 @@
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
-      "gameextrainfo": "Bongo Cat",
-      "gameid": "3419430",
+      "gameextrainfo": "Tap Tap Loot",
+      "gameid": "3959890",
       "loccountrycode": "BR"
     }
   }
