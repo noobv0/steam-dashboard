@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T08:44:14.528Z",
+  "timestamp": "2026-05-05T08:24:18.194Z",
   "data": {
     "Lírio": [
       {
@@ -1495,7 +1495,7 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 8,
+        "playtime_2weeks": 3,
         "playtime_forever": 47696,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
@@ -2009,7 +2009,6 @@
       {
         "appid": 599140,
         "name": "Graveyard Keeper",
-        "playtime_2weeks": 68,
         "playtime_forever": 71,
         "img_icon_url": "b37ef6d7eb243b4d9fc017dec7bc11b234f34cc2",
         "has_community_visible_stats": true,
@@ -3620,15 +3619,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 957,
-        "playtime_forever": 16859,
+        "playtime_2weeks": 947,
+        "playtime_forever": 16927,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 16859,
+        "playtime_windows_forever": 16927,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777863601,
+        "rtime_last_played": 1777951900,
         "playtime_disconnected": 0
       },
       {
@@ -3947,15 +3946,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 19119,
-        "playtime_forever": 133348,
+        "playtime_2weeks": 18964,
+        "playtime_forever": 134511,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 133348,
+        "playtime_windows_forever": 134511,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777882582,
+        "rtime_last_played": 1777962608,
         "playtime_disconnected": 19
       },
       {
@@ -4066,7 +4065,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 18402,
+        "playtime_2weeks": 16981,
         "playtime_forever": 27375,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4456,7 +4455,7 @@
       {
         "appid": 397540,
         "name": "Borderlands 3",
-        "playtime_2weeks": 1162,
+        "playtime_2weeks": 972,
         "playtime_forever": 2062,
         "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac",
         "has_community_visible_stats": true,
@@ -5368,7 +5367,7 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 1587,
+        "playtime_2weeks": 1533,
         "playtime_forever": 16085,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
@@ -6985,8 +6984,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 562,
-        "playtime_forever": 29434,
+        "playtime_2weeks": 624,
+        "playtime_forever": 29500,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7049,7 +7048,6 @@
       {
         "appid": 1371980,
         "name": "No Rest for the Wicked",
-        "playtime_2weeks": 310,
         "playtime_forever": 3041,
         "img_icon_url": "8b383999493fa60adbbda2a5a5714805d9d7c913",
         "content_descriptorids": [
@@ -7262,7 +7260,6 @@
       {
         "appid": 3228590,
         "name": "Deadzone Rogue",
-        "playtime_2weeks": 4,
         "playtime_forever": 3717,
         "img_icon_url": "ae783ad4b1b248b1f5e1969a54c24ddd15bdc227",
         "has_community_visible_stats": true
@@ -8764,8 +8761,8 @@
         22,
         18
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "221040": {
       "name": "Resident Evil 6",
@@ -9323,8 +9320,8 @@
         17,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "246620": {
       "name": "Plague Inc: Evolved",
@@ -9422,8 +9419,8 @@
         23,
         62
       ],
-      "price": "R$ 5,99",
-      "priceUSD": 599
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "249130": {
       "name": "LEGO® MARVEL Super Heroes",
@@ -10132,8 +10129,8 @@
         70,
         18
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "291550": {
       "name": "Brawlhalla",
@@ -10423,8 +10420,8 @@
         44,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "310060": {
       "name": "Knights of Pen and Paper 2",
@@ -10464,8 +10461,8 @@
         43,
         62
       ],
-      "price": "R$ 44,50",
-      "priceUSD": 4450
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "311690": {
       "name": "Enter the Gungeon",
@@ -12772,8 +12769,8 @@
         43,
         62
       ],
-      "price": "R$ 9,49",
-      "priceUSD": 949
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "585450": {
       "name": "Shadows: Awakening",
@@ -13151,8 +13148,8 @@
         23,
         62
       ],
-      "price": "R$ 30,99",
-      "priceUSD": 3099
+      "price": "R$ 61,99",
+      "priceUSD": 6199
     },
     "623990": {
       "name": "Tom Clancy's Rainbow Six Siege - Test Server",
@@ -13944,8 +13941,8 @@
         44,
         62
       ],
-      "price": "R$ 14,97",
-      "priceUSD": 1497
+      "price": "R$ 59,90",
+      "priceUSD": 5990
     },
     "729720": {
       "name": "Zomborg",
@@ -14152,8 +14149,8 @@
         44,
         62
       ],
-      "price": "R$ 20,98",
-      "priceUSD": 2098
+      "price": "R$ 104,90",
+      "priceUSD": 10490
     },
     "794260": {
       "name": "Outward",
@@ -14667,8 +14664,8 @@
         44,
         62
       ],
-      "price": "R$ 37,99",
-      "priceUSD": 3799
+      "price": "R$ 15,19",
+      "priceUSD": 1519
     },
     "960910": {
       "name": "Heavy Rain",
@@ -15113,7 +15110,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 675.95,
+      "totalHours": 677.05,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15145,8 +15142,8 @@
         44,
         62
       ],
-      "price": "R$ 199,99",
-      "priceUSD": 19999
+      "price": "R$ 149,99",
+      "priceUSD": 14999
     },
     "1087760": {
       "name": "The Gunk",
@@ -16913,8 +16910,8 @@
         44,
         62
       ],
-      "price": "R$ 74,99",
-      "priceUSD": 7499
+      "price": "R$ 25,49",
+      "priceUSD": 2549
     },
     "1677470": {
       "name": "GrandChase Classic",
@@ -17561,7 +17558,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 287.9666666666667,
+      "totalHours": 289.1,
       "owners": [
         "Lírio",
         "Carrot"
@@ -17610,8 +17607,8 @@
         18,
         61
       ],
-      "price": "R$ 62,49",
-      "priceUSD": 6249
+      "price": "R$ 249,99",
+      "priceUSD": 24999
     },
     "2400160": {
       "name": "Glyphica: Typing Survival",
@@ -18222,7 +18219,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2494.7166666666667,
+      "totalHours": 2514.1,
       "owners": [
         "Lírio",
         "Nino"
@@ -18484,43 +18481,6 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1776644094,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1777864334,
-      "personastate": 4,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -18532,7 +18492,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
       "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1776048845,
+      "lastlogoff": 1777953009,
       "personastate": 0,
       "primaryclanid": "103582791429521408",
       "timecreated": 1614905012,
@@ -18549,36 +18509,13 @@
       "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
       "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1777855463,
-      "personastate": 3,
+      "lastlogoff": 1777962608,
+      "personastate": 0,
       "realname": "Noob",
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
-      "gameextrainfo": "Bongo Cat",
-      "gameid": "3419430",
       "loccountrycode": "BR"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1777847160,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -18595,6 +18532,64 @@
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
       "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1777912290,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1777940291,
+      "personastate": 4,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1776644094,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
