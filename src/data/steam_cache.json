@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T08:47:56.898Z",
+  "timestamp": "2026-05-08T07:55:52.548Z",
   "data": {
     "Lírio": [
       {
@@ -1494,15 +1494,15 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 58,
-        "playtime_forever": 47751,
+        "playtime_2weeks": 115,
+        "playtime_forever": 47809,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 47751,
+        "playtime_windows_forever": 47809,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778126678,
+        "rtime_last_played": 1778214170,
         "playtime_disconnected": 0
       },
       {
@@ -2549,15 +2549,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 1923,
-        "playtime_forever": 17109,
+        "playtime_2weeks": 2069,
+        "playtime_forever": 17255,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17109,
+        "playtime_windows_forever": 17255,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778119827,
+        "rtime_last_played": 1778217430,
         "playtime_disconnected": 0
       },
       {
@@ -3618,15 +3618,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 741,
-        "playtime_forever": 16927,
+        "playtime_2weeks": 823,
+        "playtime_forever": 17008,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 16927,
+        "playtime_windows_forever": 17008,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777951900,
+        "rtime_last_played": 1778210342,
         "playtime_disconnected": 0
       },
       {
@@ -3945,15 +3945,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 18231,
-        "playtime_forever": 136468,
+        "playtime_2weeks": 18380,
+        "playtime_forever": 137878,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 136468,
+        "playtime_windows_forever": 137878,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778141229,
+        "rtime_last_played": 1778225829,
         "playtime_disconnected": 19
       },
       {
@@ -4064,7 +4064,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 14322,
+        "playtime_2weeks": 12934,
         "playtime_forever": 27375,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4454,7 +4454,7 @@
       {
         "appid": 397540,
         "name": "Borderlands 3",
-        "playtime_2weeks": 725,
+        "playtime_2weeks": 575,
         "playtime_forever": 2062,
         "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac",
         "has_community_visible_stats": true,
@@ -5367,7 +5367,7 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 1529,
+        "playtime_2weeks": 1523,
         "playtime_forever": 16085,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
@@ -5557,7 +5557,7 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 58,
+        "playtime_2weeks": 57,
         "playtime_forever": 15245,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
@@ -7119,8 +7119,8 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 58,
-        "playtime_forever": 27104,
+        "playtime_2weeks": 75,
+        "playtime_forever": 27121,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
       },
@@ -7919,8 +7919,8 @@
         42,
         62
       ],
-      "price": "R$ 12,99",
-      "priceUSD": 1299
+      "price": "R$ 25,99",
+      "priceUSD": 2599
     },
     "7670": {
       "name": "BioShock",
@@ -7958,8 +7958,8 @@
         17,
         62
       ],
-      "price": "R$ 16,99",
-      "priceUSD": 1699
+      "price": "R$ 2,54",
+      "priceUSD": 254
     },
     "8850": {
       "name": "BioShock 2",
@@ -8018,8 +8018,8 @@
         29,
         62
       ],
-      "price": "R$ 14,75",
-      "priceUSD": 1475
+      "price": "R$ 59,00",
+      "priceUSD": 5900
     },
     "17410": {
       "name": "Mirror's Edge",
@@ -8036,8 +8036,8 @@
         43,
         62
       ],
-      "price": "R$ 38,15",
-      "priceUSD": 3815
+      "price": "R$ 109,00",
+      "priceUSD": 10900
     },
     "20900": {
       "name": "The Witcher: Enhanced Edition",
@@ -9631,8 +9631,8 @@
         42,
         62
       ],
-      "price": "R$ 34,79",
-      "priceUSD": 3479
+      "price": "R$ 115,99",
+      "priceUSD": 11599
     },
     "262060": {
       "name": "Darkest Dungeon®",
@@ -10384,6 +10384,7 @@
         13,
         35,
         67,
+        73,
         68,
         74,
         69,
@@ -10437,8 +10438,8 @@
         29,
         62
       ],
-      "price": "R$ 7,24",
-      "priceUSD": 724
+      "price": "R$ 28,99",
+      "priceUSD": 2899
     },
     "310950": {
       "name": "Street Fighter V",
@@ -10846,8 +10847,8 @@
         44,
         62
       ],
-      "price": "R$ 77,50",
-      "priceUSD": 7750
+      "price": "R$ 58,12",
+      "priceUSD": 5812
     },
     "351970": {
       "name": "Tales of Zestiria",
@@ -10871,8 +10872,8 @@
         44,
         62
       ],
-      "price": "R$ 9,09",
-      "priceUSD": 909
+      "price": "R$ 90,99",
+      "priceUSD": 9099
     },
     "356190": {
       "name": "Middle-earth™: Shadow of War™",
@@ -11278,8 +11279,8 @@
         43,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 69,99",
+      "priceUSD": 6999
     },
     "383270": {
       "name": "Hue",
@@ -11668,7 +11669,7 @@
     "431960": {
       "name": "Wallpaper Engine",
       "appid": 431960,
-      "totalHours": 906.5666666666667,
+      "totalHours": 907.5333333333334,
       "owners": [
         "Lírio",
         "Kiri",
@@ -11816,8 +11817,8 @@
         44,
         62
       ],
-      "price": "R$ 17,99",
-      "priceUSD": 1799
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "440900": {
       "name": "Conan Exiles Enhanced",
@@ -11979,8 +11980,8 @@
         25,
         62
       ],
-      "price": "R$ 77,50",
-      "priceUSD": 7750
+      "price": "R$ 77,00",
+      "priceUSD": 7700
     },
     "457140": {
       "name": "Oxygen Not Included",
@@ -12901,8 +12902,8 @@
         43,
         62
       ],
-      "price": "R$ 257,90",
-      "priceUSD": 25790
+      "price": "R$ 51,36",
+      "priceUSD": 5136
     },
     "593600": {
       "name": "PixARK",
@@ -13101,8 +13102,8 @@
         23,
         62
       ],
-      "price": "R$ 173,50",
-      "priceUSD": 17350
+      "price": "R$ 86,75",
+      "priceUSD": 8675
     },
     "611500": {
       "name": "Quake Champions",
@@ -13332,8 +13333,8 @@
         42,
         62
       ],
-      "price": "R$ 50,00",
-      "priceUSD": 5000
+      "price": "R$ 125,00",
+      "priceUSD": 12500
     },
     "638230": {
       "name": "Journey",
@@ -13664,8 +13665,8 @@
         44,
         62
       ],
-      "price": "R$ 232,50",
-      "priceUSD": 23250
+      "price": "R$ 55,98",
+      "priceUSD": 5598
     },
     "678960": {
       "name": "CODE VEIN",
@@ -13687,8 +13688,8 @@
         23,
         62
       ],
-      "price": "R$ 149,99",
-      "priceUSD": 14999
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "683320": {
       "name": "GRIS",
@@ -14123,8 +14124,8 @@
         23,
         62
       ],
-      "price": "R$ 61,64",
-      "priceUSD": 6164
+      "price": "R$ 257,90",
+      "priceUSD": 25790
     },
     "787810": {
       "name": "Rogue Heroes: Ruins of Tasos",
@@ -14541,8 +14542,8 @@
         23,
         62
       ],
-      "price": "R$ 22,99",
-      "priceUSD": 2299
+      "price": "R$ 229,90",
+      "priceUSD": 22990
     },
     "919220": {
       "name": "Destiny or Fate",
@@ -14615,7 +14616,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 383.85,
+      "totalHours": 386.2833333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14832,8 +14833,8 @@
         42,
         62
       ],
-      "price": "R$ 86,90",
-      "priceUSD": 8690
+      "price": "R$ 43,45",
+      "priceUSD": 4345
     },
     "1016920": {
       "name": "Unrailed!",
@@ -15469,8 +15470,8 @@
         43,
         61
       ],
-      "price": "R$ 39,80",
-      "priceUSD": 3980
+      "price": "R$ 199,00",
+      "priceUSD": 19900
     },
     "1172450": {
       "name": "Carto",
@@ -15881,8 +15882,8 @@
         42,
         43
       ],
-      "price": "R$ 13,35",
-      "priceUSD": 1335
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "1238810": {
       "name": "Battlefield™ V",
@@ -15902,8 +15903,8 @@
         29,
         61
       ],
-      "price": "R$ 11,45",
-      "priceUSD": 1145
+      "price": "R$ 229,00",
+      "priceUSD": 22900
     },
     "1238840": {
       "name": "Battlefield™ 1",
@@ -15935,8 +15936,8 @@
         29,
         61
       ],
-      "price": "R$ 9,95",
-      "priceUSD": 995
+      "price": "R$ 199,00",
+      "priceUSD": 19900
     },
     "1245620": {
       "name": "ELDEN RING",
@@ -16480,8 +16481,8 @@
         23,
         62
       ],
-      "price": "R$ 87,45",
-      "priceUSD": 8745
+      "price": "R$ 174,90",
+      "priceUSD": 17490
     },
     "1476970": {
       "name": "IdleOn",
@@ -16598,8 +16599,8 @@
         70,
         61
       ],
-      "price": "R$ 12,45",
-      "priceUSD": 1245
+      "price": "R$ 249,00",
+      "priceUSD": 24900
     },
     "1549250": {
       "name": "Undecember",
@@ -16668,8 +16669,8 @@
         28,
         62
       ],
-      "price": "R$ 59,92",
-      "priceUSD": 5992
+      "price": "R$ 349,90",
+      "priceUSD": 34990
     },
     "1599340": {
       "name": "Lost Ark",
@@ -16759,7 +16760,7 @@
     "1623730": {
       "name": "Palworld",
       "appid": 1623730,
-      "totalHours": 667.0333333333333,
+      "totalHours": 667.3166666666666,
       "owners": [
         "Lírio",
         "Nino",
@@ -16940,8 +16941,8 @@
         23,
         62
       ],
-      "price": "R$ 49,98",
-      "priceUSD": 4998
+      "price": "R$ 249,90",
+      "priceUSD": 24990
     },
     "1712840": {
       "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
@@ -16994,8 +16995,8 @@
         15,
         62
       ],
-      "price": "R$ 85,98",
-      "priceUSD": 8598
+      "price": "R$ 214,95",
+      "priceUSD": 21495
     },
     "1782210": {
       "name": "Crab Game",
@@ -17177,8 +17178,8 @@
         25,
         62
       ],
-      "price": "R$ 2,20",
-      "priceUSD": 220
+      "price": "R$ 3,15",
+      "priceUSD": 315
     },
     "1922560": {
       "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
@@ -17199,8 +17200,8 @@
         22,
         35
       ],
-      "price": "R$ 47,70",
-      "priceUSD": 4770
+      "price": "R$ 159,00",
+      "priceUSD": 15900
     },
     "1942280": {
       "name": "Brotato",
@@ -17557,7 +17558,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 289.1,
+      "totalHours": 290.45,
       "owners": [
         "Lírio",
         "Carrot"
@@ -17626,8 +17627,8 @@
         25,
         62
       ],
-      "price": "R$ 20,99",
-      "priceUSD": 2099
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "2448970": {
       "name": "Dungeonborne",
@@ -18218,7 +18219,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2546.7166666666667,
+      "totalHours": 2570.2166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -18480,45 +18481,6 @@
     }
   },
   "players": {
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1778111180,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1778073995,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
-    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -18559,23 +18521,6 @@
       "gameid": "3419430",
       "loccountrycode": "BR"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1777953009,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -18594,6 +18539,62 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1778156387,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1777953009,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1778111180,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     }
   }
 }
