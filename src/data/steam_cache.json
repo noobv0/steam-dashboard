@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T07:55:52.548Z",
+  "timestamp": "2026-05-09T08:10:15.725Z",
   "data": {
     "Lírio": [
       {
@@ -1614,14 +1614,15 @@
       {
         "appid": 460790,
         "name": "Bayonetta",
-        "playtime_forever": 0,
+        "playtime_2weeks": 84,
+        "playtime_forever": 84,
         "img_icon_url": "9c591c4d3d3d5e5164ba08465aaf4407d86301b9",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 84,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1778266082,
         "content_descriptorids": [
           1,
           2,
@@ -2549,15 +2550,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 2069,
-        "playtime_forever": 17255,
+        "playtime_2weeks": 2226,
+        "playtime_forever": 17412,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17255,
+        "playtime_windows_forever": 17412,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778217430,
+        "rtime_last_played": 1778295896,
         "playtime_disconnected": 0
       },
       {
@@ -3618,15 +3619,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 823,
-        "playtime_forever": 17008,
+        "playtime_2weeks": 897,
+        "playtime_forever": 17083,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17008,
+        "playtime_windows_forever": 17083,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778210342,
+        "rtime_last_played": 1778303183,
         "playtime_disconnected": 0
       },
       {
@@ -3931,7 +3932,7 @@
       {
         "appid": 3265700,
         "name": "Vampire Crawlers",
-        "playtime_2weeks": 557,
+        "playtime_2weeks": 214,
         "playtime_forever": 557,
         "img_icon_url": "0ad548761903321badf0d368b1142e7976a455d7",
         "has_community_visible_stats": true,
@@ -3945,15 +3946,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 18380,
-        "playtime_forever": 137878,
+        "playtime_2weeks": 18359,
+        "playtime_forever": 139311,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 137878,
+        "playtime_windows_forever": 139311,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778225829,
+        "rtime_last_played": 1778311844,
         "playtime_disconnected": 19
       },
       {
@@ -4064,7 +4065,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 12934,
+        "playtime_2weeks": 11480,
         "playtime_forever": 27375,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4955,7 +4956,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 532,
+        "playtime_2weeks": 377,
         "playtime_forever": 9625,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -4994,7 +4995,6 @@
       {
         "appid": 1145350,
         "name": "Hades II",
-        "playtime_2weeks": 12,
         "playtime_forever": 3115,
         "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
         "has_community_visible_stats": true
@@ -5367,7 +5367,7 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 1523,
+        "playtime_2weeks": 1462,
         "playtime_forever": 16085,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
@@ -7993,17 +7993,9 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        22,
-        29,
-        23,
-        42,
-        62
-      ],
-      "price": "R$ 11,24",
-      "priceUSD": 1124
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "17390": {
       "name": "Spore",
@@ -12002,14 +11994,24 @@
     "460790": {
       "name": "Bayonetta",
       "appid": 460790,
-      "totalHours": 0,
+      "totalHours": 1.4,
       "owners": [
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/460790/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        23,
+        41,
+        42,
+        43,
+        62
+      ],
+      "price": "R$ 89,50",
+      "priceUSD": 8950
     },
     "461040": {
       "name": "PICO PARK:Classic Edition",
@@ -14616,7 +14618,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 386.2833333333333,
+      "totalHours": 388.9,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16289,8 +16291,8 @@
         18,
         62
       ],
-      "price": "R$ 3,49",
-      "priceUSD": 349
+      "price": "R$ 1,74",
+      "priceUSD": 174
     },
     "1407200": {
       "name": "World of Tanks",
@@ -17558,7 +17560,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 290.45,
+      "totalHours": 291.7,
       "owners": [
         "Lírio",
         "Carrot"
@@ -18219,7 +18221,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2570.2166666666667,
+      "totalHours": 2594.1,
       "owners": [
         "Lírio",
         "Nino"
@@ -18481,25 +18483,6 @@
     }
   },
   "players": {
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
-      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1777786570,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -18511,8 +18494,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
       "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1778139322,
-      "personastate": 4,
+      "lastlogoff": 1778284718,
+      "personastate": 3,
       "realname": "Noob",
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
@@ -18540,6 +18523,23 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1778290989,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -18561,23 +18561,6 @@
       "locstatecode": "15",
       "loccityid": 7726
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1777953009,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -18588,13 +18571,32 @@
       "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
       "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1778111180,
+      "lastlogoff": 1778297220,
       "personastate": 0,
       "realname": "CarrotcakezZ",
       "primaryclanid": "103582791429521408",
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
+      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
+      "lastlogoff": 1777786570,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
