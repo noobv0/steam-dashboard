@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T09:53:57.491Z",
+  "timestamp": "2026-05-12T08:54:27.116Z",
   "data": {
     "Lírio": [
       {
@@ -226,15 +226,15 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_2weeks": 543,
-        "playtime_forever": 40294,
+        "playtime_2weeks": 678,
+        "playtime_forever": 40430,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 39672,
+        "playtime_windows_forever": 39808,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778443915,
+        "rtime_last_played": 1778522871,
         "playtime_disconnected": 0
       },
       {
@@ -2549,15 +2549,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 2312,
-        "playtime_forever": 17498,
+        "playtime_2weeks": 2392,
+        "playtime_forever": 17600,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17498,
+        "playtime_windows_forever": 17600,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778396248,
+        "rtime_last_played": 1778564528,
         "playtime_disconnected": 0
       },
       {
@@ -3104,14 +3104,14 @@
       {
         "appid": 1281930,
         "name": "tModLoader",
-        "playtime_2weeks": 543,
-        "playtime_forever": 33564,
+        "playtime_2weeks": 679,
+        "playtime_forever": 33700,
         "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131",
-        "playtime_windows_forever": 33450,
+        "playtime_windows_forever": 33586,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778443916,
+        "rtime_last_played": 1778522872,
         "playtime_disconnected": 0
       },
       {
@@ -3618,15 +3618,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 808,
-        "playtime_forever": 17193,
+        "playtime_2weeks": 854,
+        "playtime_forever": 17269,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17193,
+        "playtime_windows_forever": 17269,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778366046,
+        "rtime_last_played": 1778556835,
         "playtime_disconnected": 1
       },
       {
@@ -3944,15 +3944,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 16552,
-        "playtime_forever": 140488,
+        "playtime_2weeks": 16341,
+        "playtime_forever": 141655,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 140488,
+        "playtime_windows_forever": 141655,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778492518,
+        "rtime_last_played": 1778574338,
         "playtime_disconnected": 19
       },
       {
@@ -4063,7 +4063,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 8496,
+        "playtime_2weeks": 7312,
         "playtime_forever": 27375,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4453,7 +4453,7 @@
       {
         "appid": 397540,
         "name": "Borderlands 3",
-        "playtime_2weeks": 702,
+        "playtime_2weeks": 496,
         "playtime_forever": 2188,
         "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac",
         "has_community_visible_stats": true,
@@ -5154,8 +5154,8 @@
       {
         "appid": 1761390,
         "name": "Hatsune Miku: Project DIVA Mega Mix+",
-        "playtime_2weeks": 40,
-        "playtime_forever": 456,
+        "playtime_2weeks": 68,
+        "playtime_forever": 484,
         "img_icon_url": "6467c6bec4cbd97c3ed30119e8b08072644dd9ab",
         "has_community_visible_stats": true
       },
@@ -5367,8 +5367,8 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 1258,
-        "playtime_forever": 16085,
+        "playtime_2weeks": 1001,
+        "playtime_forever": 16105,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
       },
@@ -6368,7 +6368,8 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_forever": 3564,
+        "playtime_2weeks": 3,
+        "playtime_forever": 3568,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
           2,
@@ -6982,8 +6983,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 993,
-        "playtime_forever": 30287,
+        "playtime_2weeks": 1017,
+        "playtime_forever": 30311,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7118,7 +7119,7 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 75,
+        "playtime_2weeks": 61,
         "playtime_forever": 27121,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
@@ -8257,7 +8258,7 @@
     "105600": {
       "name": "Terraria",
       "appid": 105600,
-      "totalHours": 2203.25,
+      "totalHours": 2205.516666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -8289,7 +8290,7 @@
     "108600": {
       "name": "Project Zomboid",
       "appid": 108600,
-      "totalHours": 445.29999999999995,
+      "totalHours": 445.3666666666667,
       "owners": [
         "Dudu",
         "Nino"
@@ -8751,8 +8752,8 @@
         22,
         18
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "221040": {
       "name": "Resident Evil 6",
@@ -8974,7 +8975,7 @@
     "236390": {
       "name": "War Thunder",
       "appid": 236390,
-      "totalHours": 268.0833333333333,
+      "totalHours": 268.4166666666667,
       "owners": [
         "Dudu"
       ],
@@ -9526,8 +9527,8 @@
         15,
         42
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 119,99",
+      "priceUSD": 11999
     },
     "252950": {
       "name": "Rocket League",
@@ -9650,8 +9651,8 @@
         43,
         62
       ],
-      "price": "R$ 124,50",
-      "priceUSD": 12450
+      "price": "R$ 31,12",
+      "priceUSD": 3112
     },
     "265210": {
       "name": "Viscera Cleanup Detail: Santa's Rampage",
@@ -10231,8 +10232,8 @@
         25,
         62
       ],
-      "price": "R$ 9,49",
-      "priceUSD": 949
+      "price": "R$ 45,99",
+      "priceUSD": 4599
     },
     "301520": {
       "name": "Robocraft",
@@ -12967,8 +12968,8 @@
         61,
         62
       ],
-      "price": "R$ 129,00",
-      "priceUSD": 12900
+      "price": "R$ 19,35",
+      "priceUSD": 1935
     },
     "601430": {
       "name": "The Evil Within 2",
@@ -13430,8 +13431,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "644560": {
       "name": "Mirror",
@@ -14519,8 +14520,8 @@
         23,
         62
       ],
-      "price": "R$ 26,98",
-      "priceUSD": 2698
+      "price": "R$ 133,90",
+      "priceUSD": 13390
     },
     "899440": {
       "name": "GOD EATER 3",
@@ -14612,13 +14613,13 @@
         28,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 390.33333333333337,
+      "totalHours": 392.0333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14666,8 +14667,8 @@
         44,
         62
       ],
-      "price": "R$ 15,19",
-      "priceUSD": 1519
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "960910": {
       "name": "Heavy Rain",
@@ -15112,7 +15113,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 694.0500000000001,
+      "totalHours": 694.45,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15144,8 +15145,8 @@
         44,
         62
       ],
-      "price": "R$ 149,99",
-      "priceUSD": 14999
+      "price": "R$ 199,99",
+      "priceUSD": 19999
     },
     "1087760": {
       "name": "The Gunk",
@@ -15569,8 +15570,8 @@
         41,
         42
       ],
-      "price": "R$ 299,90",
-      "priceUSD": 29990
+      "price": "R$ 74,97",
+      "priceUSD": 7497
     },
     "1180660": {
       "name": "Tell Me Why",
@@ -15994,7 +15995,7 @@
     "1281930": {
       "name": "tModLoader",
       "appid": 1281930,
-      "totalHours": 950.7,
+      "totalHours": 952.9666666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16982,7 +16983,7 @@
     "1761390": {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
       "appid": 1761390,
-      "totalHours": 7.6,
+      "totalHours": 8.066666666666666,
       "owners": [
         "Kiri"
       ],
@@ -17159,8 +17160,8 @@
         69,
         62
       ],
-      "price": "R$ 53,59",
-      "priceUSD": 5359
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "1919460": {
       "name": "Seraph's Last Stand",
@@ -17560,7 +17561,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 293.53333333333336,
+      "totalHours": 294.8,
       "owners": [
         "Lírio",
         "Carrot"
@@ -18221,7 +18222,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2613.7166666666667,
+      "totalHours": 2633.1666666666665,
       "owners": [
         "Lírio",
         "Nino"
@@ -18483,6 +18484,27 @@
     }
   },
   "players": {
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1778543245,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -18494,8 +18516,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
       "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1778374327,
-      "personastate": 1,
+      "lastlogoff": 1778533738,
+      "personastate": 4,
       "realname": "Noob",
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
@@ -18503,25 +18525,6 @@
       "gameextrainfo": "Bongo Cat",
       "gameid": "3419430",
       "loccountrycode": "BR"
-    },
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
-      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1777786570,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     },
     "Bambo": {
       "steamid": "76561199148095723",
@@ -18540,27 +18543,6 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1778461871,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -18578,6 +18560,25 @@
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
+      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
+      "lastlogoff": 1778553066,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     },
     "Kiri": {
       "steamid": "76561199011715965",
