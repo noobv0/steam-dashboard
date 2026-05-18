@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T08:34:33.757Z",
+  "timestamp": "2026-05-18T10:20:01.228Z",
   "data": {
     "Lírio": [
       {
@@ -429,15 +429,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 64,
-        "playtime_forever": 118882,
+        "playtime_2weeks": 252,
+        "playtime_forever": 119071,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 113909,
+        "playtime_windows_forever": 114098,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778981703,
+        "rtime_last_played": 1779053955,
         "content_descriptorids": [
           2,
           5
@@ -2554,15 +2554,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 1473,
-        "playtime_forever": 17725,
+        "playtime_2weeks": 1289,
+        "playtime_forever": 17760,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17725,
+        "playtime_windows_forever": 17760,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778727068,
+        "rtime_last_played": 1779041545,
         "playtime_disconnected": 0
       },
       {
@@ -3624,15 +3624,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 707,
-        "playtime_forever": 17389,
+        "playtime_2weeks": 638,
+        "playtime_forever": 17498,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17389,
+        "playtime_windows_forever": 17498,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778986847,
+        "rtime_last_played": 1779060374,
         "playtime_disconnected": 1
       },
       {
@@ -3882,7 +3882,7 @@
         "appid": 3224770,
         "name": "Umamusume: Pretty Derby",
         "playtime_forever": 80,
-        "img_icon_url": "72d8d476a3883e1f6e10c7cd04b78b5c0f8aa5fd",
+        "img_icon_url": "27040b6d7b0d2950a3f3deb69a99c4c0358b0654",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 80,
         "playtime_mac_forever": 0,
@@ -3950,15 +3950,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 16371,
-        "playtime_forever": 148288,
+        "playtime_2weeks": 16386,
+        "playtime_forever": 149848,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 148288,
+        "playtime_windows_forever": 149848,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1779005052,
+        "rtime_last_played": 1779098653,
         "playtime_disconnected": 19
       },
       {
@@ -4069,7 +4069,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 1895,
+        "playtime_2weeks": 940,
         "playtime_forever": 28315,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4459,8 +4459,8 @@
       {
         "appid": 397540,
         "name": "Borderlands 3",
-        "playtime_2weeks": 128,
-        "playtime_forever": 2191,
+        "playtime_2weeks": 224,
+        "playtime_forever": 2286,
         "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -4485,8 +4485,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 89,
-        "playtime_forever": 13711,
+        "playtime_2weeks": 91,
+        "playtime_forever": 13713,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -4627,8 +4627,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 58,
-        "playtime_forever": 1824,
+        "playtime_2weeks": 149,
+        "playtime_forever": 1915,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -4962,8 +4962,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 429,
-        "playtime_forever": 10054,
+        "playtime_2weeks": 481,
+        "playtime_forever": 10106,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5048,7 +5048,8 @@
       {
         "appid": 1210320,
         "name": "Potion Craft: Alchemist Simulator",
-        "playtime_forever": 147,
+        "playtime_2weeks": 1,
+        "playtime_forever": 148,
         "img_icon_url": "e0a089daf3bfb668d42375e2e3d1f9c1184bb80f",
         "has_community_visible_stats": true
       },
@@ -5374,8 +5375,8 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 449,
-        "playtime_forever": 16535,
+        "playtime_2weeks": 508,
+        "playtime_forever": 16594,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
       },
@@ -7128,8 +7129,8 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 61,
-        "playtime_forever": 27121,
+        "playtime_2weeks": 65,
+        "playtime_forever": 27125,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
       },
@@ -8896,7 +8897,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2301.4166666666665,
+      "totalHours": 2304.5666666666666,
       "owners": [
         "Lírio",
         "Dudu",
@@ -8980,7 +8981,7 @@
     "236390": {
       "name": "War Thunder",
       "appid": 236390,
-      "totalHours": 275.5833333333333,
+      "totalHours": 276.56666666666666,
       "owners": [
         "Dudu"
       ],
@@ -11422,7 +11423,7 @@
     "397540": {
       "name": "Borderlands 3",
       "appid": 397540,
-      "totalHours": 36.516666666666666,
+      "totalHours": 38.1,
       "owners": [
         "Kiri"
       ],
@@ -11554,7 +11555,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 617.1833333333333,
+      "totalHours": 617.2166666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12668,7 +12669,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 949.15,
+      "totalHours": 950.6666666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14269,8 +14270,8 @@
         42,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 8,20",
+      "priceUSD": 820
     },
     "821880": {
       "name": "Idol Manager",
@@ -14623,7 +14624,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 394.1166666666667,
+      "totalHours": 394.70000000000005,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15073,8 +15074,8 @@
         25,
         62
       ],
-      "price": "R$ 3,49",
-      "priceUSD": 349
+      "price": "R$ 1,74",
+      "priceUSD": 174
     },
     "1076280": {
       "name": "Showdown Bandit",
@@ -15117,7 +15118,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 698.4666666666667,
+      "totalHours": 699.3333333333334,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15728,7 +15729,7 @@
     "1210320": {
       "name": "Potion Craft: Alchemist Simulator",
       "appid": 1210320,
-      "totalHours": 2.45,
+      "totalHours": 2.466666666666667,
       "owners": [
         "Kiri"
       ],
@@ -15771,8 +15772,8 @@
         18,
         62
       ],
-      "price": "R$ 57,99",
-      "priceUSD": 5799
+      "price": "R$ 14,49",
+      "priceUSD": 1449
     },
     "1222140": {
       "name": "Detroit: Become Human",
@@ -16767,7 +16768,7 @@
     "1623730": {
       "name": "Palworld",
       "appid": 1623730,
-      "totalHours": 667.3166666666666,
+      "totalHours": 667.3833333333333,
       "owners": [
         "Lírio",
         "Nino",
@@ -17565,7 +17566,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 296.8,
+      "totalHours": 298.6166666666667,
       "owners": [
         "Lírio",
         "Carrot"
@@ -18226,7 +18227,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2743.7166666666667,
+      "totalHours": 2769.7166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -18311,8 +18312,8 @@
         29,
         62
       ],
-      "price": "R$ 23,99",
-      "priceUSD": 2399
+      "price": "R$ 14,87",
+      "priceUSD": 1487
     },
     "3557620": {
       "name": "Blue Archive",
@@ -18488,24 +18489,6 @@
     }
   },
   "players": {
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1778297220,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -18527,6 +18510,24 @@
       "gameid": "3419430",
       "loccountrycode": "BR"
     },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1779062886,
+      "personastate": 3,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -18544,25 +18545,6 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1778979431,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -18574,7 +18556,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1778704378,
+      "lastlogoff": 1779067085,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -18595,11 +18577,30 @@
       "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
       "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1778990282,
+      "lastlogoff": 1779075647,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
       "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1778979431,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
