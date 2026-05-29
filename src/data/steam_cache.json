@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-28T10:17:12.486Z",
+  "timestamp": "2026-05-29T10:08:32.837Z",
   "data": {
     "Lírio": [
       {
@@ -228,7 +228,7 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_2weeks": 286,
+        "playtime_2weeks": 78,
         "playtime_forever": 40717,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true,
@@ -430,15 +430,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 490,
-        "playtime_forever": 119308,
+        "playtime_2weeks": 542,
+        "playtime_forever": 119361,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 114335,
+        "playtime_windows_forever": 114387,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1779123490,
+        "rtime_last_played": 1780024306,
         "content_descriptorids": [
           2,
           5
@@ -2690,13 +2690,14 @@
       {
         "appid": 993090,
         "name": "Lossless Scaling",
-        "playtime_forever": 42,
+        "playtime_2weeks": 378,
+        "playtime_forever": 420,
         "img_icon_url": "42900f430ed7828d2dfa25f07ac02e3de96bc520",
-        "playtime_windows_forever": 42,
+        "playtime_windows_forever": 420,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1777514246,
+        "rtime_last_played": 1780000635,
         "playtime_disconnected": 0
       },
       {
@@ -3123,7 +3124,7 @@
       {
         "appid": 1281930,
         "name": "tModLoader",
-        "playtime_2weeks": 287,
+        "playtime_2weeks": 79,
         "playtime_forever": 33987,
         "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131",
         "playtime_windows_forever": 33874,
@@ -3461,14 +3462,15 @@
       {
         "appid": 1771300,
         "name": "Kingdom Come: Deliverance II",
-        "playtime_forever": 0,
+        "playtime_2weeks": 402,
+        "playtime_forever": 402,
         "img_icon_url": "80e8d75b87433627cafd2a1bcbb5b9f5741e2277",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 402,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1780000630,
         "content_descriptorids": [
           1,
           2,
@@ -3996,15 +3998,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 17359,
-        "playtime_forever": 161973,
+        "playtime_2weeks": 16248,
+        "playtime_forever": 162252,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 161973,
+        "playtime_windows_forever": 162252,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1779961161,
+        "rtime_last_played": 1779977916,
         "playtime_disconnected": 19
       },
       {
@@ -4115,7 +4117,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 940,
+        "playtime_2weeks": 537,
         "playtime_forever": 28315,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4687,8 +4689,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1005,
-        "playtime_forever": 2830,
+        "playtime_2weeks": 1180,
+        "playtime_forever": 3004,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -8316,8 +8318,8 @@
         44,
         62
       ],
-      "price": "R$ 4,79",
-      "priceUSD": 479
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "105600": {
       "name": "Terraria",
@@ -8951,7 +8953,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2308.5166666666664,
+      "totalHours": 2309.3999999999996,
       "owners": [
         "Lírio",
         "Dudu",
@@ -9250,8 +9252,8 @@
         43,
         62
       ],
-      "price": "R$ 19,80",
-      "priceUSD": 1980
+      "price": "R$ 99,00",
+      "priceUSD": 9900
     },
     "239820": {
       "name": "Game Dev Tycoon",
@@ -9290,8 +9292,8 @@
         23,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "242700": {
       "name": "Injustice: Gods Among Us Ultimate Edition",
@@ -10439,8 +10441,8 @@
         61,
         62
       ],
-      "price": "R$ 61,50",
-      "priceUSD": 6150
+      "price": "R$ 15,37",
+      "priceUSD": 1537
     },
     "307780": {
       "name": "Mortal Kombat X",
@@ -10939,8 +10941,8 @@
         23,
         62
       ],
-      "price": "R$ 229,99",
-      "priceUSD": 22999
+      "price": "R$ 22,99",
+      "priceUSD": 2299
     },
     "356570": {
       "name": "Party Hard",
@@ -11974,8 +11976,8 @@
         44,
         62
       ],
-      "price": "R$ 30,99",
-      "priceUSD": 3099
+      "price": "R$ 9,29",
+      "priceUSD": 929
     },
     "452060": {
       "name": "Caveblazers",
@@ -12168,8 +12170,8 @@
         17,
         62
       ],
-      "price": "R$ 99,99",
-      "priceUSD": 9999
+      "price": "R$ 39,99",
+      "priceUSD": 3999
     },
     "473690": {
       "name": "Absolver",
@@ -12241,8 +12243,8 @@
         42,
         62
       ],
-      "price": "R$ 149,00",
-      "priceUSD": 14900
+      "price": "R$ 37,25",
+      "priceUSD": 3725
     },
     "493520": {
       "name": "GTFO",
@@ -12709,7 +12711,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 965.9166666666666,
+      "totalHours": 968.8166666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14117,8 +14119,8 @@
         43,
         62
       ],
-      "price": "R$ 37,99",
-      "priceUSD": 3799
+      "price": "R$ 13,29",
+      "priceUSD": 1329
     },
     "761890": {
       "name": "Albion Online",
@@ -14853,7 +14855,7 @@
     "993090": {
       "name": "Lossless Scaling",
       "appid": 993090,
-      "totalHours": 0.7,
+      "totalHours": 7,
       "owners": [
         "Lírio"
       ],
@@ -15538,8 +15540,8 @@
         23,
         62
       ],
-      "price": "R$ 37,99",
-      "priceUSD": 3799
+      "price": "R$ 11,39",
+      "priceUSD": 1139
     },
     "1172470": {
       "name": "Apex Legends",
@@ -15696,8 +15698,8 @@
         17,
         62
       ],
-      "price": "R$ 73,99",
-      "priceUSD": 7399
+      "price": "R$ 11,09",
+      "priceUSD": 1109
     },
     "1190970": {
       "name": "House Flipper 2",
@@ -15791,8 +15793,8 @@
         23,
         62
       ],
-      "price": "R$ 23,99",
-      "priceUSD": 2399
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1218210": {
       "name": "Coromon",
@@ -16431,8 +16433,8 @@
         43,
         62
       ],
-      "price": "R$ 149,00",
-      "priceUSD": 14900
+      "price": "R$ 22,35",
+      "priceUSD": 2235
     },
     "1449690": {
       "name": "The Walking Dead: The Telltale Definitive Series",
@@ -16797,8 +16799,8 @@
         23,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 35,99",
+      "priceUSD": 3599
     },
     "1623730": {
       "name": "Palworld",
@@ -17044,14 +17046,25 @@
     "1771300": {
       "name": "Kingdom Come: Deliverance II",
       "appid": 1771300,
-      "totalHours": 0,
+      "totalHours": 6.7,
       "owners": [
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        68,
+        74,
+        69,
+        70,
+        23,
+        62
+      ],
+      "price": "R$ 149,50",
+      "priceUSD": 14950
     },
     "1782210": {
       "name": "Crab Game",
@@ -17302,8 +17315,8 @@
         18,
         62
       ],
-      "price": "R$ 21,44",
-      "priceUSD": 2144
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "1966900": {
       "name": "20 Minutes Till Dawn",
@@ -17928,16 +17941,7 @@
         "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2707930/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        9,
-        38,
-        27,
-        22,
-        35,
-        18
-      ],
+      "categories": [],
       "price": null,
       "priceUSD": 0
     },
@@ -18295,7 +18299,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 2971.8,
+      "totalHours": 2976.45,
       "owners": [
         "Lírio",
         "Nino"
@@ -18580,6 +18584,25 @@
     }
   },
   "players": {
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1780033760,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -18614,26 +18637,6 @@
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
-      "gameextrainfo": "Bongo Cat",
-      "gameid": "3419430",
-      "loccountrycode": "BR"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1779587609,
-      "personastate": 1,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
       "loccountrycode": "BR"
     },
     "Dudu": {
@@ -18656,6 +18659,24 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1780002170,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -18676,25 +18697,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1779889016,
-      "personastate": 4,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     }
   }
 }
