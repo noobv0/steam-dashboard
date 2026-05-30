@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T10:08:32.837Z",
+  "timestamp": "2026-05-30T08:41:19.457Z",
   "data": {
     "Lírio": [
       {
@@ -45,7 +45,6 @@
       {
         "appid": 4000,
         "name": "Garry's Mod",
-        "playtime_2weeks": 1,
         "playtime_forever": 466,
         "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
         "has_community_visible_stats": true,
@@ -138,7 +137,6 @@
       {
         "appid": 20920,
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-        "playtime_2weeks": 1,
         "playtime_forever": 1,
         "img_icon_url": "62dd5c627664df1bcabc47727c7dcd7ccab353e9",
         "has_community_visible_stats": true,
@@ -228,15 +226,15 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_2weeks": 78,
-        "playtime_forever": 40717,
+        "playtime_2weeks": 166,
+        "playtime_forever": 40884,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 40095,
+        "playtime_windows_forever": 40261,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778871321,
+        "rtime_last_played": 1780109785,
         "playtime_disconnected": 7
       },
       {
@@ -1497,7 +1495,6 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 1,
         "playtime_forever": 47811,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
@@ -1707,15 +1704,15 @@
       {
         "appid": 489830,
         "name": "The Elder Scrolls V: Skyrim Special Edition",
-        "playtime_2weeks": 419,
-        "playtime_forever": 1183,
+        "playtime_2weeks": 485,
+        "playtime_forever": 1249,
         "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 1183,
+        "playtime_windows_forever": 1249,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1779849191,
+        "rtime_last_played": 1780089738,
         "content_descriptorids": [
           1,
           5
@@ -2281,7 +2278,6 @@
       {
         "appid": 700580,
         "name": "Rust - Staging Branch",
-        "playtime_2weeks": 1,
         "playtime_forever": 1,
         "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
         "has_community_visible_stats": true,
@@ -3124,14 +3120,14 @@
       {
         "appid": 1281930,
         "name": "tModLoader",
-        "playtime_2weeks": 79,
-        "playtime_forever": 33987,
+        "playtime_2weeks": 166,
+        "playtime_forever": 34154,
         "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131",
-        "playtime_windows_forever": 33874,
+        "playtime_windows_forever": 34040,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1778871322,
+        "rtime_last_played": 1780109788,
         "playtime_disconnected": 7
       },
       {
@@ -3998,7 +3994,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 16248,
+        "playtime_2weeks": 15074,
         "playtime_forever": 162252,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4117,7 +4113,6 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 537,
         "playtime_forever": 28315,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4689,8 +4684,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1180,
-        "playtime_forever": 3004,
+        "playtime_2weeks": 1275,
+        "playtime_forever": 3100,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -5223,7 +5218,8 @@
       {
         "appid": 1761390,
         "name": "Hatsune Miku: Project DIVA Mega Mix+",
-        "playtime_forever": 484,
+        "playtime_2weeks": 7,
+        "playtime_forever": 492,
         "img_icon_url": "6467c6bec4cbd97c3ed30119e8b08072644dd9ab",
         "has_community_visible_stats": true
       },
@@ -5436,7 +5432,7 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_2weeks": 162,
+        "playtime_2weeks": 59,
         "playtime_forever": 16594,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
@@ -5593,13 +5589,15 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_forever": 13381,
+        "playtime_2weeks": 4,
+        "playtime_forever": 13386,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
         "playtime_forever": 4443,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true
@@ -8324,7 +8322,7 @@
     "105600": {
       "name": "Terraria",
       "appid": 105600,
-      "totalHours": 2210.3,
+      "totalHours": 2213.0833333333335,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10002,8 +10000,8 @@
         44,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "285920": {
       "name": "TerraTech",
@@ -11540,8 +11538,8 @@
         23,
         62
       ],
-      "price": "R$ 69,99",
-      "priceUSD": 6999
+      "price": "R$ 7,69",
+      "priceUSD": 769
     },
     "407530": {
       "name": "ARK: Survival Of The Fittest",
@@ -11597,7 +11595,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 617.2166666666667,
+      "totalHours": 617.3,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12224,7 +12222,7 @@
     "489830": {
       "name": "The Elder Scrolls V: Skyrim Special Edition",
       "appid": 489830,
-      "totalHours": 24.866666666666667,
+      "totalHours": 25.96666666666667,
       "owners": [
         "Lírio",
         "Kiri"
@@ -12711,7 +12709,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 968.8166666666667,
+      "totalHours": 970.4166666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13538,8 +13536,8 @@
         17,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 5,99",
+      "priceUSD": 599
     },
     "646910": {
       "name": "The Crew 2",
@@ -16043,7 +16041,7 @@
     "1281930": {
       "name": "tModLoader",
       "appid": 1281930,
-      "totalHours": 957.7500000000001,
+      "totalHours": 960.5333333333334,
       "owners": [
         "Lírio",
         "Kiri",
@@ -17025,7 +17023,7 @@
     "1761390": {
       "name": "Hatsune Miku: Project DIVA Mega Mix+",
       "appid": 1761390,
-      "totalHours": 8.066666666666666,
+      "totalHours": 8.2,
       "owners": [
         "Kiri"
       ],
@@ -17890,8 +17888,8 @@
         28,
         61
       ],
-      "price": "R$ 79,80",
-      "priceUSD": 7980
+      "price": "R$ 39,90",
+      "priceUSD": 3990
     },
     "2700950": {
       "name": "BAPBAP Playtest",
@@ -18584,42 +18582,6 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1780033760,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1779594744,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -18650,7 +18612,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
       "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1779938072,
+      "lastlogoff": 1780113027,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -18658,6 +18620,42 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1780125398,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1779594744,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
