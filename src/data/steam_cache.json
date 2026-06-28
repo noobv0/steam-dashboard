@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T08:49:21.924Z",
+  "timestamp": "2026-06-28T09:06:01.901Z",
   "data": {
     "Lírio": [
       {
@@ -3683,6 +3683,22 @@
         "playtime_disconnected": 0
       },
       {
+        "appid": 1986840,
+        "name": "POPGOES Arcade",
+        "playtime_forever": 0,
+        "img_icon_url": "2c5c3a28957eee4cf23daf600f20fa85c3a02772",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "content_descriptorids": [
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
         "appid": 2073850,
         "name": "THE FINALS",
         "playtime_forever": 69,
@@ -4095,7 +4111,6 @@
       {
         "appid": 3405690,
         "name": "EA SPORTS FC™ 26",
-        "playtime_2weeks": 14,
         "playtime_forever": 14,
         "img_icon_url": "8bc71e018a346f575c4b1bc6ed42a06c15e8e454",
         "has_community_visible_stats": true,
@@ -4109,15 +4124,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 19313,
-        "playtime_forever": 197716,
+        "playtime_2weeks": 18816,
+        "playtime_forever": 198676,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 197716,
+        "playtime_windows_forever": 198676,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1782544187,
+        "rtime_last_played": 1782636721,
         "playtime_disconnected": 33
       },
       {
@@ -4191,15 +4206,15 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 15988,
-        "playtime_forever": 32425,
+        "playtime_2weeks": 14636,
+        "playtime_forever": 32529,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 32425,
+        "playtime_windows_forever": 32529,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1782544187,
+        "rtime_last_played": 1782585367,
         "playtime_disconnected": 223
       },
       {
@@ -4392,7 +4407,7 @@
       {
         "appid": 237310,
         "name": "Elsword",
-        "playtime_2weeks": 118,
+        "playtime_2weeks": 50,
         "playtime_forever": 2495,
         "img_icon_url": "311373619fe61198fa93080fa0c7deb3ad6f7c36",
         "has_community_visible_stats": true
@@ -4845,7 +4860,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1883,
+        "playtime_2weeks": 1564,
         "playtime_forever": 5545,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -5948,7 +5963,7 @@
       {
         "appid": 674940,
         "name": "Stick Fight: The Game",
-        "playtime_2weeks": 24,
+        "playtime_2weeks": 8,
         "playtime_forever": 765,
         "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a",
         "has_community_visible_stats": true
@@ -7570,8 +7585,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 17930,
-        "playtime_forever": 25379,
+        "playtime_2weeks": 17943,
+        "playtime_forever": 26849,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -18028,6 +18043,18 @@
       "price": null,
       "priceUSD": 0
     },
+    "1986840": {
+      "name": "POPGOES Arcade",
+      "appid": 1986840,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1986840/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
     "1987080": {
       "name": "Inside the Backrooms",
       "appid": 1987080,
@@ -18046,8 +18073,8 @@
         30,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1989270": {
       "name": "Slay the Princess — The Pristine Cut",
@@ -19079,7 +19106,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 3567.55,
+      "totalHours": 3583.55,
       "owners": [
         "Lírio",
         "Nino"
@@ -19240,7 +19267,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 963.4,
+      "totalHours": 989.6333333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -19444,22 +19471,44 @@
     }
   },
   "players": {
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1781299545,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/liriobranco/",
+      "avatar": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
+      "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
+      "lastlogoff": 1782578823,
+      "personastate": 3,
+      "realname": "Noob",
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "gameextrainfo": "Bongo Cat",
+      "gameid": "3419430",
+      "loccountrycode": "BR"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1782617195,
       "personastate": 0,
+      "realname": "CarrotcakezZ",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     },
     "Nino": {
       "steamid": "76561198394798327",
@@ -19484,24 +19533,22 @@
       "locstatecode": "15",
       "loccityid": 7726
     },
-    "Lírio": {
-      "steamid": "76561198158302059",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/liriobranco/",
-      "avatar": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
-      "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1782544187,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1781299545,
       "personastate": 0,
-      "realname": "Noob",
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -19521,24 +19568,6 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1781828982,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
     },
     "Dudu": {
       "steamid": "76561198833523657",
