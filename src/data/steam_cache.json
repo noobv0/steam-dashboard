@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T08:42:25.737Z",
+  "timestamp": "2026-07-09T09:57:58.457Z",
   "data": {
     "Lírio": [
       {
@@ -451,7 +451,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1559,
+        "playtime_2weeks": 1305,
         "playtime_forever": 121805,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1545,15 +1545,15 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 7,
-        "playtime_forever": 47823,
+        "playtime_2weeks": 11,
+        "playtime_forever": 47828,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 47823,
+        "playtime_windows_forever": 47828,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1782831294,
+        "rtime_last_played": 1783574535,
         "playtime_disconnected": 0
       },
       {
@@ -4193,15 +4193,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 17529,
-        "playtime_forever": 211558,
+        "playtime_2weeks": 17799,
+        "playtime_forever": 212826,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 211558,
+        "playtime_windows_forever": 212826,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1783499324,
+        "rtime_last_played": 1783589177,
         "playtime_disconnected": 33
       },
       {
@@ -4274,15 +4274,15 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 9714,
-        "playtime_forever": 39546,
+        "playtime_2weeks": 9276,
+        "playtime_forever": 39760,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 39546,
+        "playtime_windows_forever": 39760,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1783465472,
+        "rtime_last_played": 1783589172,
         "playtime_disconnected": 223
       },
       {
@@ -4931,8 +4931,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1036,
-        "playtime_forever": 6366,
+        "playtime_2weeks": 1233,
+        "playtime_forever": 6607,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -5788,7 +5788,6 @@
       {
         "appid": 346010,
         "name": "Besiege",
-        "playtime_2weeks": 32,
         "playtime_forever": 32,
         "img_icon_url": "16667f445723c720782314269e41f9daa8a7fb56",
         "has_community_visible_stats": true,
@@ -5947,7 +5946,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 708,
+        "playtime_2weeks": 298,
         "playtime_forever": 46007,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -6119,7 +6118,8 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_forever": 8824,
+        "playtime_2weeks": 156,
+        "playtime_forever": 8980,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -6291,6 +6291,14 @@
         "name": "BAPBAP",
         "playtime_forever": 19,
         "img_icon_url": "ce7e38ccce5d4e01e57d1d3c39a47376da0f4f5f"
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "playtime_2weeks": 85,
+        "playtime_forever": 85,
+        "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
+        "has_community_visible_stats": true
       },
       {
         "appid": 2313250,
@@ -7657,8 +7665,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 15542,
-        "playtime_forever": 37131,
+        "playtime_2weeks": 15252,
+        "playtime_forever": 37953,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -12179,7 +12187,7 @@
     "431960": {
       "name": "Wallpaper Engine",
       "appid": 431960,
-      "totalHours": 907.8166666666666,
+      "totalHours": 907.9,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13219,7 +13227,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1065.9333333333332,
+      "totalHours": 1069.9499999999998,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15905,7 +15913,7 @@
     "1091500": {
       "name": "Cyberpunk 2077",
       "appid": 1091500,
-      "totalHours": 152.23333333333332,
+      "totalHours": 154.83333333333331,
       "owners": [
         "Kiri",
         "Dudu"
@@ -17012,23 +17020,9 @@
         "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1395560/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        49,
-        47,
-        37,
-        24,
-        29,
-        55,
-        56,
-        57,
-        58,
-        18,
-        62
-      ],
-      "price": "R$ 1,74",
-      "priceUSD": 174
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "1407200": {
       "name": "World of Tanks",
@@ -18448,6 +18442,41 @@
       "price": null,
       "priceUSD": 0
     },
+    "2246340": {
+      "name": "Monster Hunter Wilds",
+      "appid": 2246340,
+      "totalHours": 1.4166666666666667,
+      "owners": [
+        "Dudu"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/capsule_sm_120.jpg",
+      "categories": [
+        2,
+        1,
+        9,
+        38,
+        27,
+        22,
+        28,
+        29,
+        64,
+        67,
+        66,
+        68,
+        75,
+        55,
+        57,
+        59,
+        69,
+        65,
+        70,
+        23,
+        61,
+        62
+      ],
+      "price": "R$ 117,18",
+      "priceUSD": 11718
+    },
     "2289970": {
       "name": "In Sink: A Co-Op Escape Prologue",
       "appid": 2289970,
@@ -19249,7 +19278,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 3798.25,
+      "totalHours": 3819.383333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -19410,7 +19439,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1277.95,
+      "totalHours": 1295.2166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -19614,6 +19643,26 @@
     }
   },
   "players": {
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
+      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
+      "lastlogoff": 1783571803,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -19625,12 +19674,29 @@
       "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
       "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
       "lastlogoff": 1783217192,
-      "personastate": 0,
+      "personastate": 4,
       "realname": "CarrotcakezZ",
       "primaryclanid": "103582791429521408",
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1783228672,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -19662,7 +19728,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1783468651,
+      "lastlogoff": 1783564181,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -19671,23 +19737,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1783228672,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
     },
     "Lírio": {
       "steamid": "76561198158302059",
@@ -19701,7 +19750,7 @@
       "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
       "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
       "lastlogoff": 1783403249,
-      "personastate": 3,
+      "personastate": 4,
       "realname": "Noob",
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
@@ -19709,26 +19758,6 @@
       "gameextrainfo": "Bongo Cat",
       "gameid": "3419430",
       "loccountrycode": "BR"
-    },
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e4c5e2ab869df41657cb2108f0d01723d0ba7ba7_full.jpg",
-      "avatarhash": "e4c5e2ab869df41657cb2108f0d01723d0ba7ba7",
-      "lastlogoff": 1783483793,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     }
   }
 }
