@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T09:41:26.932Z",
+  "timestamp": "2026-07-14T08:19:30.820Z",
   "data": {
     "Lírio": [
       {
@@ -1546,7 +1546,7 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 11,
+        "playtime_2weeks": 5,
         "playtime_forever": 47828,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
@@ -4195,7 +4195,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 13509,
+        "playtime_2weeks": 12568,
         "playtime_forever": 213521,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4249,7 +4249,7 @@
         "name": "Blue Archive",
         "playtime_2weeks": 130,
         "playtime_forever": 1807,
-        "img_icon_url": "9b61e370a633032b9e1dc0bf153e89c0306ce135",
+        "img_icon_url": "60ec056fcf6bcd2f89f99cac6f28719a2e87ed6a",
         "playtime_windows_forever": 1677,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 130,
@@ -4277,7 +4277,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 7458,
+        "playtime_2weeks": 6528,
         "playtime_forever": 40371,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -4829,8 +4829,8 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 1,
-        "playtime_forever": 428,
+        "playtime_2weeks": 2,
+        "playtime_forever": 430,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true
       },
@@ -4945,8 +4945,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1889,
-        "playtime_forever": 7484,
+        "playtime_2weeks": 1778,
+        "playtime_forever": 7555,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -5555,7 +5555,8 @@
       {
         "appid": 4025700,
         "name": "Heartopia",
-        "playtime_forever": 7204,
+        "playtime_2weeks": 91,
+        "playtime_forever": 7295,
         "img_icon_url": "6784899cc6c7b17f7f5b47723acabc0e46126a12"
       }
     ],
@@ -6315,8 +6316,8 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 1631,
-        "playtime_forever": 1631,
+        "playtime_2weeks": 1836,
+        "playtime_forever": 1836,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
       },
@@ -7688,7 +7689,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 10593,
+        "playtime_2weeks": 9636,
         "playtime_forever": 38930,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -12210,7 +12211,7 @@
     "431960": {
       "name": "Wallpaper Engine",
       "appid": 431960,
-      "totalHours": 907.9,
+      "totalHours": 907.9333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12614,8 +12615,8 @@
         29,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 2,79",
+      "priceUSD": 279
     },
     "462780": {
       "name": "Darksiders Warmastered Edition",
@@ -13262,7 +13263,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1084.5666666666666,
+      "totalHours": 1085.75,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14033,8 +14034,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "644560": {
       "name": "Mirror",
@@ -14168,8 +14169,8 @@
         15,
         62
       ],
-      "price": "R$ 10,49",
-      "priceUSD": 1049
+      "price": "R$ 5,24",
+      "priceUSD": 524
     },
     "667530": {
       "name": "Drunken Wrestlers 2",
@@ -17688,8 +17689,8 @@
         23,
         62
       ],
-      "price": "R$ 73,99",
-      "priceUSD": 7399
+      "price": "R$ 59,19",
+      "priceUSD": 5919
     },
     "1674170": {
       "name": "Sprocket",
@@ -18492,7 +18493,7 @@
     "2246340": {
       "name": "Monster Hunter Wilds",
       "appid": 2246340,
-      "totalHours": 27.183333333333334,
+      "totalHours": 30.6,
       "owners": [
         "Dudu"
       ],
@@ -19637,7 +19638,7 @@
     "4025700": {
       "name": "Heartopia",
       "appid": 4025700,
-      "totalHours": 144.56666666666666,
+      "totalHours": 146.08333333333331,
       "owners": [
         "Kiri",
         "Dudu"
@@ -19690,79 +19691,6 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1783893554,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1783228672,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/liriobranco/",
-      "avatar": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
-      "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1783911280,
-      "personastate": 3,
-      "realname": "Noob",
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1783887855,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -19774,7 +19702,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1783916990,
+      "lastlogoff": 1784001911,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -19794,7 +19722,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1783909581,
+      "lastlogoff": 1783993346,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -19803,6 +19731,79 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/liriobranco/",
+      "avatar": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
+      "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
+      "lastlogoff": 1783986018,
+      "personastate": 0,
+      "realname": "Noob",
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1783893554,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1783991261,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1783228672,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     }
   }
 }
