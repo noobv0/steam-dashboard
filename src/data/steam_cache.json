@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T08:42:11.939Z",
+  "timestamp": "2026-07-23T08:43:33.421Z",
   "data": {
     "Lírio": [
       {
@@ -1349,15 +1349,15 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 1020,
-        "playtime_forever": 3457,
+        "playtime_2weeks": 1233,
+        "playtime_forever": 3670,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 2437,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 1020,
+        "playtime_linux_forever": 1233,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784525964,
+        "rtime_last_played": 1784782644,
         "content_descriptorids": [
           2,
           5
@@ -1547,7 +1547,6 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 4,
         "playtime_forever": 47828,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true,
@@ -1966,6 +1965,21 @@
           2,
           5
         ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 562260,
+        "name": "WAVESHAPER",
+        "playtime_2weeks": 121,
+        "playtime_forever": 121,
+        "img_icon_url": "6b505f92f863977b2c1451a770e7b6f2a6308435",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 121,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1784790017,
+        "has_leaderboards": true,
         "playtime_disconnected": 0
       },
       {
@@ -4232,7 +4246,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 1959,
+        "playtime_2weeks": 747,
         "playtime_forever": 213521,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4314,7 +4328,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 824,
+        "playtime_2weeks": 663,
         "playtime_forever": 40371,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -4982,8 +4996,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1813,
-        "playtime_forever": 8180,
+        "playtime_2weeks": 1609,
+        "playtime_forever": 8217,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -6180,7 +6194,6 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_2weeks": 156,
         "playtime_forever": 8980,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
@@ -6365,7 +6378,7 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 3203,
+        "playtime_2weeks": 3118,
         "playtime_forever": 3203,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
@@ -6375,6 +6388,14 @@
         "name": "Travellin Cats in Paris",
         "playtime_forever": 25,
         "img_icon_url": "2fca05189f6299dc7cc1f9a3d80a942971c1cf19",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2357570,
+        "name": "Overwatch®",
+        "playtime_2weeks": 7,
+        "playtime_forever": 7,
+        "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true
       },
       {
@@ -7739,8 +7760,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 2931,
-        "playtime_forever": 40062,
+        "playtime_2weeks": 2457,
+        "playtime_forever": 40410,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8412,8 +8433,8 @@
         42,
         62
       ],
-      "price": "R$ 25,99",
-      "priceUSD": 2599
+      "price": "R$ 12,99",
+      "priceUSD": 1299
     },
     "6100": {
       "name": "Eets",
@@ -8653,8 +8674,8 @@
         43,
         62
       ],
-      "price": "R$ 3,74",
-      "priceUSD": 374
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "42910": {
       "name": "Magicka",
@@ -11027,8 +11048,8 @@
         44,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 14,09",
+      "priceUSD": 1409
     },
     "312520": {
       "name": "Rain World",
@@ -11835,7 +11856,7 @@
     "381210": {
       "name": "Dead by Daylight",
       "appid": 381210,
-      "totalHours": 134.66666666666666,
+      "totalHours": 138.21666666666667,
       "owners": [
         "Lírio",
         "Kiri"
@@ -11985,8 +12006,8 @@
         42,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 4,99",
+      "priceUSD": 499
     },
     "394310": {
       "name": "Punch Club",
@@ -13189,6 +13210,29 @@
       "price": null,
       "priceUSD": 0
     },
+    "562260": {
+      "name": "WAVESHAPER",
+      "appid": 562260,
+      "totalHours": 2.0166666666666666,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/562260/capsule_sm_120.jpg",
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        67,
+        68,
+        75,
+        15,
+        25,
+        62
+      ],
+      "price": "R$ 6,39",
+      "priceUSD": 639
+    },
     "563560": {
       "name": "Alien Swarm: Reactive Drop",
       "appid": 563560,
@@ -13315,7 +13359,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1105.6999999999998,
+      "totalHours": 1106.3166666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16240,13 +16284,7 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1168280/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        10,
-        28,
-        23,
-        62
-      ],
+      "categories": [],
       "price": null,
       "priceUSD": 0
     },
@@ -18196,8 +18234,8 @@
         44,
         62
       ],
-      "price": "R$ 16,99",
-      "priceUSD": 1699
+      "price": "R$ 10,19",
+      "priceUSD": 1019
     },
     "1966720": {
       "name": "Lethal Company",
@@ -18662,9 +18700,10 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 298.7166666666667,
+      "totalHours": 298.83333333333337,
       "owners": [
         "Lírio",
+        "Dudu",
         "Carrot"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2357570/capsule_sm_120.jpg",
@@ -19564,7 +19603,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1340.5500000000002,
+      "totalHours": 1346.35,
       "owners": [
         "Lírio",
         "Nino"
@@ -19768,6 +19807,24 @@
     }
   },
   "players": {
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/baibaihe/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1784792486,
+      "personastate": 3,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -19785,6 +19842,27 @@
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1784772693,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Bambo": {
       "steamid": "76561199148095723",
@@ -19833,7 +19911,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1784691272,
+      "lastlogoff": 1784779864,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -19841,46 +19919,6 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/liriobranco/",
-      "avatar": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/79a8119bd2a027755f93872d0d09b959909a0405_full.jpg",
-      "avatarhash": "79a8119bd2a027755f93872d0d09b959909a0405",
-      "lastlogoff": 1784688656,
-      "personastate": 3,
-      "realname": "Noob",
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1784684339,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     }
   }
 }
