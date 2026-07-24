@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T08:43:33.421Z",
+  "timestamp": "2026-07-24T08:40:21.744Z",
   "data": {
     "Lírio": [
       {
@@ -451,15 +451,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 96,
-        "playtime_forever": 121901,
+        "playtime_2weeks": 105,
+        "playtime_forever": 121911,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 116832,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 96,
+        "playtime_linux_forever": 105,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784700817,
+        "rtime_last_played": 1784842157,
         "content_descriptorids": [
           2,
           5
@@ -1064,15 +1064,15 @@
       {
         "appid": 304050,
         "name": "Trove",
-        "playtime_2weeks": 261,
-        "playtime_forever": 13484,
+        "playtime_2weeks": 274,
+        "playtime_forever": 13497,
         "img_icon_url": "76b62601bb6f0551c415697fe92a6653340f4a5e",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 4612,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 261,
+        "playtime_linux_forever": 274,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784515658,
+        "rtime_last_played": 1784864331,
         "playtime_disconnected": 0
       },
       {
@@ -1970,15 +1970,15 @@
       {
         "appid": 562260,
         "name": "WAVESHAPER",
-        "playtime_2weeks": 121,
-        "playtime_forever": 121,
+        "playtime_2weeks": 123,
+        "playtime_forever": 123,
         "img_icon_url": "6b505f92f863977b2c1451a770e7b6f2a6308435",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 0,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 121,
+        "playtime_linux_forever": 123,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784790017,
+        "rtime_last_played": 1784827412,
         "has_leaderboards": true,
         "playtime_disconnected": 0
       },
@@ -2002,15 +2002,15 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 571,
-        "playtime_forever": 11939,
+        "playtime_2weeks": 681,
+        "playtime_forever": 12049,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 11367,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 571,
+        "playtime_linux_forever": 681,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784682865,
+        "rtime_last_played": 1784841574,
         "playtime_disconnected": 93
       },
       {
@@ -3838,6 +3838,7 @@
         "name": "Fields of Mistria",
         "playtime_forever": 1,
         "img_icon_url": "a7d749ad644f89eaed4180d8f88e6256e5d3d509",
+        "has_community_visible_stats": true,
         "playtime_windows_forever": 1,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
@@ -4246,7 +4247,6 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 747,
         "playtime_forever": 213521,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4328,7 +4328,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 663,
+        "playtime_2weeks": 5,
         "playtime_forever": 40371,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -4934,7 +4934,7 @@
       {
         "appid": 454650,
         "name": "DRAGON BALL XENOVERSE 2",
-        "playtime_2weeks": 709,
+        "playtime_2weeks": 527,
         "playtime_forever": 770,
         "img_icon_url": "9855d00175f6ffb3a5b334e63a3595dd379921dc",
         "has_community_visible_stats": true
@@ -4996,8 +4996,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1609,
-        "playtime_forever": 8217,
+        "playtime_2weeks": 1464,
+        "playtime_forever": 8318,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -6357,7 +6357,6 @@
       {
         "appid": 2141730,
         "name": "Backrooms: Escape Together",
-        "playtime_2weeks": 13,
         "playtime_forever": 13,
         "img_icon_url": "d4b430f9594dcad772f320fe8792b2c94cf99e06",
         "has_community_visible_stats": true
@@ -6378,7 +6377,7 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 3118,
+        "playtime_2weeks": 2626,
         "playtime_forever": 3203,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
@@ -7592,8 +7591,8 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 672,
-        "playtime_forever": 27797,
+        "playtime_2weeks": 745,
+        "playtime_forever": 27870,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
       },
@@ -7760,8 +7759,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 2457,
-        "playtime_forever": 40410,
+        "playtime_2weeks": 1863,
+        "playtime_forever": 40477,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -9430,7 +9429,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2351.7333333333336,
+      "totalHours": 2351.8999999999996,
       "owners": [
         "Lírio",
         "Dudu",
@@ -9892,8 +9891,8 @@
         42,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "246900": {
       "name": "Viscera Cleanup Detail",
@@ -10832,7 +10831,7 @@
     "304050": {
       "name": "Trove",
       "appid": 304050,
-      "totalHours": 249.98333333333332,
+      "totalHours": 250.2,
       "owners": [
         "Lírio",
         "Dudu",
@@ -10884,8 +10883,8 @@
         35,
         18
       ],
-      "price": "R$ 129,99",
-      "priceUSD": 12999
+      "price": "R$ 19,49",
+      "priceUSD": 1949
     },
     "304930": {
       "name": "Unturned",
@@ -11375,8 +11374,8 @@
         42,
         62
       ],
-      "price": "R$ 31,01",
-      "priceUSD": 3101
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "346900": {
       "name": "AdVenture Capitalist",
@@ -11441,8 +11440,8 @@
         44,
         62
       ],
-      "price": "R$ 58,12",
-      "priceUSD": 5812
+      "price": "R$ 77,50",
+      "priceUSD": 7750
     },
     "351970": {
       "name": "Tales of Zestiria",
@@ -12322,8 +12321,8 @@
         43,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "435150": {
       "name": "Divinity: Original Sin 2",
@@ -12621,8 +12620,8 @@
         25,
         62
       ],
-      "price": "R$ 19,37",
-      "priceUSD": 1937
+      "price": "R$ 77,50",
+      "priceUSD": 7750
     },
     "457140": {
       "name": "Oxygen Not Included",
@@ -12782,8 +12781,8 @@
         17,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 99,99",
+      "priceUSD": 9999
     },
     "473690": {
       "name": "Absolver",
@@ -12898,8 +12897,8 @@
         43,
         62
       ],
-      "price": "R$ 4,69",
-      "priceUSD": 469
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "503560": {
       "name": "911 Operator",
@@ -13018,8 +13017,8 @@
         43,
         62
       ],
-      "price": "R$ 7,99",
-      "priceUSD": 799
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "526870": {
       "name": "Satisfactory",
@@ -13213,7 +13212,7 @@
     "562260": {
       "name": "WAVESHAPER",
       "appid": 562260,
-      "totalHours": 2.0166666666666666,
+      "totalHours": 2.05,
       "owners": [
         "Lírio"
       ],
@@ -13359,7 +13358,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1106.3166666666666,
+      "totalHours": 1109.8333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13527,8 +13526,8 @@
         44,
         62
       ],
-      "price": "R$ 32,99",
-      "priceUSD": 3299
+      "price": "R$ 3,29",
+      "priceUSD": 329
     },
     "588430": {
       "name": "Fallout Shelter",
@@ -13613,8 +13612,8 @@
         43,
         62
       ],
-      "price": "R$ 257,90",
-      "priceUSD": 25790
+      "price": "R$ 51,36",
+      "priceUSD": 5136
     },
     "593600": {
       "name": "PixARK",
@@ -13684,8 +13683,8 @@
         61,
         62
       ],
-      "price": "R$ 19,35",
-      "priceUSD": 1935
+      "price": "R$ 129,00",
+      "priceUSD": 12900
     },
     "601430": {
       "name": "The Evil Within 2",
@@ -14372,8 +14371,8 @@
         44,
         62
       ],
-      "price": "R$ 55,98",
-      "priceUSD": 5598
+      "price": "R$ 37,20",
+      "priceUSD": 3720
     },
     "678960": {
       "name": "CODE VEIN",
@@ -14396,8 +14395,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "683320": {
       "name": "GRIS",
@@ -14878,8 +14877,8 @@
         23,
         62
       ],
-      "price": "R$ 61,64",
-      "priceUSD": 6164
+      "price": "R$ 85,98",
+      "priceUSD": 8598
     },
     "787810": {
       "name": "Rogue Heroes: Ruins of Tasos",
@@ -15018,8 +15017,8 @@
         42,
         62
       ],
-      "price": "R$ 8,20",
-      "priceUSD": 820
+      "price": "R$ 7,12",
+      "priceUSD": 712
     },
     "821880": {
       "name": "Idol Manager",
@@ -15036,8 +15035,8 @@
         23,
         62
       ],
-      "price": "R$ 37,99",
-      "priceUSD": 3799
+      "price": "R$ 18,99",
+      "priceUSD": 1899
     },
     "829110": {
       "name": "LEGO® DC Super-Villains",
@@ -15328,8 +15327,8 @@
         23,
         62
       ],
-      "price": "R$ 22,99",
-      "priceUSD": 2299
+      "price": "R$ 229,90",
+      "priceUSD": 22990
     },
     "919220": {
       "name": "Destiny or Fate",
@@ -15898,8 +15897,8 @@
         25,
         62
       ],
-      "price": "R$ 1,74",
-      "priceUSD": 174
+      "price": "R$ 3,49",
+      "priceUSD": 349
     },
     "1070580": {
       "name": "Drift86",
@@ -16439,8 +16438,8 @@
         41,
         42
       ],
-      "price": "R$ 74,97",
-      "priceUSD": 7497
+      "price": "R$ 299,90",
+      "priceUSD": 29990
     },
     "1180660": {
       "name": "Tell Me Why",
@@ -16648,8 +16647,8 @@
         18,
         62
       ],
-      "price": "R$ 14,49",
-      "priceUSD": 1449
+      "price": "R$ 57,99",
+      "priceUSD": 5799
     },
     "1222140": {
       "name": "Detroit: Become Human",
@@ -16911,8 +16910,8 @@
         23,
         62
       ],
-      "price": "R$ 9,59",
-      "priceUSD": 959
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "1283700": {
       "name": "SUPERVIVE",
@@ -17661,7 +17660,7 @@
     "1623730": {
       "name": "Palworld",
       "appid": 1623730,
-      "totalHours": 684,
+      "totalHours": 685.2166666666667,
       "owners": [
         "Lírio",
         "Nino",
@@ -17685,8 +17684,8 @@
         23,
         62
       ],
-      "price": "R$ 62,29",
-      "priceUSD": 6229
+      "price": "R$ 88,99",
+      "priceUSD": 8899
     },
     "1625450": {
       "name": "Muck",
@@ -19114,8 +19113,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 39,99",
+      "priceUSD": 3999
     },
     "2792610": {
       "name": "Stickman Killing Zombie",
@@ -19366,8 +19365,8 @@
         23,
         62
       ],
-      "price": "R$ 31,24",
-      "priceUSD": 3124
+      "price": "R$ 62,49",
+      "priceUSD": 6249
     },
     "3240220": {
       "name": "Grand Theft Auto V Enhanced",
@@ -19424,8 +19423,8 @@
         23,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "3405690": {
       "name": "EA SPORTS FC™ 26",
@@ -19603,7 +19602,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1346.35,
+      "totalHours": 1347.4666666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -19807,24 +19806,6 @@
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/baibaihe/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1784792486,
-      "personastate": 3,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -19843,26 +19824,43 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
+      "personaname": "guitarhero",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1784772693,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1784872736,
       "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1784864572,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
+      "timecreated": 1525126593,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "locstatecode": "27"
     },
     "Bambo": {
       "steamid": "76561199148095723",
@@ -19900,25 +19898,26 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
+      "personaname": "Nino",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1784779864,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1784858209,
       "personastate": 0,
-      "realname": "Eduardo Peralta",
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
+      "timecreated": 1496527778,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "27"
+      "locstatecode": "15",
+      "loccityid": 7726
     }
   }
 }
