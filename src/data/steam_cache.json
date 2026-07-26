@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T08:19:08.609Z",
+  "timestamp": "2026-07-26T08:38:35.662Z",
   "data": {
     "Lírio": [
       {
@@ -451,7 +451,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 105,
+        "playtime_2weeks": 69,
         "playtime_forever": 121911,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1349,7 +1349,7 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 1233,
+        "playtime_2weeks": 1068,
         "playtime_forever": 3670,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
@@ -2002,15 +2002,15 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 681,
-        "playtime_forever": 12049,
+        "playtime_2weeks": 721,
+        "playtime_forever": 12088,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 11367,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 681,
+        "playtime_linux_forever": 721,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784841574,
+        "rtime_last_played": 1785014466,
         "playtime_disconnected": 93
       },
       {
@@ -3241,7 +3241,6 @@
       {
         "appid": 1245620,
         "name": "ELDEN RING",
-        "playtime_2weeks": 13,
         "playtime_forever": 21344,
         "img_icon_url": "b6e290dd5a92ce98f89089a207733c70c41a1871",
         "has_community_visible_stats": true,
@@ -4297,7 +4296,6 @@
       {
         "appid": 3557620,
         "name": "Blue Archive",
-        "playtime_2weeks": 130,
         "playtime_forever": 1807,
         "img_icon_url": "60ec056fcf6bcd2f89f99cac6f28719a2e87ed6a",
         "playtime_windows_forever": 1677,
@@ -4932,8 +4930,8 @@
       {
         "appid": 454650,
         "name": "DRAGON BALL XENOVERSE 2",
-        "playtime_2weeks": 351,
-        "playtime_forever": 770,
+        "playtime_2weeks": 151,
+        "playtime_forever": 772,
         "img_icon_url": "9855d00175f6ffb3a5b334e63a3595dd379921dc",
         "has_community_visible_stats": true
       },
@@ -4994,7 +4992,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 1511,
+        "playtime_2weeks": 1142,
         "playtime_forever": 8580,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -6376,7 +6374,7 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 2038,
+        "playtime_2weeks": 1916,
         "playtime_forever": 3203,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
@@ -7590,7 +7588,7 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 745,
+        "playtime_2weeks": 660,
         "playtime_forever": 27870,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
@@ -7757,8 +7755,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1823,
-        "playtime_forever": 40477,
+        "playtime_2weeks": 1668,
+        "playtime_forever": 40590,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -10652,8 +10650,8 @@
         44,
         62
       ],
-      "price": "R$ 129,00",
-      "priceUSD": 12900
+      "price": "R$ 12,90",
+      "priceUSD": 1290
     },
     "289650": {
       "name": "Assassin's Creed Unity",
@@ -10768,8 +10766,8 @@
         43,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 4,69",
+      "priceUSD": 469
     },
     "298110": {
       "name": "Far Cry 4",
@@ -10979,8 +10977,8 @@
         44,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "310060": {
       "name": "Knights of Pen and Paper 2",
@@ -12596,7 +12594,7 @@
     "454650": {
       "name": "DRAGON BALL XENOVERSE 2",
       "appid": 454650,
-      "totalHours": 12.833333333333334,
+      "totalHours": 12.866666666666667,
       "owners": [
         "Kiri"
       ],
@@ -12802,8 +12800,8 @@
         43,
         62
       ],
-      "price": "R$ 88,99",
-      "priceUSD": 8899
+      "price": "R$ 17,79",
+      "priceUSD": 1779
     },
     "489520": {
       "name": "Minion Masters",
@@ -13154,8 +13152,8 @@
         43,
         62
       ],
-      "price": "R$ 73,99",
-      "priceUSD": 7399
+      "price": "R$ 22,19",
+      "priceUSD": 2219
     },
     "552500": {
       "name": "Warhammer: Vermintide 2",
@@ -13356,7 +13354,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1115.4166666666665,
+      "totalHours": 1116.0666666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13467,8 +13465,8 @@
         43,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 9,49",
+      "priceUSD": 949
     },
     "585450": {
       "name": "Shadows: Awakening",
@@ -13569,8 +13567,8 @@
         43,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 23,74",
+      "priceUSD": 2374
     },
     "588690": {
       "name": "Peace, Death!",
@@ -19285,8 +19283,8 @@
         23,
         62
       ],
-      "price": "R$ 20,49",
-      "priceUSD": 2049
+      "price": "R$ 13,93",
+      "priceUSD": 1393
     },
     "3177970": {
       "name": "Bioweaver",
@@ -19600,7 +19598,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1347.4666666666667,
+      "totalHours": 1349.35,
       "owners": [
         "Lírio",
         "Nino"
@@ -19804,24 +19802,6 @@
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1784900381,
-      "personastate": 3,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -19840,6 +19820,62 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1784991614,
+      "personastate": 4,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1785014465,
+      "personastate": 4,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1783228672,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -19870,7 +19906,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1784954521,
+      "lastlogoff": 1785051476,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -19878,44 +19914,6 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1783228672,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1784858209,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     }
   }
 }
