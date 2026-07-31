@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T08:39:38.422Z",
+  "timestamp": "2026-07-31T09:02:16.369Z",
   "data": {
     "Lírio": [
       {
@@ -2493,7 +2493,6 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 135,
         "playtime_forever": 67777,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -5371,8 +5370,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 236,
-        "playtime_forever": 11281,
+        "playtime_2weeks": 344,
+        "playtime_forever": 11389,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5716,7 +5715,8 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_forever": 23154,
+        "playtime_2weeks": 100,
+        "playtime_forever": 23255,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
           2,
@@ -6049,8 +6049,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 87,
-        "playtime_forever": 46094,
+        "playtime_2weeks": 92,
+        "playtime_forever": 46099,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -6416,7 +6416,7 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 933,
+        "playtime_2weeks": 927,
         "playtime_forever": 3203,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
@@ -7494,8 +7494,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 28,
-        "playtime_forever": 30460,
+        "playtime_2weeks": 41,
+        "playtime_forever": 30474,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7630,8 +7630,8 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 697,
-        "playtime_forever": 27942,
+        "playtime_2weeks": 726,
+        "playtime_forever": 27970,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
       },
@@ -7797,8 +7797,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 2906,
-        "playtime_forever": 41836,
+        "playtime_2weeks": 2681,
+        "playtime_forever": 41837,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8839,7 +8839,7 @@
     "108600": {
       "name": "Project Zomboid",
       "appid": 108600,
-      "totalHours": 445.3666666666667,
+      "totalHours": 447.04999999999995,
       "owners": [
         "Dudu",
         "Nino"
@@ -10922,8 +10922,8 @@
         35,
         18
       ],
-      "price": "R$ 19,49",
-      "priceUSD": 1949
+      "price": "R$ 129,99",
+      "priceUSD": 12999
     },
     "304930": {
       "name": "Unturned",
@@ -10993,8 +10993,8 @@
         61,
         62
       ],
-      "price": "R$ 61,50",
-      "priceUSD": 6150
+      "price": "R$ 15,37",
+      "priceUSD": 1537
     },
     "307780": {
       "name": "Mortal Kombat X",
@@ -11086,8 +11086,8 @@
         44,
         62
       ],
-      "price": "R$ 14,09",
-      "priceUSD": 1409
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "312520": {
       "name": "Rain World",
@@ -12844,8 +12844,8 @@
         43,
         62
       ],
-      "price": "R$ 17,79",
-      "priceUSD": 1779
+      "price": "R$ 88,99",
+      "priceUSD": 8899
     },
     "489520": {
       "name": "Minion Masters",
@@ -12894,8 +12894,8 @@
         42,
         62
       ],
-      "price": "R$ 149,00",
-      "priceUSD": 14900
+      "price": "R$ 37,25",
+      "priceUSD": 3725
     },
     "493520": {
       "name": "GTFO",
@@ -13398,7 +13398,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1124.4166666666665,
+      "totalHours": 1124.5,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13478,8 +13478,8 @@
         35,
         18
       ],
-      "price": "R$ 17,46",
-      "priceUSD": 1746
+      "price": "R$ 5,23",
+      "priceUSD": 523
     },
     "585420": {
       "name": "Trailmakers",
@@ -13747,8 +13747,8 @@
         23,
         62
       ],
-      "price": "R$ 155,00",
-      "priceUSD": 15500
+      "price": "R$ 31,00",
+      "priceUSD": 3100
     },
     "601510": {
       "name": "Yu-Gi-Oh! Duel Links",
@@ -14767,8 +14767,8 @@
         42,
         62
       ],
-      "price": "R$ 41,99",
-      "priceUSD": 4199
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "740240": {
       "name": "Snake Eyes Dungeon",
@@ -15702,8 +15702,8 @@
         44,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1017180": {
       "name": "The Long Drive",
@@ -15997,7 +15997,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 720.6500000000001,
+      "totalHours": 722.6833333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16378,8 +16378,8 @@
         43,
         61
       ],
-      "price": "R$ 199,00",
-      "priceUSD": 19900
+      "price": "R$ 39,80",
+      "priceUSD": 3980
     },
     "1172450": {
       "name": "Carto",
@@ -16788,8 +16788,8 @@
         42,
         43
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 13,35",
+      "priceUSD": 1335
     },
     "1238810": {
       "name": "Battlefield™ V",
@@ -16809,8 +16809,8 @@
         29,
         61
       ],
-      "price": "R$ 229,00",
-      "priceUSD": 22900
+      "price": "R$ 22,90",
+      "priceUSD": 2290
     },
     "1238840": {
       "name": "Battlefield™ 1",
@@ -16842,8 +16842,8 @@
         29,
         61
       ],
-      "price": "R$ 199,00",
-      "priceUSD": 19900
+      "price": "R$ 19,90",
+      "priceUSD": 1990
     },
     "1245620": {
       "name": "ELDEN RING",
@@ -17535,8 +17535,8 @@
         70,
         61
       ],
-      "price": "R$ 249,00",
-      "priceUSD": 24900
+      "price": "R$ 24,90",
+      "priceUSD": 2490
     },
     "1549250": {
       "name": "Undecember",
@@ -17701,7 +17701,7 @@
     "1623730": {
       "name": "Palworld",
       "appid": 1623730,
-      "totalHours": 686.9166666666666,
+      "totalHours": 687.3833333333333,
       "owners": [
         "Lírio",
         "Nino",
@@ -17885,8 +17885,8 @@
         44,
         62
       ],
-      "price": "R$ 74,99",
-      "priceUSD": 7499
+      "price": "R$ 25,49",
+      "priceUSD": 2549
     },
     "1677470": {
       "name": "GrandChase Classic",
@@ -18248,8 +18248,8 @@
         22,
         35
       ],
-      "price": "R$ 159,00",
-      "priceUSD": 15900
+      "price": "R$ 47,70",
+      "priceUSD": 4770
     },
     "1942280": {
       "name": "Brotato",
@@ -18420,8 +18420,8 @@
         23,
         62
       ],
-      "price": "R$ 54,99",
-      "priceUSD": 5499
+      "price": "R$ 30,24",
+      "priceUSD": 3024
     },
     "2021910": {
       "name": "FPS Chess",
@@ -19655,7 +19655,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1370.1166666666668,
+      "totalHours": 1370.1333333333332,
       "owners": [
         "Lírio",
         "Nino"
@@ -19860,25 +19860,6 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1785256698,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -19907,7 +19888,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1785384069,
+      "lastlogoff": 1785466128,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -19927,7 +19908,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1785352243,
+      "lastlogoff": 1785445157,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -19955,6 +19936,25 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1785256698,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -19967,7 +19967,7 @@
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
       "lastlogoff": 1785396802,
-      "personastate": 0,
+      "personastate": 4,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
