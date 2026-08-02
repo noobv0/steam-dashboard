@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T08:33:41.201Z",
+  "timestamp": "2026-08-02T08:36:58.436Z",
   "data": {
     "Lírio": [
       {
@@ -451,15 +451,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 337,
-        "playtime_forever": 122231,
+        "playtime_2weeks": 395,
+        "playtime_forever": 122290,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 116832,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 426,
+        "playtime_linux_forever": 484,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1785558881,
+        "rtime_last_played": 1785606067,
         "content_descriptorids": [
           2,
           5
@@ -1064,7 +1064,7 @@
       {
         "appid": 304050,
         "name": "Trove",
-        "playtime_2weeks": 298,
+        "playtime_2weeks": 256,
         "playtime_forever": 13521,
         "img_icon_url": "76b62601bb6f0551c415697fe92a6653340f4a5e",
         "has_community_visible_stats": true,
@@ -1363,7 +1363,7 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 650,
+        "playtime_2weeks": 286,
         "playtime_forever": 3673,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
@@ -3574,7 +3574,7 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 58,
+        "playtime_2weeks": 30,
         "playtime_forever": 933,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true,
@@ -5370,8 +5370,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 344,
-        "playtime_forever": 11389,
+        "playtime_2weeks": 639,
+        "playtime_forever": 11684,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5643,7 +5643,6 @@
       {
         "appid": 4025700,
         "name": "Heartopia",
-        "playtime_2weeks": 70,
         "playtime_forever": 7366,
         "img_icon_url": "6784899cc6c7b17f7f5b47723acabc0e46126a12"
       }
@@ -6416,7 +6415,7 @@
       {
         "appid": 2246340,
         "name": "Monster Hunter Wilds",
-        "playtime_2weeks": 402,
+        "playtime_2weeks": 192,
         "playtime_forever": 3203,
         "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
         "has_community_visible_stats": true
@@ -7445,7 +7444,7 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_2weeks": 225,
+        "playtime_2weeks": 215,
         "playtime_forever": 1081,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8"
       },
@@ -7630,7 +7629,7 @@
       {
         "appid": 1623730,
         "name": "Palworld",
-        "playtime_2weeks": 726,
+        "playtime_2weeks": 350,
         "playtime_forever": 27970,
         "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
         "has_community_visible_stats": true
@@ -7797,8 +7796,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 2634,
-        "playtime_forever": 42120,
+        "playtime_2weeks": 2775,
+        "playtime_forever": 42262,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -9467,7 +9466,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2360.116666666667,
+      "totalHours": 2361.1000000000004,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10809,8 +10808,8 @@
         43,
         62
       ],
-      "price": "R$ 4,69",
-      "priceUSD": 469
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "298110": {
       "name": "Far Cry 4",
@@ -15997,7 +15996,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 722.6833333333333,
+      "totalHours": 727.5999999999999,
       "owners": [
         "Lírio",
         "Kiri",
@@ -18313,8 +18312,8 @@
         23,
         62
       ],
-      "price": "R$ 10,19",
-      "priceUSD": 1019
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1974050": {
       "name": "Torchlight: Infinite",
@@ -19655,7 +19654,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1374.85,
+      "totalHours": 1377.2166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -19860,45 +19859,22 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1785256698,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1783228672,
       "personastate": 0,
-      "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1785524847,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -19918,22 +19894,25 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Dudu": {
+      "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1783228672,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1785606600,
       "personastate": 0,
+      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     },
     "Lírio": {
       "steamid": "76561198158302059",
@@ -19946,29 +19925,49 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1785396802,
+      "lastlogoff": 1785623330,
       "personastate": 4,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
       "loccountrycode": "TW"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
+      "personaname": "Nino",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1785559533,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1785620835,
       "personastate": 0,
-      "realname": "Eduardo Peralta",
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1785256698,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
