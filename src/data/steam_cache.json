@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T07:28:36.781Z",
+  "timestamp": "2026-08-08T07:06:23.449Z",
   "data": {
     "Lírio": [
       {
@@ -451,15 +451,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1943,
-        "playtime_forever": 123854,
+        "playtime_2weeks": 2485,
+        "playtime_forever": 124396,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 116832,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 2048,
+        "playtime_linux_forever": 2591,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786078597,
+        "rtime_last_played": 1786161269,
         "content_descriptorids": [
           2,
           5
@@ -3474,7 +3474,7 @@
       },
       {
         "appid": 1476970,
-        "name": "IdleOn",
+        "name": "IdleOn - The Incremental MMO",
         "playtime_forever": 2563,
         "img_icon_url": "8eae2b19c35dc4319a58ec553e4fb28f8eb60e84",
         "has_community_visible_stats": true,
@@ -4551,8 +4551,8 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 354,
-        "playtime_forever": 354,
+        "playtime_2weeks": 525,
+        "playtime_forever": 525,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5045,7 +5045,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 546,
+        "playtime_2weeks": 284,
         "playtime_forever": 8865,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -5753,8 +5753,8 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_2weeks": 1899,
-        "playtime_forever": 25054,
+        "playtime_2weeks": 2004,
+        "playtime_forever": 25158,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
           2,
@@ -6087,7 +6087,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 92,
+        "playtime_2weeks": 19,
         "playtime_forever": 46099,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -7702,7 +7702,8 @@
         "appid": 2139460,
         "name": "Once Human",
         "playtime_forever": 81,
-        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091",
+        "has_community_visible_stats": true
       },
       {
         "appid": 2197910,
@@ -8086,7 +8087,7 @@
       },
       {
         "appid": 1476970,
-        "name": "IdleOn",
+        "name": "IdleOn - The Incremental MMO",
         "playtime_forever": 3675,
         "img_icon_url": "8eae2b19c35dc4319a58ec553e4fb28f8eb60e84",
         "has_community_visible_stats": true
@@ -8875,7 +8876,7 @@
     "108600": {
       "name": "Project Zomboid",
       "appid": 108600,
-      "totalHours": 480.3,
+      "totalHours": 482.03333333333336,
       "owners": [
         "Dudu",
         "Nino"
@@ -9502,7 +9503,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2390.1833333333334,
+      "totalHours": 2402.0666666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12784,8 +12785,8 @@
         43,
         62
       ],
-      "price": "R$ 34,99",
-      "priceUSD": 3499
+      "price": "R$ 5,24",
+      "priceUSD": 524
     },
     "464920": {
       "name": "Surviving Mars",
@@ -14844,8 +14845,8 @@
         44,
         62
       ],
-      "price": "R$ 4,97",
-      "priceUSD": 497
+      "price": "R$ 24,89",
+      "priceUSD": 2489
     },
     "743890": {
       "name": "Mega Man X Legacy Collection",
@@ -15123,8 +15124,8 @@
         42,
         62
       ],
-      "price": "R$ 7,12",
-      "priceUSD": 712
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "821880": {
       "name": "Idol Manager",
@@ -15501,8 +15502,8 @@
         28,
         62
       ],
-      "price": "R$ 7,99",
-      "priceUSD": 799
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "960090": {
       "name": "Bloons TD 6",
@@ -17475,7 +17476,7 @@
       "priceUSD": 6121
     },
     "1476970": {
-      "name": "IdleOn",
+      "name": "IdleOn - The Incremental MMO",
       "appid": 1476970,
       "totalHours": 103.96666666666667,
       "owners": [
@@ -17553,8 +17554,8 @@
         24,
         62
       ],
-      "price": "R$ 10,89",
-      "priceUSD": 1089
+      "price": "R$ 7,62",
+      "priceUSD": 762
     },
     "1510580": {
       "name": "Toy Tinker Simulator",
@@ -18944,8 +18945,8 @@
         29,
         62
       ],
-      "price": "R$ 8,24",
-      "priceUSD": 824
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "2524890": {
       "name": "Pixel Gun 3D: PC Edition",
@@ -19503,8 +19504,8 @@
         23,
         62
       ],
-      "price": "R$ 19,49",
-      "priceUSD": 1949
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "3265700": {
       "name": "Vampire Crawlers",
@@ -19936,6 +19937,23 @@
     }
   },
   "players": {
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1783228672,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -19948,7 +19966,7 @@
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
       "lastlogoff": 1786079320,
-      "personastate": 0,
+      "personastate": 4,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
@@ -19965,7 +19983,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1786074848,
+      "lastlogoff": 1786147283,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -19973,6 +19991,24 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1784082273,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     },
     "Nino": {
       "steamid": "76561198394798327",
@@ -20013,41 +20049,6 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1784082273,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1783228672,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
     }
   }
 }
