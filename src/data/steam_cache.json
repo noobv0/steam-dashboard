@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T07:37:18.144Z",
+  "timestamp": "2026-08-13T07:47:01.995Z",
   "data": {
     "Lírio": [
       {
@@ -98,6 +98,42 @@
         "playtime_forever": 0,
         "img_icon_url": "4ebaf5f9ee74f50152f7ff361debef7553fa0e4e",
         "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 13620,
+        "name": "Tom Clancy's Ghost Recon: Desert Siege",
+        "playtime_forever": 0,
+        "img_icon_url": "657f0f3bd722099e2bf5f43342408ff620522549",
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 13630,
+        "name": "Tom Clancy's Ghost Recon: Island Thunder",
+        "playtime_forever": 0,
+        "img_icon_url": "657f0f3bd722099e2bf5f43342408ff620522549",
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 15300,
+        "name": "Tom Clancy's Ghost Recon",
+        "playtime_forever": 0,
+        "img_icon_url": "5686b6ab1a92912a235117310f14c73f12711808",
         "playtime_windows_forever": 0,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
@@ -327,6 +363,21 @@
         "playtime_disconnected": 0
       },
       {
+        "appid": 212630,
+        "name": "Tom Clancy's Ghost Recon Future Soldier",
+        "playtime_forever": 0,
+        "img_icon_url": "9ca5c4b7da9f87d61d910fcac016431e2a598f4b",
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "content_descriptorids": [
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
         "appid": 212800,
         "name": "Super Crate Box",
         "playtime_forever": 172,
@@ -381,7 +432,7 @@
         "appid": 218620,
         "name": "PAYDAY 2",
         "playtime_forever": 2286,
-        "img_icon_url": "d7fc63389c7ddcbdd3d5de432eb2fd21a564ba6d",
+        "img_icon_url": "8fce45cbb0dee03e87cd30b96ac5e5c3d4b2c494",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 488,
         "playtime_mac_forever": 0,
@@ -451,15 +502,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 3064,
-        "playtime_forever": 125033,
+        "playtime_2weeks": 3080,
+        "playtime_forever": 125153,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 116832,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 3227,
+        "playtime_linux_forever": 3347,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786503702,
+        "rtime_last_played": 1786588511,
         "content_descriptorids": [
           2,
           5
@@ -1693,6 +1744,24 @@
         "playtime_disconnected": 0
       },
       {
+        "appid": 460930,
+        "name": "Tom Clancy's Ghost Recon® Wildlands",
+        "playtime_forever": 0,
+        "img_icon_url": "ddd459159befc6a8cd6c4cb0e2a13c2fd2f8b065",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
         "appid": 461950,
         "name": "Beat Cop",
         "playtime_forever": 71,
@@ -1733,6 +1802,21 @@
           2,
           5
         ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 468920,
+        "name": "Ultimate Fishing Simulator®",
+        "playtime_2weeks": 19,
+        "playtime_forever": 19,
+        "img_icon_url": "c1cb7ae4c5e6c3a3126b5daf9729f8b8a5a72672",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 19,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1786551413,
+        "has_leaderboards": true,
         "playtime_disconnected": 0
       },
       {
@@ -2116,14 +2200,15 @@
       {
         "appid": 606150,
         "name": "Moonlighter",
-        "playtime_forever": 820,
+        "playtime_2weeks": 46,
+        "playtime_forever": 867,
         "img_icon_url": "13ffc570ce5bbe6a5a0c0eec567b87dab07cae25",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 820,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 0,
+        "playtime_linux_forever": 46,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1684611388,
+        "rtime_last_played": 1786560137,
         "playtime_disconnected": 0
       },
       {
@@ -3458,14 +3543,15 @@
       {
         "appid": 1454400,
         "name": "Cookie Clicker",
-        "playtime_forever": 40084,
+        "playtime_2weeks": 554,
+        "playtime_forever": 40639,
         "img_icon_url": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 40084,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 0,
+        "playtime_linux_forever": 554,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1773326136,
+        "rtime_last_played": 1786606096,
         "playtime_disconnected": 1
       },
       {
@@ -3610,7 +3696,7 @@
         "appid": 1665460,
         "name": "eFootball™",
         "playtime_forever": 65,
-        "img_icon_url": "4ef6a89dab3f8916666d70d653105efbb331db79",
+        "img_icon_url": "9926fba802bda7383835b52f8bc7c7998da68925",
         "playtime_windows_forever": 65,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
@@ -3635,6 +3721,19 @@
         "name": "Afterimage",
         "playtime_forever": 0,
         "img_icon_url": "527dfc1d15720b8d2424cf2b3ce8256516ace7dd",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 1703340,
+        "name": "The Stanley Parable: Ultra Deluxe",
+        "playtime_forever": 0,
+        "img_icon_url": "f95fbb1094549fac0af15f7e905207da0e4d339d",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 0,
         "playtime_mac_forever": 0,
@@ -3904,6 +4003,23 @@
         "playtime_deck_forever": 0,
         "rtime_last_played": 1673811131,
         "content_descriptorids": [
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 2231380,
+        "name": "Ghost Recon Breakpoint",
+        "playtime_forever": 0,
+        "img_icon_url": "c3672938f6f5bd6b7825a1a3e434c27971a481a5",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "content_descriptorids": [
+          2,
           5
         ],
         "playtime_disconnected": 0
@@ -4360,14 +4476,15 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_forever": 40371,
+        "playtime_2weeks": 6,
+        "playtime_forever": 40377,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 40365,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 5,
+        "playtime_linux_forever": 11,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1783721082,
+        "rtime_last_played": 1786553207,
         "playtime_disconnected": 223
       },
       {
@@ -4886,8 +5003,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 232,
-        "playtime_forever": 14049,
+        "playtime_2weeks": 341,
+        "playtime_forever": 14158,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -5080,8 +5197,8 @@
       {
         "appid": 599140,
         "name": "Graveyard Keeper",
-        "playtime_2weeks": 54,
-        "playtime_forever": 54,
+        "playtime_2weeks": 95,
+        "playtime_forever": 95,
         "img_icon_url": "b37ef6d7eb243b4d9fc017dec7bc11b234f34cc2",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5400,7 +5517,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 907,
+        "playtime_2weeks": 723,
         "playtime_forever": 12005,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -6943,7 +7060,7 @@
         "appid": 218620,
         "name": "PAYDAY 2",
         "playtime_forever": 373,
-        "img_icon_url": "d7fc63389c7ddcbdd3d5de432eb2fd21a564ba6d",
+        "img_icon_url": "8fce45cbb0dee03e87cd30b96ac5e5c3d4b2c494",
         "has_community_visible_stats": true,
         "content_descriptorids": [
           2,
@@ -7837,7 +7954,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1888,
+        "playtime_2weeks": 1496,
         "playtime_forever": 43332,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -8595,6 +8712,42 @@
       "price": null,
       "priceUSD": 0
     },
+    "13620": {
+      "name": "Tom Clancy's Ghost Recon: Desert Siege",
+      "appid": 13620,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/13620/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
+    "13630": {
+      "name": "Tom Clancy's Ghost Recon: Island Thunder",
+      "appid": 13630,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/13630/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
+    "15300": {
+      "name": "Tom Clancy's Ghost Recon",
+      "appid": 15300,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/15300/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
     "17390": {
       "name": "Spore",
       "appid": 17390,
@@ -8825,8 +8978,8 @@
         44,
         62
       ],
-      "price": "R$ 23,99",
-      "priceUSD": 2399
+      "price": "R$ 4,79",
+      "priceUSD": 479
     },
     "105600": {
       "name": "Terraria",
@@ -9069,8 +9222,8 @@
         44,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "208650": {
       "name": "Batman™: Arkham Knight",
@@ -9120,6 +9273,18 @@
       ],
       "price": "R$ 53,49",
       "priceUSD": 5349
+    },
+    "212630": {
+      "name": "Tom Clancy's Ghost Recon Future Soldier",
+      "appid": 212630,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/212630/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "212800": {
       "name": "Super Crate Box",
@@ -9490,7 +9655,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2415.2166666666662,
+      "totalHours": 2417.2166666666662,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10143,8 +10308,8 @@
         15,
         42
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 119,99",
+      "priceUSD": 11999
     },
     "252950": {
       "name": "Rocket League",
@@ -11409,8 +11574,8 @@
         42,
         62
       ],
-      "price": "R$ 8,39",
-      "priceUSD": 839
+      "price": "R$ 41,99",
+      "priceUSD": 4199
     },
     "346110": {
       "name": "ARK: Survival Evolved",
@@ -11573,8 +11738,8 @@
         44,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "359550": {
       "name": "Tom Clancy's Rainbow Six Siege",
@@ -11700,8 +11865,8 @@
         44,
         62
       ],
-      "price": "R$ 13,99",
-      "priceUSD": 1399
+      "price": "R$ 2,79",
+      "priceUSD": 279
     },
     "367450": {
       "name": "Poly Bridge",
@@ -12087,8 +12252,8 @@
         23,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "397080": {
       "name": "Magicka 2: Spell Balance Beta",
@@ -12239,7 +12404,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 622.9,
+      "totalHours": 624.7166666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12724,6 +12889,18 @@
       "price": "R$ 89,50",
       "priceUSD": 8950
     },
+    "460930": {
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "appid": 460930,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/460930/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
     "461040": {
       "name": "PICO PARK:Classic Edition",
       "appid": 461040,
@@ -12846,6 +13023,18 @@
       ],
       "price": "R$ 99,99",
       "priceUSD": 9999
+    },
+    "468920": {
+      "name": "Ultimate Fishing Simulator®",
+      "appid": 468920,
+      "totalHours": 0.31666666666666665,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/468920/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "473690": {
       "name": "Absolver",
@@ -13704,7 +13893,7 @@
     "599140": {
       "name": "Graveyard Keeper",
       "appid": 599140,
-      "totalHours": 2.6166666666666667,
+      "totalHours": 3.3,
       "owners": [
         "Lírio",
         "Kiri",
@@ -13722,8 +13911,8 @@
         43,
         62
       ],
-      "price": "R$ 11,99",
-      "priceUSD": 1199
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "601150": {
       "name": "Devil May Cry 5",
@@ -13840,7 +14029,7 @@
     "606150": {
       "name": "Moonlighter",
       "appid": 606150,
-      "totalHours": 20.3,
+      "totalHours": 21.083333333333332,
       "owners": [
         "Lírio",
         "Dudu"
@@ -16358,8 +16547,8 @@
         43,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1150690": {
       "name": "OMORI",
@@ -16730,8 +16919,8 @@
         23,
         62
       ],
-      "price": "R$ 23,99",
-      "priceUSD": 2399
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1218210": {
       "name": "Coromon",
@@ -17422,7 +17611,7 @@
     "1454400": {
       "name": "Cookie Clicker",
       "appid": 1454400,
-      "totalHours": 668.0666666666667,
+      "totalHours": 677.3166666666667,
       "owners": [
         "Lírio"
       ],
@@ -17991,6 +18180,18 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1701520/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
+    "1703340": {
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "appid": 1703340,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1703340/capsule_sm_120.jpg",
       "categories": [],
       "price": null,
       "priceUSD": 0
@@ -18706,6 +18907,18 @@
         35,
         62
       ],
+      "price": null,
+      "priceUSD": 0
+    },
+    "2231380": {
+      "name": "Ghost Recon Breakpoint",
+      "appid": 2231380,
+      "totalHours": 0,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2231380/capsule_sm_120.jpg",
+      "categories": [],
       "price": null,
       "priceUSD": 0
     },
@@ -19719,7 +19932,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1395.0500000000002,
+      "totalHours": 1395.15,
       "owners": [
         "Lírio",
         "Nino"
@@ -19959,27 +20172,6 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1786484656,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -19998,6 +20190,25 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1786246987,
+      "personastate": 4,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -20015,6 +20226,27 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1786587711,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
     "Lírio": {
       "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
@@ -20026,31 +20258,14 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1786503787,
-      "personastate": 0,
+      "lastlogoff": 1786568968,
+      "personastate": 1,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
+      "gameextrainfo": "Cookie Clicker",
+      "gameid": "1454400",
       "loccountrycode": "TW"
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1786246987,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     }
   }
 }
