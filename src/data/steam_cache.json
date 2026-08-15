@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T07:37:10.374Z",
+  "timestamp": "2026-08-15T06:50:41.721Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 3080,
+        "playtime_2weeks": 2921,
         "playtime_forever": 125153,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -774,14 +774,15 @@
       {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth",
-        "playtime_forever": 1476,
+        "playtime_2weeks": 92,
+        "playtime_forever": 1568,
         "img_icon_url": "16d46c8630499bfc54d20745ac90786a302cd643",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 1476,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 0,
+        "playtime_linux_forever": 92,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1702508834,
+        "rtime_last_played": 1786762960,
         "has_leaderboards": true,
         "content_descriptorids": [
           5
@@ -3543,15 +3544,15 @@
       {
         "appid": 1454400,
         "name": "Cookie Clicker",
-        "playtime_2weeks": 1719,
-        "playtime_forever": 41804,
+        "playtime_2weeks": 1914,
+        "playtime_forever": 41999,
         "img_icon_url": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 40084,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 1719,
+        "playtime_linux_forever": 1914,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786683286,
+        "rtime_last_played": 1786721931,
         "playtime_disconnected": 1
       },
       {
@@ -4236,15 +4237,15 @@
       {
         "appid": 3069810,
         "name": "Rocket Rats",
-        "playtime_2weeks": 230,
-        "playtime_forever": 230,
+        "playtime_2weeks": 285,
+        "playtime_forever": 285,
         "img_icon_url": "830a536da819ff851e6e448ca2579aab3a64e23e",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 0,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 230,
+        "playtime_linux_forever": 285,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786680721,
+        "rtime_last_played": 1786725381,
         "playtime_disconnected": 0
       },
       {
@@ -4664,8 +4665,8 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 504,
-        "playtime_forever": 677,
+        "playtime_2weeks": 659,
+        "playtime_forever": 832,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5157,7 +5158,8 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_forever": 8865,
+        "playtime_2weeks": 205,
+        "playtime_forever": 9070,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
       },
@@ -5874,7 +5876,7 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_2weeks": 2273,
+        "playtime_2weeks": 2271,
         "playtime_forever": 25528,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
@@ -6363,7 +6365,8 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_forever": 5886,
+        "playtime_2weeks": 76,
+        "playtime_forever": 5963,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true
       },
@@ -7821,8 +7824,7 @@
         "appid": 2139460,
         "name": "Once Human",
         "playtime_forever": 81,
-        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091",
-        "has_community_visible_stats": true
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
       },
       {
         "appid": 2197910,
@@ -7953,7 +7955,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1495,
+        "playtime_2weeks": 1211,
         "playtime_forever": 43332,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -9655,7 +9657,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2417.2166666666662,
+      "totalHours": 2419.8,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10223,7 +10225,7 @@
     "250900": {
       "name": "The Binding of Isaac: Rebirth",
       "appid": 250900,
-      "totalHours": 24.6,
+      "totalHours": 26.133333333333333,
       "owners": [
         "Lírio"
       ],
@@ -13600,7 +13602,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 1124.5,
+      "totalHours": 1127.9166666666665,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15689,7 +15691,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 406.20000000000005,
+      "totalHours": 407.48333333333335,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16697,8 +16699,8 @@
         42,
         62
       ],
-      "price": "R$ 62,65",
-      "priceUSD": 6265
+      "price": "R$ 179,00",
+      "priceUSD": 17900
     },
     "1174180": {
       "name": "Red Dead Redemption 2",
@@ -17601,7 +17603,7 @@
     "1454400": {
       "name": "Cookie Clicker",
       "appid": 1454400,
-      "totalHours": 696.7333333333333,
+      "totalHours": 699.9833333333333,
       "owners": [
         "Lírio"
       ],
@@ -19089,8 +19091,8 @@
         25,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 20,99",
+      "priceUSD": 2099
     },
     "2448970": {
       "name": "Dungeonborne",
@@ -19525,7 +19527,7 @@
     "3069810": {
       "name": "Rocket Rats",
       "appid": 3069810,
-      "totalHours": 3.8333333333333335,
+      "totalHours": 4.75,
       "owners": [
         "Lírio"
       ],
@@ -20152,6 +20154,23 @@
     }
   },
   "players": {
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1786246045,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -20170,6 +20189,24 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1786728249,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20191,22 +20228,23 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1786246045,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1786731789,
+      "personastate": 3,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
     },
     "Nino": {
       "steamid": "76561198394798327",
@@ -20228,42 +20266,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1784082273,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1786683286,
-      "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
     }
   }
 }
