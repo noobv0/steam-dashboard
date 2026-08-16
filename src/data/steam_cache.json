@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T06:50:41.721Z",
+  "timestamp": "2026-08-16T06:52:08.944Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 2921,
+        "playtime_2weeks": 2863,
         "playtime_forever": 125153,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -774,15 +774,15 @@
       {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth",
-        "playtime_2weeks": 92,
-        "playtime_forever": 1568,
+        "playtime_2weeks": 127,
+        "playtime_forever": 1603,
         "img_icon_url": "16d46c8630499bfc54d20745ac90786a302cd643",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 1476,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 92,
+        "playtime_linux_forever": 127,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786762960,
+        "rtime_last_played": 1786821750,
         "has_leaderboards": true,
         "content_descriptorids": [
           5
@@ -2787,14 +2787,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_forever": 18450,
+        "playtime_2weeks": 95,
+        "playtime_forever": 18545,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 18291,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 159,
+        "playtime_linux_forever": 254,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1784085021,
+        "rtime_last_played": 1786805205,
         "playtime_disconnected": 0
       },
       {
@@ -4237,15 +4238,15 @@
       {
         "appid": 3069810,
         "name": "Rocket Rats",
-        "playtime_2weeks": 285,
-        "playtime_forever": 285,
+        "playtime_2weeks": 452,
+        "playtime_forever": 452,
         "img_icon_url": "830a536da819ff851e6e448ca2579aab3a64e23e",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 0,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 285,
+        "playtime_linux_forever": 452,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1786725381,
+        "rtime_last_played": 1786815242,
         "playtime_disconnected": 0
       },
       {
@@ -4665,8 +4666,8 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 659,
-        "playtime_forever": 832,
+        "playtime_2weeks": 691,
+        "playtime_forever": 864,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5520,7 +5521,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 616,
+        "playtime_2weeks": 411,
         "playtime_forever": 12005,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -6119,7 +6120,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_forever": 13386,
+        "playtime_2weeks": 128,
+        "playtime_forever": 13514,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -7955,7 +7957,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1211,
+        "playtime_2weeks": 1069,
         "playtime_forever": 43332,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -9657,7 +9659,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2419.8,
+      "totalHours": 2420.333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10225,7 +10227,7 @@
     "250900": {
       "name": "The Binding of Isaac: Rebirth",
       "appid": 250900,
-      "totalHours": 26.133333333333333,
+      "totalHours": 26.716666666666665,
       "owners": [
         "Lírio"
       ],
@@ -12406,7 +12408,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 626.3499999999999,
+      "totalHours": 628.4833333333332,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15691,7 +15693,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 407.48333333333335,
+      "totalHours": 409.06666666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -17737,8 +17739,8 @@
         24,
         62
       ],
-      "price": "R$ 7,62",
-      "priceUSD": 762
+      "price": "R$ 10,89",
+      "priceUSD": 1089
     },
     "1510580": {
       "name": "Toy Tinker Simulator",
@@ -19326,8 +19328,8 @@
         23,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 19,49",
+      "priceUSD": 1949
     },
     "2707930": {
       "name": "Palia",
@@ -19527,7 +19529,7 @@
     "3069810": {
       "name": "Rocket Rats",
       "appid": 3069810,
-      "totalHours": 4.75,
+      "totalHours": 7.533333333333333,
       "owners": [
         "Lírio"
       ],
@@ -20154,6 +20156,26 @@
     }
   },
   "players": {
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1786842905,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "gameextrainfo": "Dota 2",
+      "gameid": "570",
+      "loccountrycode": "TW"
+    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -20171,21 +20193,22 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
-    "Kiri": {
-      "steamid": "76561199011715965",
+    "Dudu": {
+      "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1786683106,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1786238615,
       "personastate": 0,
-      "realname": "Mu De Áries",
+      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
+      "timecreated": 1525126593,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
@@ -20208,43 +20231,24 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Kiri": {
+      "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1786238615,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1786683106,
       "personastate": 0,
-      "realname": "Eduardo Peralta",
+      "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1786731789,
-      "personastate": 3,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
     },
     "Nino": {
       "steamid": "76561198394798327",
