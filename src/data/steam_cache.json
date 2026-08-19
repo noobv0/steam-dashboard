@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T06:55:21.679Z",
+  "timestamp": "2026-08-19T06:57:00.926Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 2999,
+        "playtime_2weeks": 2845,
         "playtime_forever": 125690,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -774,15 +774,15 @@
       {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth",
-        "playtime_2weeks": 193,
-        "playtime_forever": 1669,
+        "playtime_2weeks": 196,
+        "playtime_forever": 1672,
         "img_icon_url": "16d46c8630499bfc54d20745ac90786a302cd643",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 1476,
         "playtime_mac_forever": 0,
-        "playtime_linux_forever": 193,
+        "playtime_linux_forever": 196,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1787016775,
+        "rtime_last_played": 1787106235,
         "has_leaderboards": true,
         "content_descriptorids": [
           5
@@ -2768,6 +2768,19 @@
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
         "rtime_last_played": 1730644108,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 920490,
+        "name": "Driver Booster for Steam",
+        "playtime_2weeks": 122,
+        "playtime_forever": 123,
+        "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
+        "playtime_windows_forever": 123,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1787103453,
         "playtime_disconnected": 0
       },
       {
@@ -5004,8 +5017,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 787,
-        "playtime_forever": 14604,
+        "playtime_2weeks": 824,
+        "playtime_forever": 14800,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -5529,7 +5542,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 307,
+        "playtime_2weeks": 256,
         "playtime_forever": 12125,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -5884,7 +5897,7 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_2weeks": 1594,
+        "playtime_2weeks": 1287,
         "playtime_forever": 25528,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
@@ -7963,7 +7976,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 570,
+        "playtime_2weeks": 72,
         "playtime_forever": 43332,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -10233,7 +10246,7 @@
     "250900": {
       "name": "The Binding of Isaac: Rebirth",
       "appid": 250900,
-      "totalHours": 27.816666666666666,
+      "totalHours": 27.866666666666667,
       "owners": [
         "Lírio"
       ],
@@ -12414,7 +12427,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 634.2833333333333,
+      "totalHours": 637.55,
       "owners": [
         "Lírio",
         "Kiri",
@@ -14833,8 +14846,8 @@
         61,
         62
       ],
-      "price": "R$ 100,00",
-      "priceUSD": 10000
+      "price": "R$ 30,00",
+      "priceUSD": 3000
     },
     "706220": {
       "name": "Black Desert SA (Retired)",
@@ -15655,8 +15668,9 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 26.333333333333336,
+      "totalHours": 28.383333333333333,
       "owners": [
+        "Lírio",
         "Kiri",
         "Nino",
         "Carrot"
@@ -19232,8 +19246,8 @@
         23,
         62
       ],
-      "price": "R$ 101,99",
-      "priceUSD": 10199
+      "price": "R$ 30,59",
+      "priceUSD": 3059
     },
     "2617700": {
       "name": "Tinkerlands",
@@ -19542,8 +19556,8 @@
         23,
         62
       ],
-      "price": "R$ 12,23",
-      "priceUSD": 1223
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "3069810": {
       "name": "Rocket Rats",
@@ -19882,8 +19896,8 @@
         58,
         62
       ],
-      "price": "R$ 11,99",
-      "priceUSD": 1199
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "3557620": {
       "name": "Blue Archive",
@@ -20175,6 +20189,23 @@
     }
   },
   "players": {
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1786246045,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -20213,40 +20244,24 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Kiri": {
+      "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1786246045,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1787115993,
       "personastate": 0,
+      "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1787027931,
-      "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
+      "timecreated": 1576600351,
       "personastateflags": 0,
-      "loccountrycode": "TW"
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     },
     "Nino": {
       "steamid": "76561198394798327",
@@ -20259,7 +20274,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1787014406,
+      "lastlogoff": 1787102759,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -20269,24 +20284,23 @@
       "locstatecode": "15",
       "loccityid": 7726
     },
-    "Kiri": {
-      "steamid": "76561199011715965",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1787023827,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1787111831,
       "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
       "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
+      "loccountrycode": "TW"
     }
   }
 }
