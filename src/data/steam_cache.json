@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T07:11:27.358Z",
+  "timestamp": "2026-08-25T07:00:57.915Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1209,
+        "playtime_2weeks": 998,
         "playtime_forever": 125690,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -4627,7 +4627,8 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_forever": 17410,
+        "playtime_2weeks": 15,
+        "playtime_forever": 17426,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true
       },
@@ -5019,8 +5020,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 973,
-        "playtime_forever": 15023,
+        "playtime_2weeks": 989,
+        "playtime_forever": 15039,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -5038,8 +5039,8 @@
       {
         "appid": 418370,
         "name": "Resident Evil 7 Biohazard",
-        "playtime_2weeks": 82,
-        "playtime_forever": 411,
+        "playtime_2weeks": 149,
+        "playtime_forever": 478,
         "img_icon_url": "675cd2fbaae3c2a74a0c7e9eea71e969ff90d6bb",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5172,7 +5173,8 @@
       {
         "appid": 541570,
         "name": "Sally Face - Episode One",
-        "playtime_forever": 0,
+        "playtime_2weeks": 28,
+        "playtime_forever": 28,
         "img_icon_url": "463d415cf7fa01765e21d76e308ca2e3e889b7e7",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5544,8 +5546,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 212,
-        "playtime_forever": 12217,
+        "playtime_2weeks": 270,
+        "playtime_forever": 12275,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7676,8 +7678,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 44,
-        "playtime_forever": 30518,
+        "playtime_2weeks": 59,
+        "playtime_forever": 30533,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7847,7 +7849,8 @@
         "appid": 2139460,
         "name": "Once Human",
         "playtime_forever": 81,
-        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091"
+        "img_icon_url": "e1c29227c162232120c15edcf282df61ee35f091",
+        "has_community_visible_stats": true
       },
       {
         "appid": 2197910,
@@ -7978,7 +7981,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 28,
+        "playtime_2weeks": 29,
         "playtime_forever": 43333,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -9009,7 +9012,7 @@
     "105600": {
       "name": "Terraria",
       "appid": 105600,
-      "totalHours": 2213.0833333333335,
+      "totalHours": 2213.35,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10524,8 +10527,8 @@
         43,
         44
       ],
-      "price": "R$ 26,49",
-      "priceUSD": 2649
+      "price": "R$ 8,74",
+      "priceUSD": 874
     },
     "271590": {
       "name": "Grand Theft Auto V Legacy",
@@ -11049,8 +11052,8 @@
         25,
         62
       ],
-      "price": "R$ 45,99",
-      "priceUSD": 4599
+      "price": "R$ 9,49",
+      "priceUSD": 949
     },
     "301520": {
       "name": "Robocraft",
@@ -11246,8 +11249,8 @@
         29,
         62
       ],
-      "price": "R$ 28,99",
-      "priceUSD": 2899
+      "price": "R$ 7,24",
+      "priceUSD": 724
     },
     "310950": {
       "name": "Street Fighter V",
@@ -11621,8 +11624,8 @@
         42,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 31,01",
+      "priceUSD": 3101
     },
     "346900": {
       "name": "AdVenture Capitalist",
@@ -12424,7 +12427,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 641.2666666666667,
+      "totalHours": 641.5333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12499,7 +12502,7 @@
     "418370": {
       "name": "Resident Evil 7 Biohazard",
       "appid": 418370,
-      "totalHours": 6.85,
+      "totalHours": 7.966666666666667,
       "owners": [
         "Kiri"
       ],
@@ -13377,14 +13380,21 @@
     "541570": {
       "name": "Sally Face - Episode One",
       "appid": 541570,
-      "totalHours": 0,
+      "totalHours": 0.4666666666666667,
       "owners": [
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/541570/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        23,
+        62
+      ],
+      "price": "R$ 10,49",
+      "priceUSD": 1049
     },
     "544610": {
       "name": "Battlestar Galactica Deadlock",
@@ -13958,8 +13968,8 @@
         61,
         62
       ],
-      "price": "R$ 129,00",
-      "priceUSD": 12900
+      "price": "R$ 32,25",
+      "priceUSD": 3225
     },
     "601430": {
       "name": "The Evil Within 2",
@@ -14406,8 +14416,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "644560": {
       "name": "Mirror",
@@ -14541,8 +14551,8 @@
         15,
         62
       ],
-      "price": "R$ 10,49",
-      "priceUSD": 1049
+      "price": "R$ 5,24",
+      "priceUSD": 524
     },
     "667530": {
       "name": "Drunken Wrestlers 2",
@@ -15078,8 +15088,8 @@
         25,
         62
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 35,60",
+      "priceUSD": 3560
     },
     "751780": {
       "name": "Forager",
@@ -15621,8 +15631,8 @@
         23,
         62
       ],
-      "price": "R$ 26,78",
-      "priceUSD": 2678
+      "price": "R$ 26,98",
+      "priceUSD": 2698
     },
     "899440": {
       "name": "GOD EATER 3",
@@ -15818,8 +15828,8 @@
         42,
         62
       ],
-      "price": "R$ 12,39",
-      "priceUSD": 1239
+      "price": "R$ 9,91",
+      "priceUSD": 991
     },
     "978520": {
       "name": "Legend of Keepers",
@@ -15922,8 +15932,8 @@
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/capsule_sm_120.jpg",
       "categories": [],
-      "price": "R$ 8,49",
-      "priceUSD": 849
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1009290": {
       "name": "SWORD ART ONLINE Alicization Lycoris",
@@ -16273,7 +16283,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 737.2166666666667,
+      "totalHours": 738.4333333333334,
       "owners": [
         "Lírio",
         "Kiri",
@@ -17599,14 +17609,9 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449690/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        22,
-        28,
-        62
-      ],
-      "price": "R$ 134,99",
-      "priceUSD": 13499
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "1449850": {
       "name": "Yu-Gi-Oh!  Master Duel",
@@ -18085,6 +18090,8 @@
         27,
         35,
         60,
+        55,
+        57,
         18,
         23,
         62
@@ -18193,8 +18200,8 @@
         23,
         62
       ],
-      "price": "R$ 74,97",
-      "priceUSD": 7497
+      "price": "R$ 249,90",
+      "priceUSD": 24990
     },
     "1701520": {
       "name": "Afterimage",
@@ -18310,8 +18317,8 @@
         23,
         62
       ],
-      "price": "R$ 119,60",
-      "priceUSD": 11960
+      "price": "R$ 299,00",
+      "priceUSD": 29900
     },
     "1782210": {
       "name": "Crab Game",
@@ -20199,77 +20206,26 @@
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "guitarhero",
+      "personaname": "Nino",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1787319738,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1787617032,
       "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1786246045,
-      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1787485193,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1787285902,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
+      "timecreated": 1496527778,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "27"
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20291,26 +20247,77 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1787534416,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1786246045,
       "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1787319738,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1787285902,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "locstatecode": "27"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1787485193,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     }
   }
 }
