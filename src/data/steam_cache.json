@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T07:02:36.682Z",
+  "timestamp": "2026-08-27T17:36:22.613Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 656,
+        "playtime_2weeks": 536,
         "playtime_forever": 125690,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1809,7 +1809,6 @@
       {
         "appid": 468920,
         "name": "Ultimate Fishing Simulator®",
-        "playtime_2weeks": 19,
         "playtime_forever": 19,
         "img_icon_url": "c1cb7ae4c5e6c3a3126b5daf9729f8b8a5a72672",
         "has_community_visible_stats": true,
@@ -2201,7 +2200,6 @@
       {
         "appid": 606150,
         "name": "Moonlighter",
-        "playtime_2weeks": 46,
         "playtime_forever": 867,
         "img_icon_url": "13ffc570ce5bbe6a5a0c0eec567b87dab07cae25",
         "has_community_visible_stats": true,
@@ -3557,7 +3555,7 @@
       {
         "appid": 1454400,
         "name": "Cookie Clicker",
-        "playtime_2weeks": 1914,
+        "playtime_2weeks": 779,
         "playtime_forever": 41999,
         "img_icon_url": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
         "has_community_visible_stats": true,
@@ -4492,7 +4490,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 7,
+        "playtime_2weeks": 1,
         "playtime_forever": 40378,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -4627,8 +4625,8 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_2weeks": 61,
-        "playtime_forever": 17472,
+        "playtime_2weeks": 74,
+        "playtime_forever": 17485,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true
       },
@@ -5020,8 +5018,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 1102,
-        "playtime_forever": 15152,
+        "playtime_2weeks": 1094,
+        "playtime_forever": 15253,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -5039,8 +5037,8 @@
       {
         "appid": 418370,
         "name": "Resident Evil 7 Biohazard",
-        "playtime_2weeks": 66,
-        "playtime_forever": 478,
+        "playtime_2weeks": 98,
+        "playtime_forever": 509,
         "img_icon_url": "675cd2fbaae3c2a74a0c7e9eea71e969ff90d6bb",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5226,7 +5224,7 @@
       {
         "appid": 599140,
         "name": "Graveyard Keeper",
-        "playtime_2weeks": 77,
+        "playtime_2weeks": 36,
         "playtime_forever": 131,
         "img_icon_url": "b37ef6d7eb243b4d9fc017dec7bc11b234f34cc2",
         "has_community_visible_stats": true,
@@ -5585,8 +5583,8 @@
       {
         "appid": 1145350,
         "name": "Hades II",
-        "playtime_2weeks": 100,
-        "playtime_forever": 3303,
+        "playtime_2weeks": 361,
+        "playtime_forever": 3563,
         "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
         "has_community_visible_stats": true
       },
@@ -5818,18 +5816,6 @@
         "img_icon_url": "ce0fd329bf46fe88b8c617d833473c48edcb1823"
       },
       {
-        "appid": 3804710,
-        "name": "Seven Nexus Demo",
-        "playtime_forever": 77,
-        "img_icon_url": "945092284ede3e3ac0ba6693dfc231d9a849afe8",
-        "content_descriptorids": [
-          1,
-          3,
-          4,
-          5
-        ]
-      },
-      {
         "appid": 4025700,
         "name": "Heartopia",
         "playtime_forever": 7366,
@@ -5896,7 +5882,8 @@
       {
         "appid": 105600,
         "name": "Terraria",
-        "playtime_forever": 32555,
+        "playtime_2weeks": 23,
+        "playtime_forever": 32579,
         "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
         "has_community_visible_stats": true
       },
@@ -9007,13 +8994,13 @@
         44,
         62
       ],
-      "price": "R$ 4,79",
-      "priceUSD": 479
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "105600": {
       "name": "Terraria",
       "appid": 105600,
-      "totalHours": 2214.116666666667,
+      "totalHours": 2214.733333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10042,8 +10029,8 @@
         23,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "242700": {
       "name": "Injustice: Gods Among Us Ultimate Edition",
@@ -10426,8 +10413,8 @@
         42,
         62
       ],
-      "price": "R$ 34,79",
-      "priceUSD": 3479
+      "price": "R$ 115,99",
+      "priceUSD": 11599
     },
     "262060": {
       "name": "Darkest Dungeon®",
@@ -11737,8 +11724,8 @@
         23,
         62
       ],
-      "price": "R$ 229,99",
-      "priceUSD": 22999
+      "price": "R$ 22,99",
+      "priceUSD": 2299
     },
     "356570": {
       "name": "Party Hard",
@@ -11889,8 +11876,8 @@
         44,
         62
       ],
-      "price": "R$ 2,79",
-      "priceUSD": 279
+      "price": "R$ 13,99",
+      "priceUSD": 1399
     },
     "367450": {
       "name": "Poly Bridge",
@@ -12371,8 +12358,8 @@
         23,
         62
       ],
-      "price": "R$ 6,99",
-      "priceUSD": 699
+      "price": "R$ 69,99",
+      "priceUSD": 6999
     },
     "407530": {
       "name": "ARK: Survival Of The Fittest",
@@ -12428,7 +12415,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 643.6666666666666,
+      "totalHours": 645.3499999999999,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12503,7 +12490,7 @@
     "418370": {
       "name": "Resident Evil 7 Biohazard",
       "appid": 418370,
-      "totalHours": 7.966666666666667,
+      "totalHours": 8.483333333333333,
       "owners": [
         "Kiri"
       ],
@@ -12910,8 +12897,8 @@
         43,
         62
       ],
-      "price": "R$ 26,85",
-      "priceUSD": 2685
+      "price": "R$ 89,50",
+      "priceUSD": 8950
     },
     "460930": {
       "name": "Tom Clancy's Ghost Recon® Wildlands",
@@ -13163,8 +13150,8 @@
         43,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 4,69",
+      "priceUSD": 469
     },
     "503560": {
       "name": "911 Operator",
@@ -13363,8 +13350,8 @@
         42,
         62
       ],
-      "price": "R$ 38,75",
-      "priceUSD": 3875
+      "price": "R$ 155,00",
+      "priceUSD": 15500
     },
     "537180": {
       "name": "Digimon Masters Online",
@@ -13920,8 +13907,8 @@
         18,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "599140": {
       "name": "Graveyard Keeper",
@@ -14437,8 +14424,8 @@
         42,
         62
       ],
-      "price": "R$ 2,79",
-      "priceUSD": 279
+      "price": "R$ 6,99",
+      "priceUSD": 699
     },
     "644570": {
       "name": "Material Girl",
@@ -14477,8 +14464,8 @@
         17,
         62
       ],
-      "price": "R$ 5,39",
-      "priceUSD": 539
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "646910": {
       "name": "The Crew 2",
@@ -15909,8 +15896,8 @@
         61,
         62
       ],
-      "price": "R$ 249,99",
-      "priceUSD": 24999
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "990630": {
       "name": "The Last Campfire",
@@ -16518,7 +16505,7 @@
     "1145350": {
       "name": "Hades II",
       "appid": 1145350,
-      "totalHours": 55.05,
+      "totalHours": 59.38333333333333,
       "owners": [
         "Kiri"
       ],
@@ -16639,8 +16626,8 @@
         43,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 54,99",
+      "priceUSD": 5499
     },
     "1172380": {
       "name": "STAR WARS Jedi: Fallen Order™ ",
@@ -16846,8 +16833,8 @@
         17,
         62
       ],
-      "price": "R$ 9,61",
-      "priceUSD": 961
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "1190970": {
       "name": "House Flipper 2",
@@ -17238,8 +17225,8 @@
         23,
         62
       ],
-      "price": "R$ 79,99",
-      "priceUSD": 7999
+      "price": "R$ 15,99",
+      "priceUSD": 1599
     },
     "1283700": {
       "name": "SUPERVIVE",
@@ -17610,9 +17597,14 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449690/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        62
+      ],
+      "price": "R$ 134,99",
+      "priceUSD": 13499
     },
     "1449850": {
       "name": "Yu-Gi-Oh!  Master Duel",
@@ -18292,8 +18284,8 @@
         15,
         62
       ],
-      "price": "R$ 85,98",
-      "priceUSD": 8598
+      "price": "R$ 214,95",
+      "priceUSD": 21495
     },
     "1771300": {
       "name": "Kingdom Come: Deliverance II",
@@ -19289,8 +19281,8 @@
         23,
         62
       ],
-      "price": "R$ 17,49",
-      "priceUSD": 1749
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "2670630": {
       "name": "Supermarket Simulator",
@@ -20048,21 +20040,6 @@
       "price": "R$ 16,99",
       "priceUSD": 1699
     },
-    "3804710": {
-      "name": "Seven Nexus Demo",
-      "appid": 3804710,
-      "totalHours": 1.2833333333333334,
-      "owners": [
-        "Kiri"
-      ],
-      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/3804710/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        10
-      ],
-      "price": null,
-      "priceUSD": 0
-    },
     "3846120": {
       "name": "MineMogul",
       "appid": 3846120,
@@ -20236,7 +20213,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1787705690,
+      "lastlogoff": 1787762647,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -20245,6 +20222,23 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1786246045,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -20274,7 +20268,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
       "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1787719627,
+      "lastlogoff": 1787805727,
       "personastate": 0,
       "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
@@ -20282,23 +20276,6 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1786246045,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
     },
     "Dudu": {
       "steamid": "76561198833523657",
