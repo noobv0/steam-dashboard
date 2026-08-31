@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T11:38:58.339Z",
+  "timestamp": "2026-08-31T13:10:52.116Z",
   "data": {
     "Lírio": [
       {
@@ -502,15 +502,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1104,
-        "playtime_forever": 126258,
+        "playtime_2weeks": 1387,
+        "playtime_forever": 126547,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 117400,
+        "playtime_windows_forever": 117689,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 3884,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788057943,
+        "rtime_last_played": 1788147627,
         "content_descriptorids": [
           2,
           5
@@ -1605,6 +1605,20 @@
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
         "rtime_last_played": 1732798422,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 427520,
+        "name": "Factorio",
+        "playtime_2weeks": 369,
+        "playtime_forever": 369,
+        "img_icon_url": "267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 369,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1788127172,
         "playtime_disconnected": 0
       },
       {
@@ -2773,14 +2787,14 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_2weeks": 151,
-        "playtime_forever": 153,
+        "playtime_2weeks": 157,
+        "playtime_forever": 158,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
-        "playtime_windows_forever": 153,
+        "playtime_windows_forever": 158,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1787261608,
+        "rtime_last_played": 1788151555,
         "playtime_disconnected": 0
       },
       {
@@ -3830,15 +3844,15 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 1845,
-        "playtime_forever": 3316,
+        "playtime_2weeks": 2900,
+        "playtime_forever": 4371,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 3313,
+        "playtime_windows_forever": 4369,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 2,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788088280,
+        "rtime_last_played": 1788151590,
         "playtime_disconnected": 0
       },
       {
@@ -4397,15 +4411,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 2583,
-        "playtime_forever": 216104,
+        "playtime_2weeks": 3625,
+        "playtime_forever": 217146,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 216104,
+        "playtime_windows_forever": 217146,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788089084,
+        "rtime_last_played": 1788151591,
         "playtime_disconnected": 33
       },
       {
@@ -5018,8 +5032,8 @@
       {
         "appid": 413150,
         "name": "Stardew Valley",
-        "playtime_2weeks": 1026,
-        "playtime_forever": 15283,
+        "playtime_2weeks": 848,
+        "playtime_forever": 15352,
         "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
         "has_community_visible_stats": true
       },
@@ -5182,7 +5196,7 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_2weeks": 144,
+        "playtime_2weeks": 47,
         "playtime_forever": 9214,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true
@@ -5388,7 +5402,8 @@
       {
         "appid": 701160,
         "name": "Kingdom Two Crowns",
-        "playtime_forever": 0,
+        "playtime_2weeks": 164,
+        "playtime_forever": 164,
         "img_icon_url": "7bf44c4e301a0f6fae78f697b39b5a1268223945",
         "has_community_visible_stats": true
       },
@@ -5551,7 +5566,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 308,
+        "playtime_2weeks": 250,
         "playtime_forever": 12313,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -5758,7 +5773,7 @@
       {
         "appid": 1761390,
         "name": "Hatsune Miku: Project DIVA Mega Mix+",
-        "playtime_2weeks": 110,
+        "playtime_2weeks": 87,
         "playtime_forever": 612,
         "img_icon_url": "6467c6bec4cbd97c3ed30119e8b08072644dd9ab",
         "has_community_visible_stats": true
@@ -9432,8 +9447,8 @@
         43,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "218680": {
       "name": "Scribblenauts Unlimited",
@@ -9672,7 +9687,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2438.75,
+      "totalHours": 2443.5666666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -10625,29 +10640,9 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/280160/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        9,
-        38,
-        27,
-        22,
-        28,
-        29,
-        13,
-        30,
-        60,
-        55,
-        56,
-        23,
-        17,
-        41,
-        42,
-        43,
-        62
-      ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "280790": {
       "name": "Creativerse",
@@ -12128,8 +12123,8 @@
         43,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 69,99",
+      "priceUSD": 6999
     },
     "383270": {
       "name": "Hue",
@@ -12421,7 +12416,7 @@
     "413150": {
       "name": "Stardew Valley",
       "appid": 413150,
-      "totalHours": 645.8499999999999,
+      "totalHours": 647,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12524,6 +12519,42 @@
       "categories": [],
       "price": null,
       "priceUSD": 0
+    },
+    "427520": {
+      "name": "Factorio",
+      "appid": 427520,
+      "totalHours": 6.15,
+      "owners": [
+        "Lírio"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/capsule_sm_120.jpg",
+      "categories": [
+        2,
+        1,
+        9,
+        38,
+        48,
+        27,
+        22,
+        64,
+        67,
+        68,
+        78,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        65,
+        18,
+        23,
+        17,
+        42,
+        62
+      ],
+      "price": "R$ 101,99",
+      "priceUSD": 10199
     },
     "431960": {
       "name": "Wallpaper Engine",
@@ -14833,14 +14864,31 @@
     "701160": {
       "name": "Kingdom Two Crowns",
       "appid": 701160,
-      "totalHours": 0,
+      "totalHours": 2.7333333333333334,
       "owners": [
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/701160/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        1,
+        9,
+        38,
+        39,
+        24,
+        22,
+        28,
+        55,
+        57,
+        23,
+        41,
+        42,
+        43,
+        44,
+        62
+      ],
+      "price": "R$ 11,99",
+      "priceUSD": 1199
     },
     "703080": {
       "name": "Planet Zoo",
@@ -15681,7 +15729,7 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 28.883333333333333,
+      "totalHours": 28.96666666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -17615,14 +17663,9 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449690/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        22,
-        28,
-        62
-      ],
-      "price": "R$ 134,99",
-      "priceUSD": 13499
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "1449850": {
       "name": "Yu-Gi-Oh!  Master Duel",
@@ -18377,7 +18420,7 @@
     "1812620": {
       "name": "DSX",
       "appid": 1812620,
-      "totalHours": 55.266666666666666,
+      "totalHours": 72.85,
       "owners": [
         "Lírio"
       ],
@@ -19154,8 +19197,8 @@
         25,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "2448970": {
       "name": "Dungeonborne",
@@ -19824,7 +19867,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 3874.0333333333333,
+      "totalHours": 3891.4,
       "owners": [
         "Lírio",
         "Nino"
@@ -20213,14 +20256,33 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1787984234,
-      "personastate": 4,
+      "lastlogoff": 1788151672,
+      "personastate": 3,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
-      "gameextrainfo": "Bongo Cat",
-      "gameid": "3419430",
       "loccountrycode": "TW"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1788110134,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Bambo": {
       "steamid": "76561199148095723",
@@ -20238,47 +20300,6 @@
       "primaryclanid": "103582791429521408",
       "timecreated": 1614905012,
       "personastateflags": 0
-    },
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1786238615,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1788031150,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -20316,6 +20337,26 @@
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1786238615,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
