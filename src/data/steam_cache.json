@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T11:07:18.730Z",
+  "timestamp": "2026-09-05T10:18:54.891Z",
   "data": {
     "Lírio": [
       {
@@ -502,15 +502,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1079,
-        "playtime_forever": 126769,
+        "playtime_2weeks": 1129,
+        "playtime_forever": 126819,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 117911,
+        "playtime_windows_forever": 117961,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 3884,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788494077,
+        "rtime_last_played": 1788524277,
         "content_descriptorids": [
           2,
           5
@@ -3844,15 +3844,15 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 3950,
-        "playtime_forever": 5421,
+        "playtime_2weeks": 5330,
+        "playtime_forever": 6801,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 5419,
+        "playtime_windows_forever": 6799,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 2,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788518811,
+        "rtime_last_played": 1788601624,
         "playtime_disconnected": 0
       },
       {
@@ -4410,15 +4410,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 8106,
-        "playtime_forever": 222487,
+        "playtime_2weeks": 9516,
+        "playtime_forever": 223897,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 222487,
+        "playtime_windows_forever": 223897,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788517882,
+        "rtime_last_played": 1788602494,
         "playtime_disconnected": 33
       },
       {
@@ -5576,7 +5576,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 188,
+        "playtime_2weeks": 95,
         "playtime_forever": 12313,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -8674,8 +8674,8 @@
         42,
         62
       ],
-      "price": "R$ 25,99",
-      "priceUSD": 2599
+      "price": "R$ 12,99",
+      "priceUSD": 1299
     },
     "6100": {
       "name": "Eets",
@@ -9233,8 +9233,8 @@
         44,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 7,49",
+      "priceUSD": 749
     },
     "207140": {
       "name": "SpeedRunners",
@@ -9698,7 +9698,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2447.2666666666664,
+      "totalHours": 2448.1000000000004,
       "owners": [
         "Lírio",
         "Kiri",
@@ -9935,8 +9935,8 @@
         44,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 8,39",
+      "priceUSD": 839
     },
     "238960": {
       "name": "Path of Exile",
@@ -12256,8 +12256,8 @@
         42,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 4,99",
+      "priceUSD": 499
     },
     "394310": {
       "name": "Punch Club",
@@ -18434,7 +18434,7 @@
     "1812620": {
       "name": "DSX",
       "appid": 1812620,
-      "totalHours": 90.35,
+      "totalHours": 113.35,
       "owners": [
         "Lírio"
       ],
@@ -19866,7 +19866,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 3980.416666666667,
+      "totalHours": 4003.916666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -20272,43 +20272,6 @@
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1788431463,
-      "personastate": 4,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "gameextrainfo": "DSX",
-      "gameid": "1812620",
-      "loccountrycode": "TW"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1786246045,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -20329,6 +20292,24 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1788574898,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -20360,7 +20341,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1788490312,
+      "lastlogoff": 1788581766,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -20368,6 +20349,23 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1786246045,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
