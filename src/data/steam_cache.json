@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T10:39:52.047Z",
+  "timestamp": "2026-09-20T11:01:58.716Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1993,
+        "playtime_2weeks": 1859,
         "playtime_forever": 128812,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -3869,7 +3869,7 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 4334,
+        "playtime_2weeks": 2872,
         "playtime_forever": 11178,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
@@ -4435,7 +4435,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 13320,
+        "playtime_2weeks": 11858,
         "playtime_forever": 237245,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -5139,7 +5139,6 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_2weeks": 18,
         "playtime_forever": 448,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true
@@ -5264,8 +5263,8 @@
       {
         "appid": 567640,
         "name": "Danganronpa V3: Killing Harmony",
-        "playtime_2weeks": 19,
-        "playtime_forever": 19,
+        "playtime_2weeks": 96,
+        "playtime_forever": 96,
         "img_icon_url": "27e0b08d9506a81bc9f8d3a3616fb455106bfa68",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -5645,7 +5644,6 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 56,
         "playtime_forever": 12370,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -5684,7 +5682,7 @@
       {
         "appid": 1145350,
         "name": "Hades II",
-        "playtime_2weeks": 463,
+        "playtime_2weeks": 389,
         "playtime_forever": 5031,
         "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
         "has_community_visible_stats": true
@@ -5918,8 +5916,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1637,
-        "playtime_forever": 1637,
+        "playtime_2weeks": 2461,
+        "playtime_forever": 2461,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -5997,7 +5995,8 @@
       {
         "appid": 108600,
         "name": "Project Zomboid",
-        "playtime_forever": 25528,
+        "playtime_2weeks": 7,
+        "playtime_forever": 25535,
         "img_icon_url": "2bd4642ae337e378e7b04a19d19683425c5f81a4",
         "content_descriptorids": [
           2,
@@ -8084,8 +8083,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 5217,
-        "playtime_forever": 48552,
+        "playtime_2weeks": 6046,
+        "playtime_forever": 49382,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8101,6 +8100,13 @@
         "name": "Graveyard Keeper 2",
         "playtime_forever": 0,
         "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d"
+      },
+      {
+        "appid": 5075680,
+        "name": "Graveyard Keeper 2 Demo",
+        "playtime_2weeks": 159,
+        "playtime_forever": 159,
+        "img_icon_url": "eae1a00961c88ddc9a486fec0eaa8c88b6aa75eb"
       }
     ],
     "Carrot": [
@@ -9153,7 +9159,7 @@
     "108600": {
       "name": "Project Zomboid",
       "appid": 108600,
-      "totalHours": 488.2,
+      "totalHours": 488.31666666666666,
       "owners": [
         "Dudu",
         "Nino"
@@ -10678,21 +10684,9 @@
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/274520/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        22,
-        28,
-        29,
-        55,
-        56,
-        57,
-        58,
-        23,
-        43,
-        62
-      ],
-      "price": "R$ 39,99",
-      "priceUSD": 3999
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "275850": {
       "name": "No Man's Sky",
@@ -11564,15 +11558,7 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/327690/capsule_sm_120.jpg",
-      "categories": [
-        1,
-        36,
-        29,
-        35,
-        18,
-        15,
-        62
-      ],
+      "categories": [],
       "price": null,
       "priceUSD": 0
     },
@@ -12695,8 +12681,8 @@
         43,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "435150": {
       "name": "Divinity: Original Sin 2",
@@ -13681,14 +13667,25 @@
     "567640": {
       "name": "Danganronpa V3: Killing Harmony",
       "appid": 567640,
-      "totalHours": 0.31666666666666665,
+      "totalHours": 1.6,
       "owners": [
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/567640/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        55,
+        23,
+        41,
+        42,
+        43,
+        62
+      ],
+      "price": "R$ 75,49",
+      "priceUSD": 7549
     },
     "572430": {
       "name": "Party Hard 2 ",
@@ -13942,8 +13939,8 @@
         44,
         62
       ],
-      "price": "R$ 4,94",
-      "priceUSD": 494
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "588430": {
       "name": "Fallout Shelter",
@@ -14187,8 +14184,8 @@
         44,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 3,37",
+      "priceUSD": 337
     },
     "606150": {
       "name": "Moonlighter",
@@ -20163,7 +20160,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1529.2166666666667,
+      "totalHours": 1556.7833333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -20455,28 +20452,88 @@
       ],
       "price": "R$ 15,15",
       "priceUSD": 1515
+    },
+    "5075680": {
+      "name": "Graveyard Keeper 2 Demo",
+      "appid": 5075680,
+      "totalHours": 2.65,
+      "owners": [
+        "Nino"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/5075680/capsule_sm_120.jpg",
+      "categories": [
+        2,
+        10,
+        28,
+        68,
+        80,
+        74,
+        55,
+        57,
+        69
+      ],
+      "price": null,
+      "priceUSD": 0
     }
   },
   "players": {
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Kiri": {
+      "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1789699191,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1789792742,
       "personastate": 0,
-      "realname": "Eduardo Peralta",
+      "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
+      "timecreated": 1576600351,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1789878764,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1789735325,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
     },
     "Bambo": {
       "steamid": "76561199148095723",
@@ -20513,60 +20570,22 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Dudu": {
+      "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
+      "personaname": "Anatoli",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1789791139,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1789851301,
       "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
+      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1789735325,
-      "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1789792742,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
+      "timecreated": 1525126593,
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
