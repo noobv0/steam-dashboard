@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T11:09:39.178Z",
+  "timestamp": "2026-09-24T11:28:33.077Z",
   "data": {
     "Lírio": [
       {
@@ -502,7 +502,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 1481,
+        "playtime_2weeks": 1249,
         "playtime_forever": 128812,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -4435,7 +4435,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 8619,
+        "playtime_2weeks": 7160,
         "playtime_forever": 237245,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4634,7 +4634,6 @@
       {
         "appid": 4197610,
         "name": "Librarian: Tidy Up the Arcane Library!",
-        "playtime_2weeks": 246,
         "playtime_forever": 1194,
         "img_icon_url": "2ee4f16b8de69873c13c7e3432f126e8bde5f4ad",
         "has_community_visible_stats": true,
@@ -5139,7 +5138,8 @@
       {
         "appid": 431960,
         "name": "Wallpaper Engine",
-        "playtime_forever": 448,
+        "playtime_2weeks": 2,
+        "playtime_forever": 451,
         "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
         "has_community_visible_stats": true
       },
@@ -6875,7 +6875,7 @@
         "appid": 601510,
         "name": "Yu-Gi-Oh! Duel Links",
         "playtime_forever": 1057,
-        "img_icon_url": "cb55546652672da725a72bdcf28af81ec8f9148e",
+        "img_icon_url": "f6c94661f49022fcb3182464c009a030198b5362",
         "has_community_visible_stats": true
       },
       {
@@ -7560,7 +7560,7 @@
         "appid": 601510,
         "name": "Yu-Gi-Oh! Duel Links",
         "playtime_forever": 155,
-        "img_icon_url": "cb55546652672da725a72bdcf28af81ec8f9148e",
+        "img_icon_url": "f6c94661f49022fcb3182464c009a030198b5362",
         "has_community_visible_stats": true
       },
       {
@@ -7780,8 +7780,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 31,
-        "playtime_forever": 31038,
+        "playtime_2weeks": 90,
+        "playtime_forever": 31097,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7856,7 +7856,8 @@
         "appid": 1395560,
         "name": "Kandidatos",
         "playtime_forever": 18,
-        "img_icon_url": "34a5b389a7224f5debe01b12a505cc61550197df"
+        "img_icon_url": "4ca7a1a7b8f400a098e37687b6c30cf797bf4d75",
+        "has_community_visible_stats": true
       },
       {
         "appid": 1428780,
@@ -8083,8 +8084,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 8224,
-        "playtime_forever": 51550,
+        "playtime_2weeks": 9531,
+        "playtime_forever": 52856,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8098,8 +8099,8 @@
       {
         "appid": 4358690,
         "name": "Graveyard Keeper 2",
-        "playtime_2weeks": 30,
-        "playtime_forever": 30,
+        "playtime_2weeks": 155,
+        "playtime_forever": 155,
         "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
         "has_community_visible_stats": true
       }
@@ -12638,7 +12639,7 @@
     "431960": {
       "name": "Wallpaper Engine",
       "appid": 431960,
-      "totalHours": 909.8833333333333,
+      "totalHours": 909.9333333333333,
       "owners": [
         "Lírio",
         "Kiri",
@@ -12908,8 +12909,8 @@
         44,
         62
       ],
-      "price": "R$ 9,29",
-      "priceUSD": 929
+      "price": "R$ 30,99",
+      "priceUSD": 3099
     },
     "447040": {
       "name": "Watch_Dogs 2",
@@ -15269,8 +15270,8 @@
         43,
         62
       ],
-      "price": "R$ 11,39",
-      "priceUSD": 1139
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "752590": {
       "name": "A Plague Tale: Innocence",
@@ -15521,8 +15522,8 @@
         23,
         62
       ],
-      "price": "R$ 18,99",
-      "priceUSD": 1899
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "829110": {
       "name": "LEGO® DC Super-Villains",
@@ -15944,8 +15945,8 @@
         44,
         62
       ],
-      "price": "R$ 15,19",
-      "priceUSD": 1519
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "960910": {
       "name": "Heavy Rain",
@@ -16445,7 +16446,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 748.4333333333333,
+      "totalHours": 749.4166666666666,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16837,8 +16838,8 @@
         23,
         62
       ],
-      "price": "R$ 11,39",
-      "priceUSD": 1139
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "1172470": {
       "name": "Apex Legends",
@@ -19478,8 +19479,8 @@
         23,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 35,99",
+      "priceUSD": 3599
     },
     "2694490": {
       "name": "Path of Exile 2",
@@ -20155,7 +20156,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1594.4499999999998,
+      "totalHours": 1616.2166666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -20416,7 +20417,7 @@
     "4358690": {
       "name": "Graveyard Keeper 2",
       "appid": 4358690,
-      "totalHours": 0.5,
+      "totalHours": 2.5833333333333335,
       "owners": [
         "Nino"
       ],
@@ -20425,6 +20426,7 @@
         2,
         22,
         28,
+        29,
         68,
         74,
         55,
@@ -20480,41 +20482,6 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1790117960,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1789735325,
-      "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -20533,26 +20500,22 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1790115705,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1790117960,
       "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20573,6 +20536,47 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1789735325,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1790170006,
+      "personastate": 1,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "gameextrainfo": "TBH: Task Bar Hero",
+      "gameid": "3678970",
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     }
   }
 }
