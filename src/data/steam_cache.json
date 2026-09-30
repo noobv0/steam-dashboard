@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T12:31:05.630Z",
+  "timestamp": "2026-09-30T12:16:38.942Z",
   "data": {
     "Lírio": [
       {
@@ -3384,14 +3384,15 @@
       {
         "appid": 1245620,
         "name": "ELDEN RING",
-        "playtime_forever": 21344,
+        "playtime_2weeks": 90,
+        "playtime_forever": 21435,
         "img_icon_url": "b6e290dd5a92ce98f89089a207733c70c41a1871",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 21331,
+        "playtime_windows_forever": 21421,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 13,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1783797223,
+        "rtime_last_played": 1790722661,
         "content_descriptorids": [
           2,
           5
@@ -3866,15 +3867,15 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 1905,
-        "playtime_forever": 11178,
+        "playtime_2weeks": 1666,
+        "playtime_forever": 11253,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 11176,
+        "playtime_windows_forever": 11251,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 2,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1789692041,
+        "rtime_last_played": 1790721754,
         "playtime_disconnected": 0
       },
       {
@@ -4432,15 +4433,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 1280,
-        "playtime_forever": 237594,
+        "playtime_2weeks": 1178,
+        "playtime_forever": 237814,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 237594,
+        "playtime_windows_forever": 237814,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1790662928,
+        "rtime_last_played": 1790732311,
         "playtime_disconnected": 33
       },
       {
@@ -4526,7 +4527,6 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 28,
         "playtime_forever": 41564,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -4604,7 +4604,7 @@
       {
         "appid": 4126040,
         "name": "Aniimo",
-        "playtime_2weeks": 661,
+        "playtime_2weeks": 606,
         "playtime_forever": 661,
         "img_icon_url": "911829a13677bc978f6408f89e221aaabc0e4de6",
         "has_community_visible_stats": true,
@@ -6829,8 +6829,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 10379,
-        "playtime_forever": 57568,
+        "playtime_2weeks": 10572,
+        "playtime_forever": 57844,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8169,8 +8169,8 @@
         44,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "211820": {
       "name": "Starbound",
@@ -9713,6 +9713,8 @@
         68,
         78,
         74,
+        57,
+        58,
         79,
         69,
         70,
@@ -14920,7 +14922,7 @@
     "1245620": {
       "name": "ELDEN RING",
       "appid": 1245620,
-      "totalHours": 364.2166666666667,
+      "totalHours": 365.73333333333335,
       "owners": [
         "Lírio",
         "Carrot"
@@ -16047,7 +16049,7 @@
     "1812620": {
       "name": "DSX",
       "appid": 1812620,
-      "totalHours": 186.3,
+      "totalHours": 187.55,
       "owners": [
         "Lírio"
       ],
@@ -17105,6 +17107,7 @@
         1,
         49,
         36,
+        27,
         22,
         28,
         29,
@@ -17481,7 +17484,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 4232.2,
+      "totalHours": 4235.866666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -17667,7 +17670,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1652.2,
+      "totalHours": 1656.8000000000002,
       "owners": [
         "Lírio",
         "Nino"
@@ -17992,23 +17995,22 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Lírio": {
-      "steamid": "76561198158302059",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1790650857,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1790658145,
       "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -18042,6 +18044,24 @@
       "personastate": 0,
       "personastateflags": 0
     },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1790739129,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -18053,7 +18073,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1790652677,
+      "lastlogoff": 1790739668,
       "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -18062,23 +18082,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1790658145,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
     }
   }
 }
