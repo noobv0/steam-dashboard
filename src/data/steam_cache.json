@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T13:10:19.189Z",
+  "timestamp": "2026-10-09T12:56:47.394Z",
   "data": {
     "Lírio": [
       {
@@ -502,15 +502,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 814,
-        "playtime_forever": 129627,
+        "playtime_2weeks": 944,
+        "playtime_forever": 129757,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 120769,
+        "playtime_windows_forever": 120899,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 3884,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791406654,
+        "rtime_last_played": 1791484967,
         "content_descriptorids": [
           2,
           5
@@ -2801,13 +2801,14 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_forever": 161,
+        "playtime_2weeks": 81,
+        "playtime_forever": 243,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
-        "playtime_windows_forever": 161,
+        "playtime_windows_forever": 243,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1789286951,
+        "rtime_last_played": 1791471964,
         "playtime_disconnected": 0
       },
       {
@@ -2826,14 +2827,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_forever": 18648,
+        "playtime_2weeks": 85,
+        "playtime_forever": 18733,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 18394,
+        "playtime_windows_forever": 18479,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 254,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1789617081,
+        "rtime_last_played": 1791477100,
         "playtime_disconnected": 0
       },
       {
@@ -4096,15 +4098,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 90,
-        "playtime_forever": 17595,
+        "playtime_2weeks": 175,
+        "playtime_forever": 17680,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17595,
+        "playtime_windows_forever": 17680,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791064725,
+        "rtime_last_played": 1791516643,
         "playtime_disconnected": 1
       },
       {
@@ -4440,15 +4442,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 9826,
-        "playtime_forever": 247062,
+        "playtime_2weeks": 11258,
+        "playtime_forever": 248495,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 247062,
+        "playtime_windows_forever": 248495,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791463062,
+        "rtime_last_played": 1791549020,
         "playtime_disconnected": 33
       },
       {
@@ -6110,8 +6112,8 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 319,
-        "playtime_forever": 15565,
+        "playtime_2weeks": 460,
+        "playtime_forever": 15705,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
         "has_leaderboards": true,
@@ -7564,7 +7566,7 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 44,
+        "playtime_2weeks": 7,
         "playtime_forever": 19073,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
@@ -7620,8 +7622,8 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 1157,
-        "playtime_forever": 32280,
+        "playtime_2weeks": 1086,
+        "playtime_forever": 32349,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -7924,8 +7926,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 9873,
-        "playtime_forever": 62850,
+        "playtime_2weeks": 8775,
+        "playtime_forever": 62948,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8299,8 +8301,8 @@
         62,
         63
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "320": {
       "name": "Half-Life 2: Deathmatch",
@@ -8341,8 +8343,8 @@
         8,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "400": {
       "name": "Portal",
@@ -8376,8 +8378,8 @@
         42,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "440": {
       "name": "Team Fortress 2",
@@ -8445,8 +8447,8 @@
         43,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "550": {
       "name": "Left 4 Dead 2",
@@ -8494,8 +8496,8 @@
         62,
         63
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "620": {
       "name": "Portal 2",
@@ -8539,8 +8541,8 @@
         44,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 33,99",
+      "priceUSD": 3399
     },
     "730": {
       "name": "Counter-Strike 2",
@@ -8631,8 +8633,8 @@
         42,
         62
       ],
-      "price": "R$ 12,99",
-      "priceUSD": 1299
+      "price": "R$ 25,99",
+      "priceUSD": 2599
     },
     "6100": {
       "name": "Eets",
@@ -8662,8 +8664,8 @@
         18,
         62
       ],
-      "price": "R$ 7,49",
-      "priceUSD": 749
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "7830": {
       "name": "Men of War",
@@ -8704,8 +8706,8 @@
         43,
         62
       ],
-      "price": "R$ 4,49",
-      "priceUSD": 449
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "8870": {
       "name": "BioShock Infinite",
@@ -8725,8 +8727,8 @@
         43,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "8930": {
       "name": "Sid Meier's Civilization V",
@@ -8745,8 +8747,8 @@
         42,
         62
       ],
-      "price": "R$ 11,24",
-      "priceUSD": 1124
+      "price": "R$ 44,99",
+      "priceUSD": 4499
     },
     "13620": {
       "name": "Tom Clancy's Ghost Recon: Desert Siege",
@@ -8761,8 +8763,8 @@
         1,
         62
       ],
-      "price": "R$ 2,49",
-      "priceUSD": 249
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "13630": {
       "name": "Tom Clancy's Ghost Recon: Island Thunder",
@@ -8801,8 +8803,8 @@
         29,
         62
       ],
-      "price": "R$ 14,75",
-      "priceUSD": 1475
+      "price": "R$ 59,00",
+      "priceUSD": 5900
     },
     "17410": {
       "name": "Mirror's Edge",
@@ -8819,8 +8821,8 @@
         43,
         62
       ],
-      "price": "R$ 38,15",
-      "priceUSD": 3815
+      "price": "R$ 109,00",
+      "priceUSD": 10900
     },
     "20900": {
       "name": "The Witcher: Enhanced Edition",
@@ -8844,8 +8846,8 @@
         23,
         62
       ],
-      "price": "R$ 5,24",
-      "priceUSD": 524
+      "price": "R$ 34,99",
+      "priceUSD": 3499
     },
     "20920": {
       "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
@@ -8873,8 +8875,8 @@
         25,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "21000": {
       "name": "LEGO® Batman™: The Videogame",
@@ -8896,8 +8898,8 @@
         44,
         62
       ],
-      "price": "R$ 13,49",
-      "priceUSD": 1349
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "21690": {
       "name": "Resident Evil 5",
@@ -8918,8 +8920,8 @@
         25,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "25000": {
       "name": "Overgrowth",
@@ -8942,8 +8944,8 @@
         44,
         62
       ],
-      "price": "R$ 17,99",
-      "priceUSD": 1799
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "40800": {
       "name": "Super Meat Boy",
@@ -8965,8 +8967,8 @@
         43,
         62
       ],
-      "price": "R$ 3,99",
-      "priceUSD": 399
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "42910": {
       "name": "Magicka",
@@ -8992,8 +8994,8 @@
         44,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 35,99",
+      "priceUSD": 3599
     },
     "43160": {
       "name": "Metro: Last Light Complete Edition",
@@ -9116,8 +9118,8 @@
         44,
         62
       ],
-      "price": "R$ 56,27",
-      "priceUSD": 5627
+      "price": "R$ 83,99",
+      "priceUSD": 8399
     },
     "108710": {
       "name": "Alan Wake",
@@ -9186,8 +9188,8 @@
         44,
         62
       ],
-      "price": "R$ 15,98",
-      "priceUSD": 1598
+      "price": "R$ 79,90",
+      "priceUSD": 7990
     },
     "200210": {
       "name": "Realm of the Mad God Exalt",
@@ -9268,8 +9270,8 @@
         44,
         62
       ],
-      "price": "R$ 7,49",
-      "priceUSD": 749
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "207140": {
       "name": "SpeedRunners",
@@ -9305,8 +9307,8 @@
         44,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "208650": {
       "name": "Batman™: Arkham Knight",
@@ -9354,8 +9356,8 @@
         30,
         62
       ],
-      "price": "R$ 21,39",
-      "priceUSD": 2139
+      "price": "R$ 53,49",
+      "priceUSD": 5349
     },
     "212630": {
       "name": "Tom Clancy's Ghost Recon Future Soldier",
@@ -9413,8 +9415,8 @@
         43,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "214170": {
       "name": "Divine Divinity",
@@ -9499,8 +9501,8 @@
         43,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "218680": {
       "name": "Scribblenauts Unlimited",
@@ -9518,8 +9520,8 @@
         23,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "219740": {
       "name": "Don't Starve",
@@ -9541,8 +9543,8 @@
         43,
         62
       ],
-      "price": "R$ 5,17",
-      "priceUSD": 517
+      "price": "R$ 20,69",
+      "priceUSD": 2069
     },
     "219760": {
       "name": "Beyond Divinity",
@@ -9583,8 +9585,8 @@
         22,
         18
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "221040": {
       "name": "Resident Evil 6",
@@ -9609,8 +9611,8 @@
         44,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "223750": {
       "name": "DCS World Steam Edition",
@@ -9706,8 +9708,8 @@
         44,
         62
       ],
-      "price": "R$ 15,49",
-      "priceUSD": 1549
+      "price": "R$ 66,99",
+      "priceUSD": 6699
     },
     "230230": {
       "name": "Divinity: Original Sin (Classic)",
@@ -9724,7 +9726,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2480.5,
+      "totalHours": 2482.666666666667,
       "owners": [
         "Lírio",
         "Dudu",
@@ -9799,8 +9801,8 @@
         30,
         62
       ],
-      "price": "R$ 3,39",
-      "priceUSD": 339
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "235900": {
       "name": "RPG Maker XP",
@@ -9896,8 +9898,8 @@
         43,
         62
       ],
-      "price": "R$ 11,56",
-      "priceUSD": 1156
+      "price": "R$ 88,99",
+      "priceUSD": 8899
     },
     "238370": {
       "name": "Magicka 2",
@@ -9922,8 +9924,8 @@
         44,
         62
       ],
-      "price": "R$ 13,49",
-      "priceUSD": 1349
+      "price": "R$ 53,99",
+      "priceUSD": 5399
     },
     "238460": {
       "name": "BattleBlock Theater",
@@ -9963,8 +9965,8 @@
         44,
         62
       ],
-      "price": "R$ 8,39",
-      "priceUSD": 839
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "238960": {
       "name": "Path of Exile",
@@ -10049,8 +10051,8 @@
         43,
         62
       ],
-      "price": "R$ 9,90",
-      "priceUSD": 990
+      "price": "R$ 99,00",
+      "priceUSD": 9900
     },
     "239820": {
       "name": "Game Dev Tycoon",
@@ -10069,8 +10071,8 @@
         42,
         62
       ],
-      "price": "R$ 11,99",
-      "priceUSD": 1199
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "241930": {
       "name": "Middle-earth™: Shadow of Mordor™",
@@ -10089,8 +10091,8 @@
         23,
         62
       ],
-      "price": "R$ 17,99",
-      "priceUSD": 1799
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "242700": {
       "name": "Injustice: Gods Among Us Ultimate Edition",
@@ -10112,8 +10114,8 @@
         43,
         62
       ],
-      "price": "R$ 13,49",
-      "priceUSD": 1349
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "242760": {
       "name": "The Forest",
@@ -10135,8 +10137,8 @@
         23,
         62
       ],
-      "price": "R$ 7,97",
-      "priceUSD": 797
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "243870": {
       "name": "Tom Clancy's Ghost Recon Phantoms - NA",
@@ -10174,8 +10176,8 @@
         17,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "246620": {
       "name": "Plague Inc: Evolved",
@@ -10210,8 +10212,8 @@
         42,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "246900": {
       "name": "Viscera Cleanup Detail",
@@ -10238,8 +10240,8 @@
         44,
         62
       ],
-      "price": "R$ 16,79",
-      "priceUSD": 1679
+      "price": "R$ 41,99",
+      "priceUSD": 4199
     },
     "247120": {
       "name": "Portal 2 Sixense Perceptual Pack",
@@ -10276,8 +10278,8 @@
         23,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 35,99",
+      "priceUSD": 3599
     },
     "249130": {
       "name": "LEGO® MARVEL Super Heroes",
@@ -10300,8 +10302,8 @@
         44,
         62
       ],
-      "price": "R$ 7,39",
-      "priceUSD": 739
+      "price": "R$ 36,99",
+      "priceUSD": 3699
     },
     "249870": {
       "name": "Scribblenauts Unmasked",
@@ -10335,8 +10337,8 @@
         44,
         62
       ],
-      "price": "R$ 20,99",
-      "priceUSD": 2099
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "251570": {
       "name": "7 Days to Die",
@@ -10368,8 +10370,8 @@
         43,
         62
       ],
-      "price": "R$ 67,09",
-      "priceUSD": 6709
+      "price": "R$ 121,99",
+      "priceUSD": 12199
     },
     "252490": {
       "name": "Rust",
@@ -10403,8 +10405,8 @@
         15,
         42
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 119,99",
+      "priceUSD": 11999
     },
     "252950": {
       "name": "Rocket League",
@@ -10464,8 +10466,8 @@
         25,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "255520": {
       "name": "Viscera Cleanup Detail: Shadow Warrior",
@@ -10523,8 +10525,8 @@
         43,
         62
       ],
-      "price": "R$ 31,12",
-      "priceUSD": 3112
+      "price": "R$ 124,50",
+      "priceUSD": 12450
     },
     "265210": {
       "name": "Viscera Cleanup Detail: Santa's Rampage",
@@ -10562,8 +10564,8 @@
         44,
         62
       ],
-      "price": "R$ 25,89",
-      "priceUSD": 2589
+      "price": "R$ 36,99",
+      "priceUSD": 3699
     },
     "269210": {
       "name": "Hero Siege",
@@ -10647,8 +10649,8 @@
         44,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "274520": {
       "name": "Darkwood",
@@ -10703,8 +10705,8 @@
         43,
         62
       ],
-      "price": "R$ 11,99",
-      "priceUSD": 1199
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "280790": {
       "name": "Creativerse",
@@ -10727,8 +10729,8 @@
         30,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 49,99",
+      "priceUSD": 4999
     },
     "282070": {
       "name": "This War of Mine",
@@ -10774,8 +10776,8 @@
         25,
         62
       ],
-      "price": "R$ 5,87",
-      "priceUSD": 587
+      "price": "R$ 23,50",
+      "priceUSD": 2350
     },
     "285900": {
       "name": "Gang Beasts",
@@ -10823,8 +10825,8 @@
         18,
         62
       ],
-      "price": "R$ 11,87",
-      "priceUSD": 1187
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "286160": {
       "name": "Tabletop Simulator",
@@ -10915,8 +10917,8 @@
         44,
         62
       ],
-      "price": "R$ 12,90",
-      "priceUSD": 1290
+      "price": "R$ 129,00",
+      "priceUSD": 12900
     },
     "289650": {
       "name": "Assassin's Creed Unity",
@@ -10941,8 +10943,8 @@
         70,
         18
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "291550": {
       "name": "Brawlhalla",
@@ -11014,8 +11016,8 @@
         61,
         62
       ],
-      "price": "R$ 79,99",
-      "priceUSD": 7999
+      "price": "R$ 159,99",
+      "priceUSD": 15999
     },
     "297130": {
       "name": "Titan Souls",
@@ -11032,8 +11034,8 @@
         43,
         62
       ],
-      "price": "R$ 4,69",
-      "priceUSD": 469
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "298110": {
       "name": "Far Cry 4",
@@ -11064,8 +11066,8 @@
         25,
         62
       ],
-      "price": "R$ 4,59",
-      "priceUSD": 459
+      "price": "R$ 6,50",
+      "priceUSD": 650
     },
     "301520": {
       "name": "Robocraft",
@@ -11145,8 +11147,8 @@
         35,
         18
       ],
-      "price": "R$ 12,99",
-      "priceUSD": 1299
+      "price": "R$ 129,99",
+      "priceUSD": 12999
     },
     "304930": {
       "name": "Unturned",
@@ -11216,8 +11218,8 @@
         61,
         62
       ],
-      "price": "R$ 15,37",
-      "priceUSD": 1537
+      "price": "R$ 61,50",
+      "priceUSD": 6150
     },
     "307780": {
       "name": "Mortal Kombat X",
@@ -11301,8 +11303,8 @@
         44,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "312520": {
       "name": "Rain World",
@@ -11429,8 +11431,8 @@
         43,
         62
       ],
-      "price": "R$ 9,51",
-      "priceUSD": 951
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "323370": {
       "name": "TERA",
@@ -11564,8 +11566,8 @@
         42,
         62
       ],
-      "price": "R$ 8,39",
-      "priceUSD": 839
+      "price": "R$ 41,99",
+      "priceUSD": 4199
     },
     "346110": {
       "name": "ARK: Survival Evolved",
@@ -11591,8 +11593,8 @@
         42,
         62
       ],
-      "price": "R$ 31,01",
-      "priceUSD": 3101
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "346900": {
       "name": "AdVenture Capitalist",
@@ -11666,8 +11668,8 @@
         23,
         62
       ],
-      "price": "R$ 22,99",
-      "priceUSD": 2299
+      "price": "R$ 229,99",
+      "priceUSD": 22999
     },
     "356570": {
       "name": "Party Hard",
@@ -11691,8 +11693,8 @@
         44,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "359550": {
       "name": "Tom Clancy's Rainbow Six Siege",
@@ -11836,8 +11838,8 @@
         42,
         62
       ],
-      "price": "R$ 2,06",
-      "priceUSD": 206
+      "price": "R$ 20,69",
+      "priceUSD": 2069
     },
     "367520": {
       "name": "Hollow Knight",
@@ -11900,8 +11902,8 @@
         29,
         18
       ],
-      "price": "R$ 37,49",
-      "priceUSD": 3749
+      "price": "R$ 149,99",
+      "priceUSD": 14999
     },
     "371970": {
       "name": "Barony",
@@ -11957,8 +11959,8 @@
         44,
         62
       ],
-      "price": "R$ 7,29",
-      "priceUSD": 729
+      "price": "R$ 72,99",
+      "priceUSD": 7299
     },
     "374040": {
       "name": "Portal Knights",
@@ -11981,8 +11983,8 @@
         44,
         62
       ],
-      "price": "R$ 5,54",
-      "priceUSD": 554
+      "price": "R$ 36,99",
+      "priceUSD": 3699
     },
     "374320": {
       "name": "DARK SOULS™ III",
@@ -12064,8 +12066,8 @@
         43,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 69,99",
+      "priceUSD": 6999
     },
     "383270": {
       "name": "Hue",
@@ -12166,8 +12168,8 @@
         44,
         62
       ],
-      "price": "R$ 20,24",
-      "priceUSD": 2024
+      "price": "R$ 44,99",
+      "priceUSD": 4499
     },
     "391540": {
       "name": "Undertale",
@@ -12186,8 +12188,8 @@
         42,
         62
       ],
-      "price": "R$ 4,99",
-      "priceUSD": 499
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "394310": {
       "name": "Punch Club",
@@ -12205,8 +12207,8 @@
         23,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "397080": {
       "name": "Magicka 2: Spell Balance Beta",
@@ -12284,8 +12286,8 @@
         23,
         62
       ],
-      "price": "R$ 6,99",
-      "priceUSD": 699
+      "price": "R$ 69,99",
+      "priceUSD": 6999
     },
     "407530": {
       "name": "ARK: Survival Of The Fittest",
@@ -12376,8 +12378,8 @@
         44,
         62
       ],
-      "price": "R$ 17,49",
-      "priceUSD": 1749
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "413410": {
       "name": "Danganronpa: Trigger Happy Havoc",
@@ -12490,8 +12492,8 @@
         30,
         17
       ],
-      "price": "R$ 14,39",
-      "priceUSD": 1439
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "433340": {
       "name": "Slime Rancher",
@@ -12513,8 +12515,8 @@
         43,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "435150": {
       "name": "Divinity: Original Sin 2",
@@ -12547,8 +12549,8 @@
         44,
         62
       ],
-      "price": "R$ 22,74",
-      "priceUSD": 2274
+      "price": "R$ 90,99",
+      "priceUSD": 9099
     },
     "436180": {
       "name": "Spacelords",
@@ -12747,8 +12749,8 @@
         44,
         62
       ],
-      "price": "R$ 9,29",
-      "priceUSD": 929
+      "price": "R$ 30,99",
+      "priceUSD": 3099
     },
     "447040": {
       "name": "Watch_Dogs 2",
@@ -12800,8 +12802,8 @@
         44,
         62
       ],
-      "price": "R$ 2,96",
-      "priceUSD": 296
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "454650": {
       "name": "DRAGON BALL XENOVERSE 2",
@@ -12903,8 +12905,8 @@
         29,
         62
       ],
-      "price": "R$ 2,79",
-      "priceUSD": 279
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "462780": {
       "name": "Darksiders Warmastered Edition",
@@ -13009,8 +13011,8 @@
         17,
         62
       ],
-      "price": "R$ 3,59",
-      "priceUSD": 359
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "473690": {
       "name": "Absolver",
@@ -13032,8 +13034,8 @@
         43,
         62
       ],
-      "price": "R$ 8,89",
-      "priceUSD": 889
+      "price": "R$ 88,99",
+      "priceUSD": 8899
     },
     "489520": {
       "name": "Minion Masters",
@@ -13097,8 +13099,8 @@
         42,
         62
       ],
-      "price": "R$ 14,90",
-      "priceUSD": 1490
+      "price": "R$ 149,00",
+      "priceUSD": 14900
     },
     "493520": {
       "name": "GTFO",
@@ -13117,8 +13119,8 @@
         18,
         62
       ],
-      "price": "R$ 20,24",
-      "priceUSD": 2024
+      "price": "R$ 74,99",
+      "priceUSD": 7499
     },
     "496300": {
       "name": "Kingdom: New Lands",
@@ -13178,8 +13180,8 @@
         43,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "504370": {
       "name": "Battlerite",
@@ -13221,7 +13223,7 @@
         62
       ],
       "price": "Grátis",
-      "priceUSD": 599
+      "priceUSD": 5999
     },
     "520440": {
       "name": "GUILTY GEAR Xrd REV 2",
@@ -13267,8 +13269,8 @@
         43,
         62
       ],
-      "price": "R$ 7,99",
-      "priceUSD": 799
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "526870": {
       "name": "Satisfactory",
@@ -13303,8 +13305,8 @@
         42,
         62
       ],
-      "price": "R$ 75,59",
-      "priceUSD": 7559
+      "price": "R$ 107,99",
+      "priceUSD": 10799
     },
     "527230": {
       "name": "For The King",
@@ -13338,8 +13340,8 @@
         44,
         62
       ],
-      "price": "R$ 7,59",
-      "priceUSD": 759
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "529180": {
       "name": "Dark and Light",
@@ -13361,8 +13363,8 @@
         30,
         62
       ],
-      "price": "R$ 9,44",
-      "priceUSD": 944
+      "price": "R$ 34,99",
+      "priceUSD": 3499
     },
     "535930": {
       "name": "Two Point Hospital",
@@ -13415,7 +13417,7 @@
     "548430": {
       "name": "Deep Rock Galactic",
       "appid": 548430,
-      "totalHours": 279.55,
+      "totalHours": 281.8833333333333,
       "owners": [
         "Lírio",
         "Dudu",
@@ -13444,8 +13446,8 @@
         43,
         62
       ],
-      "price": "R$ 22,19",
-      "priceUSD": 2219
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "552500": {
       "name": "Warhammer: Vermintide 2",
@@ -13470,8 +13472,8 @@
         57,
         62
       ],
-      "price": "R$ 8,89",
-      "priceUSD": 889
+      "price": "R$ 88,99",
+      "priceUSD": 8899
     },
     "552520": {
       "name": "Far Cry 5",
@@ -13517,8 +13519,8 @@
         25,
         62
       ],
-      "price": "R$ 6,39",
-      "priceUSD": 639
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "563560": {
       "name": "Alien Swarm: Reactive Drop",
@@ -13605,8 +13607,8 @@
         18,
         62
       ],
-      "price": "R$ 36,99",
-      "priceUSD": 3699
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "578080": {
       "name": "PUBG: BATTLEGROUNDS",
@@ -13686,8 +13688,8 @@
         61,
         62
       ],
-      "price": "R$ 33,54",
-      "priceUSD": 3354
+      "price": "R$ 129,00",
+      "priceUSD": 12900
     },
     "582500": {
       "name": "We Were Here",
@@ -13737,8 +13739,8 @@
         35,
         18
       ],
-      "price": "R$ 5,23",
-      "priceUSD": 523
+      "price": "R$ 17,46",
+      "priceUSD": 1746
     },
     "585420": {
       "name": "Trailmakers",
@@ -13768,8 +13770,8 @@
         43,
         62
       ],
-      "price": "R$ 14,24",
-      "priceUSD": 1424
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "585450": {
       "name": "Shadows: Awakening",
@@ -13801,8 +13803,8 @@
         29,
         62
       ],
-      "price": "R$ 5,99",
-      "priceUSD": 599
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "587520": {
       "name": "Dungeons of Sundaria",
@@ -13825,8 +13827,8 @@
         44,
         62
       ],
-      "price": "R$ 8,24",
-      "priceUSD": 824
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "588430": {
       "name": "Fallout Shelter",
@@ -13870,8 +13872,8 @@
         43,
         62
       ],
-      "price": "R$ 23,74",
-      "priceUSD": 2374
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "588690": {
       "name": "Peace, Death!",
@@ -13890,8 +13892,8 @@
         25,
         62
       ],
-      "price": "R$ 3,14",
-      "priceUSD": 314
+      "price": "R$ 10,49",
+      "priceUSD": 1049
     },
     "589360": {
       "name": "Ni no Kuni™ II: Revenant Kingdom",
@@ -13949,8 +13951,8 @@
         43,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "601150": {
       "name": "Devil May Cry 5",
@@ -14049,8 +14051,8 @@
         44,
         62
       ],
-      "price": "R$ 16,86",
-      "priceUSD": 1686
+      "price": "R$ 22,49",
+      "priceUSD": 2249
     },
     "606150": {
       "name": "Moonlighter",
@@ -14072,8 +14074,8 @@
         43,
         62
       ],
-      "price": "R$ 4,10",
-      "priceUSD": 410
+      "price": "R$ 41,00",
+      "priceUSD": 4100
     },
     "607890": {
       "name": "Sword Art Online: Hollow Realization Deluxe Edition",
@@ -14173,8 +14175,8 @@
       "categories": [
         62
       ],
-      "price": "R$ 13,59",
-      "priceUSD": 1359
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "629820": {
       "name": "Maneater",
@@ -14244,8 +14246,8 @@
         42,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 119,99",
+      "priceUSD": 11999
     },
     "633230": {
       "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
@@ -14356,8 +14358,8 @@
         23,
         62
       ],
-      "price": "R$ 9,99",
-      "priceUSD": 999
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "644560": {
       "name": "Mirror",
@@ -14408,8 +14410,8 @@
         17,
         62
       ],
-      "price": "R$ 4,79",
-      "priceUSD": 479
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "646910": {
       "name": "The Crew 2",
@@ -14435,8 +14437,8 @@
         41,
         42
       ],
-      "price": "R$ 44,99",
-      "priceUSD": 4499
+      "price": "R$ 149,99",
+      "priceUSD": 14999
     },
     "647830": {
       "name": "LEGO® MARVEL Super Heroes 2",
@@ -14589,8 +14591,8 @@
         17,
         62
       ],
-      "price": "R$ 11,87",
-      "priceUSD": 1187
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "678950": {
       "name": "DRAGON BALL FighterZ",
@@ -14625,8 +14627,8 @@
         23,
         62
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 149,99",
+      "priceUSD": 14999
     },
     "683320": {
       "name": "GRIS",
@@ -14846,8 +14848,8 @@
         23,
         62
       ],
-      "price": "R$ 44,99",
-      "priceUSD": 4499
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "728880": {
       "name": "Overcooked! 2",
@@ -14878,8 +14880,8 @@
         44,
         62
       ],
-      "price": "R$ 14,97",
-      "priceUSD": 1497
+      "price": "R$ 59,90",
+      "priceUSD": 5990
     },
     "729720": {
       "name": "Zomborg",
@@ -14959,8 +14961,8 @@
         42,
         62
       ],
-      "price": "R$ 41,99",
-      "priceUSD": 4199
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "740240": {
       "name": "Snake Eyes Dungeon",
@@ -15003,8 +15005,8 @@
         25,
         62
       ],
-      "price": "R$ 35,60",
-      "priceUSD": 3560
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "751780": {
       "name": "Forager",
@@ -15028,8 +15030,8 @@
         43,
         62
       ],
-      "price": "R$ 11,39",
-      "priceUSD": 1139
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "752590": {
       "name": "A Plague Tale: Innocence",
@@ -15057,8 +15059,8 @@
         36,
         23
       ],
-      "price": "R$ 6,39",
-      "priceUSD": 639
+      "price": "R$ 31,99",
+      "priceUSD": 3199
     },
     "761890": {
       "name": "Albion Online",
@@ -15121,8 +15123,8 @@
         23,
         62
       ],
-      "price": "R$ 41,26",
-      "priceUSD": 4126
+      "price": "R$ 85,98",
+      "priceUSD": 8598
     },
     "787810": {
       "name": "Rogue Heroes: Ruins of Tasos",
@@ -15146,8 +15148,8 @@
         44,
         62
       ],
-      "price": "R$ 10,49",
-      "priceUSD": 1049
+      "price": "R$ 21,20",
+      "priceUSD": 2120
     },
     "794260": {
       "name": "Outward",
@@ -15261,8 +15263,8 @@
         42,
         62
       ],
-      "price": "R$ 4,74",
-      "priceUSD": 474
+      "price": "R$ 8,20",
+      "priceUSD": 820
     },
     "821880": {
       "name": "Idol Manager",
@@ -15498,8 +15500,8 @@
         42,
         62
       ],
-      "price": "R$ 80,99",
-      "priceUSD": 8099
+      "price": "R$ 89,99",
+      "priceUSD": 8999
     },
     "897450": {
       "name": "The Survivalists",
@@ -15546,8 +15548,8 @@
         23,
         62
       ],
-      "price": "R$ 22,99",
-      "priceUSD": 2299
+      "price": "R$ 229,90",
+      "priceUSD": 22990
     },
     "919220": {
       "name": "Destiny or Fate",
@@ -15564,7 +15566,7 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 27.166666666666664,
+      "totalHours": 28.53333333333333,
       "owners": [
         "Lírio",
         "Nino",
@@ -15614,13 +15616,13 @@
         28,
         62
       ],
-      "price": "R$ 5,99",
-      "priceUSD": 599
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 410.18333333333334,
+      "totalHours": 411.59999999999997,
       "owners": [
         "Lírio",
         "Kiri",
@@ -15638,8 +15640,8 @@
         42,
         62
       ],
-      "price": "R$ 9,76",
-      "priceUSD": 976
+      "price": "R$ 27,89",
+      "priceUSD": 2789
     },
     "960690": {
       "name": "One Step From Eden",
@@ -15670,8 +15672,8 @@
         44,
         62
       ],
-      "price": "R$ 15,19",
-      "priceUSD": 1519
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "960910": {
       "name": "Heavy Rain",
@@ -15716,8 +15718,8 @@
         42,
         62
       ],
-      "price": "R$ 9,91",
-      "priceUSD": 991
+      "price": "R$ 12,39",
+      "priceUSD": 1239
     },
     "978520": {
       "name": "Legend of Keepers",
@@ -15766,8 +15768,8 @@
         2,
         62
       ],
-      "price": "R$ 7,17",
-      "priceUSD": 717
+      "price": "R$ 20,49",
+      "priceUSD": 2049
     },
     "990080": {
       "name": "Hogwarts Legacy",
@@ -15798,8 +15800,8 @@
         61,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 249,99",
+      "priceUSD": 24999
     },
     "990630": {
       "name": "The Last Campfire",
@@ -15822,8 +15824,8 @@
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/capsule_sm_120.jpg",
       "categories": [],
-      "price": "R$ 10,19",
-      "priceUSD": 1019
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1009290": {
       "name": "SWORD ART ONLINE Alicization Lycoris",
@@ -15871,8 +15873,8 @@
         44,
         62
       ],
-      "price": "R$ 8,99",
-      "priceUSD": 899
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1017180": {
       "name": "The Long Drive",
@@ -15887,8 +15889,8 @@
         44,
         62
       ],
-      "price": "R$ 12,49",
-      "priceUSD": 1249
+      "price": "R$ 49,99",
+      "priceUSD": 4999
     },
     "1025440": {
       "name": "Fantasy General II",
@@ -16060,8 +16062,8 @@
         17,
         62
       ],
-      "price": "R$ 5,79",
-      "priceUSD": 579
+      "price": "R$ 28,99",
+      "priceUSD": 2899
     },
     "1063730": {
       "name": "New World: Aeternum",
@@ -16176,7 +16178,7 @@
     "1086940": {
       "name": "Baldur's Gate 3",
       "appid": 1086940,
-      "totalHours": 562.9666666666667,
+      "totalHours": 564.1166666666667,
       "owners": [
         "Lírio",
         "Kiri",
@@ -16212,8 +16214,8 @@
         44,
         62
       ],
-      "price": "R$ 139,99",
-      "priceUSD": 13999
+      "price": "R$ 199,99",
+      "priceUSD": 19999
     },
     "1087760": {
       "name": "The Gunk",
@@ -16270,8 +16272,8 @@
         61,
         62
       ],
-      "price": "R$ 59,97",
-      "priceUSD": 5997
+      "price": "R$ 199,90",
+      "priceUSD": 19990
     },
     "1094710": {
       "name": "Royal Crown",
@@ -16406,8 +16408,8 @@
         43,
         62
       ],
-      "price": "R$ 18,49",
-      "priceUSD": 1849
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "1147560": {
       "name": "Skul: The Hero Slayer",
@@ -16426,8 +16428,8 @@
         43,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "1150690": {
       "name": "OMORI",
@@ -16445,8 +16447,8 @@
         42,
         62
       ],
-      "price": "R$ 30,39",
-      "priceUSD": 3039
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "1171690": {
       "name": "Wayfinder",
@@ -16472,8 +16474,8 @@
         43,
         62
       ],
-      "price": "R$ 6,04",
-      "priceUSD": 604
+      "price": "R$ 54,99",
+      "priceUSD": 5499
     },
     "1172380": {
       "name": "STAR WARS Jedi: Fallen Order™ ",
@@ -16498,8 +16500,8 @@
         43,
         61
       ],
-      "price": "R$ 39,80",
-      "priceUSD": 3980
+      "price": "R$ 199,00",
+      "priceUSD": 19900
     },
     "1172450": {
       "name": "Carto",
@@ -16518,8 +16520,8 @@
         23,
         62
       ],
-      "price": "R$ 11,39",
-      "priceUSD": 1139
+      "price": "R$ 37,99",
+      "priceUSD": 3799
     },
     "1172470": {
       "name": "Apex Legends",
@@ -16574,8 +16576,8 @@
         42,
         62
       ],
-      "price": "R$ 38,49",
-      "priceUSD": 3849
+      "price": "R$ 109,99",
+      "priceUSD": 10999
     },
     "1174180": {
       "name": "Red Dead Redemption 2",
@@ -16686,8 +16688,8 @@
         17,
         62
       ],
-      "price": "R$ 8,87",
-      "priceUSD": 887
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "1190970": {
       "name": "House Flipper 2",
@@ -16908,8 +16910,8 @@
         42,
         43
       ],
-      "price": "R$ 13,35",
-      "priceUSD": 1335
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "1238810": {
       "name": "Battlefield™ V",
@@ -16929,8 +16931,8 @@
         29,
         61
       ],
-      "price": "R$ 22,90",
-      "priceUSD": 2290
+      "price": "R$ 229,00",
+      "priceUSD": 22900
     },
     "1238840": {
       "name": "Battlefield™ 1",
@@ -16962,8 +16964,8 @@
         29,
         61
       ],
-      "price": "R$ 19,90",
-      "priceUSD": 1990
+      "price": "R$ 199,00",
+      "priceUSD": 19900
     },
     "1245620": {
       "name": "ELDEN RING",
@@ -17070,8 +17072,8 @@
         23,
         62
       ],
-      "price": "R$ 9,59",
-      "priceUSD": 959
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "1283700": {
       "name": "SUPERVIVE",
@@ -17317,8 +17319,8 @@
         18,
         62
       ],
-      "price": "R$ 1,74",
-      "priceUSD": 174
+      "price": "R$ 3,49",
+      "priceUSD": 349
     },
     "1407200": {
       "name": "World of Tanks",
@@ -17406,8 +17408,8 @@
         61,
         62
       ],
-      "price": "R$ 16,90",
-      "priceUSD": 1690
+      "price": "R$ 169,00",
+      "priceUSD": 16900
     },
     "1449560": {
       "name": "Metro Exodus Enhanced Edition",
@@ -17429,8 +17431,8 @@
         43,
         62
       ],
-      "price": "R$ 14,90",
-      "priceUSD": 1490
+      "price": "R$ 149,00",
+      "priceUSD": 14900
     },
     "1449690": {
       "name": "The Walking Dead: The Telltale Definitive Series",
@@ -17482,8 +17484,8 @@
         23,
         62
       ],
-      "price": "R$ 8,49",
-      "priceUSD": 849
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1456200": {
       "name": "Initial Drift Online",
@@ -17505,8 +17507,8 @@
         25,
         62
       ],
-      "price": "R$ 6,79",
-      "priceUSD": 679
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1462040": {
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
@@ -17630,8 +17632,8 @@
         24,
         62
       ],
-      "price": "R$ 7,62",
-      "priceUSD": 762
+      "price": "R$ 10,89",
+      "priceUSD": 1089
     },
     "1510580": {
       "name": "Toy Tinker Simulator",
@@ -17673,8 +17675,8 @@
         70,
         61
       ],
-      "price": "R$ 24,90",
-      "priceUSD": 2490
+      "price": "R$ 249,00",
+      "priceUSD": 24900
     },
     "1549250": {
       "name": "Undecember",
@@ -17818,8 +17820,8 @@
         23,
         62
       ],
-      "price": "R$ 45,89",
-      "priceUSD": 4589
+      "price": "R$ 101,99",
+      "priceUSD": 10199
     },
     "1621690": {
       "name": "Core Keeper",
@@ -18023,8 +18025,8 @@
         44,
         62
       ],
-      "price": "R$ 25,49",
-      "priceUSD": 2549
+      "price": "R$ 74,99",
+      "priceUSD": 7499
     },
     "1677470": {
       "name": "GrandChase Classic",
@@ -18155,8 +18157,8 @@
         23,
         62
       ],
-      "price": "R$ 119,60",
-      "priceUSD": 11960
+      "price": "R$ 299,00",
+      "priceUSD": 29900
     },
     "1782210": {
       "name": "Crab Game",
@@ -18198,8 +18200,8 @@
         44,
         62
       ],
-      "price": "R$ 9,74",
-      "priceUSD": 974
+      "price": "R$ 12,99",
+      "priceUSD": 1299
     },
     "1812620": {
       "name": "DSX",
@@ -18343,8 +18345,8 @@
         69,
         62
       ],
-      "price": "R$ 39,99",
-      "priceUSD": 3999
+      "price": "R$ 79,99",
+      "priceUSD": 7999
     },
     "1919460": {
       "name": "Seraph's Last Stand",
@@ -18364,8 +18366,8 @@
         25,
         62
       ],
-      "price": "R$ 2,20",
-      "priceUSD": 220
+      "price": "R$ 3,15",
+      "priceUSD": 315
     },
     "1922560": {
       "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
@@ -18386,8 +18388,8 @@
         22,
         35
       ],
-      "price": "R$ 47,70",
-      "priceUSD": 4770
+      "price": "R$ 159,00",
+      "priceUSD": 15900
     },
     "1942280": {
       "name": "Brotato",
@@ -18412,8 +18414,8 @@
         44,
         62
       ],
-      "price": "R$ 10,19",
-      "priceUSD": 1019
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1966720": {
       "name": "Lethal Company",
@@ -18451,8 +18453,8 @@
         23,
         62
       ],
-      "price": "R$ 8,49",
-      "priceUSD": 849
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1974050": {
       "name": "Torchlight: Infinite",
@@ -18650,8 +18652,8 @@
         23,
         62
       ],
-      "price": "R$ 24,74",
-      "priceUSD": 2474
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "2142790": {
       "name": "Fields of Mistria",
@@ -18670,8 +18672,8 @@
         23,
         62
       ],
-      "price": "R$ 35,59",
-      "priceUSD": 3559
+      "price": "R$ 44,49",
+      "priceUSD": 4449
     },
     "2149010": {
       "name": "Little Nightmares Enhanced Edition",
@@ -18723,8 +18725,8 @@
         47,
         62
       ],
-      "price": "R$ 13,59",
-      "priceUSD": 1359
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "2218460": {
       "name": "Bunny Guys!",
@@ -18759,8 +18761,8 @@
         18,
         61
       ],
-      "price": "R$ 14,99",
-      "priceUSD": 1499
+      "price": "R$ 149,99",
+      "priceUSD": 14999
     },
     "2226280": {
       "name": "BAPBAP",
@@ -18805,8 +18807,8 @@
         18,
         61
       ],
-      "price": "R$ 35,80",
-      "priceUSD": 3580
+      "price": "R$ 179,00",
+      "priceUSD": 17900
     },
     "2246340": {
       "name": "Monster Hunter Wilds",
@@ -18840,8 +18842,8 @@
         61,
         62
       ],
-      "price": "R$ 126,75",
-      "priceUSD": 12675
+      "price": "R$ 169,00",
+      "priceUSD": 16900
     },
     "2289970": {
       "name": "In Sink: A Co-Op Escape Prologue",
@@ -18915,7 +18917,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 300.35,
+      "totalHours": 301.7666666666667,
       "owners": [
         "Lírio",
         "Dudu",
@@ -18972,8 +18974,8 @@
         18,
         61
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 249,99",
+      "priceUSD": 24999
     },
     "2400160": {
       "name": "Glyphica: Typing Survival",
@@ -18997,8 +18999,8 @@
         25,
         62
       ],
-      "price": "R$ 19,59",
-      "priceUSD": 1959
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "2448970": {
       "name": "Dungeonborne",
@@ -19058,8 +19060,8 @@
         29,
         62
       ],
-      "price": "R$ 6,59",
-      "priceUSD": 659
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "2524890": {
       "name": "Pixel Gun 3D: PC Edition",
@@ -19116,8 +19118,8 @@
         23,
         62
       ],
-      "price": "R$ 30,49",
-      "priceUSD": 3049
+      "price": "R$ 101,99",
+      "priceUSD": 10199
     },
     "2617700": {
       "name": "Tinkerlands",
@@ -19141,8 +19143,8 @@
         23,
         62
       ],
-      "price": "R$ 17,49",
-      "priceUSD": 1749
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "2670630": {
       "name": "Supermarket Simulator",
@@ -19162,8 +19164,8 @@
         23,
         62
       ],
-      "price": "R$ 35,99",
-      "priceUSD": 3599
+      "price": "R$ 59,99",
+      "priceUSD": 5999
     },
     "2694490": {
       "name": "Path of Exile 2",
@@ -19231,8 +19233,8 @@
         23,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "2707930": {
       "name": "Palia",
@@ -19437,8 +19439,8 @@
         23,
         62
       ],
-      "price": "R$ 12,23",
-      "priceUSD": 1223
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "3069810": {
       "name": "Rocket Rats",
@@ -19459,8 +19461,8 @@
         23,
         62
       ],
-      "price": "R$ 1,99",
-      "priceUSD": 199
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "3070070": {
       "name": "TCG Card Shop Simulator",
@@ -19523,8 +19525,8 @@
         23,
         62
       ],
-      "price": "R$ 13,93",
-      "priceUSD": 1393
+      "price": "R$ 20,49",
+      "priceUSD": 2049
     },
     "3177970": {
       "name": "Bioweaver",
@@ -19547,8 +19549,8 @@
         23,
         62
       ],
-      "price": "R$ 8,74",
-      "priceUSD": 874
+      "price": "R$ 17,49",
+      "priceUSD": 1749
     },
     "3224770": {
       "name": "Umamusume: Pretty Derby",
@@ -19601,8 +19603,8 @@
         23,
         62
       ],
-      "price": "R$ 31,24",
-      "priceUSD": 3124
+      "price": "R$ 62,49",
+      "priceUSD": 6249
     },
     "3240220": {
       "name": "Grand Theft Auto V Enhanced",
@@ -19637,8 +19639,8 @@
         23,
         62
       ],
-      "price": "R$ 19,49",
-      "priceUSD": 1949
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "3265700": {
       "name": "Vampire Crawlers",
@@ -19659,8 +19661,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "3405690": {
       "name": "EA SPORTS FC™ 26",
@@ -19700,7 +19702,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 4390,
+      "totalHours": 4413.883333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -19737,8 +19739,8 @@
         23,
         62
       ],
-      "price": "R$ 6,81",
-      "priceUSD": 681
+      "price": "R$ 10,49",
+      "priceUSD": 1049
     },
     "3474900": {
       "name": "AnimaEngine",
@@ -19800,8 +19802,8 @@
         58,
         62
       ],
-      "price": "R$ 14,87",
-      "priceUSD": 1487
+      "price": "R$ 23,99",
+      "priceUSD": 2399
     },
     "3557620": {
       "name": "Blue Archive",
@@ -19886,7 +19888,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1740.2333333333333,
+      "totalHours": 1741.8666666666668,
       "owners": [
         "Lírio",
         "Nino"
@@ -19944,8 +19946,8 @@
         23,
         62
       ],
-      "price": "R$ 10,19",
-      "priceUSD": 1019
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "3846120": {
       "name": "MineMogul",
@@ -19962,8 +19964,8 @@
         23,
         62
       ],
-      "price": "R$ 37,59",
-      "priceUSD": 3759
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "3862670": {
       "name": "Shelldiver",
@@ -19988,8 +19990,8 @@
         23,
         62
       ],
-      "price": "R$ 4,99",
-      "priceUSD": 499
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "3950020": {
       "name": "Duet Night Abyss",
@@ -20128,8 +20130,8 @@
         23,
         62
       ],
-      "price": "R$ 18,79",
-      "priceUSD": 1879
+      "price": "R$ 23,49",
+      "priceUSD": 2349
     },
     "4241840": {
       "name": "Sporbs",
@@ -20209,47 +20211,6 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1791435764,
-      "personastate": 1,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "gameextrainfo": "Bongo Cat",
-      "gameid": "3419430",
-      "loccountrycode": "TW"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1791423723,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
-    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -20269,27 +20230,28 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Carrot": {
-      "steamid": "76561199001083134",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1791413905,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1791516200,
       "personastate": 3,
-      "realname": "CarrotcakezZ",
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
+      "timecreated": 1496527778,
       "personastateflags": 0,
-      "gameserverip": "187.19.253.159:9876",
-      "gameserversteamid": "90294362447328270",
-      "gameextrainfo": "V Rising",
-      "gameid": "1604030",
-      "loccountrycode": "BR"
+      "gameextrainfo": "TBH: Task Bar Hero",
+      "gameid": "3678970",
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20302,7 +20264,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1791434012,
+      "lastlogoff": 1791512933,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -20310,6 +20272,44 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1791541801,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "gameextrainfo": "Bongo Cat",
+      "gameid": "3419430",
+      "loccountrycode": "TW"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1791513736,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
     }
   }
 }
