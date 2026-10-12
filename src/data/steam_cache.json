@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T12:28:28.719Z",
+  "timestamp": "2026-10-12T14:53:48.004Z",
   "data": {
     "Lírio": [
       {
@@ -2614,15 +2614,15 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 1408,
-        "playtime_forever": 69300,
+        "playtime_2weeks": 1524,
+        "playtime_forever": 69417,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 69010,
+        "playtime_windows_forever": 69127,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 289,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791684963,
+        "rtime_last_played": 1791746750,
         "playtime_disconnected": 0
       },
       {
@@ -2827,15 +2827,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 85,
-        "playtime_forever": 18733,
+        "playtime_2weeks": 129,
+        "playtime_forever": 18778,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 18479,
+        "playtime_windows_forever": 18523,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 254,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791477100,
+        "rtime_last_played": 1791738619,
         "playtime_disconnected": 0
       },
       {
@@ -4098,15 +4098,15 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 407,
-        "playtime_forever": 17911,
+        "playtime_2weeks": 664,
+        "playtime_forever": 18169,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 17911,
+        "playtime_windows_forever": 18169,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791600714,
+        "rtime_last_played": 1791769761,
         "playtime_disconnected": 1
       },
       {
@@ -4442,15 +4442,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 13637,
-        "playtime_forever": 250874,
+        "playtime_2weeks": 15196,
+        "playtime_forever": 252433,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 250874,
+        "playtime_windows_forever": 252433,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1791720883,
+        "rtime_last_played": 1791814431,
         "playtime_disconnected": 33
       },
       {
@@ -6112,8 +6112,8 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 849,
-        "playtime_forever": 16095,
+        "playtime_2weeks": 936,
+        "playtime_forever": 16181,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
         "has_leaderboards": true,
@@ -7621,7 +7621,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 1155,
+        "playtime_2weeks": 1151,
         "playtime_forever": 32483,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -7925,8 +7925,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 8727,
-        "playtime_forever": 64944,
+        "playtime_2weeks": 8796,
+        "playtime_forever": 65909,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -10823,8 +10823,8 @@
         18,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 11,87",
+      "priceUSD": 1187
     },
     "286160": {
       "name": "Tabletop Simulator",
@@ -12490,8 +12490,8 @@
         30,
         17
       ],
-      "price": "R$ 17,99",
-      "priceUSD": 1799
+      "price": "R$ 19,49",
+      "priceUSD": 1949
     },
     "433340": {
       "name": "Slime Rancher",
@@ -13415,7 +13415,7 @@
     "548430": {
       "name": "Deep Rock Galactic",
       "appid": 548430,
-      "totalHours": 288.3833333333333,
+      "totalHours": 289.81666666666666,
       "owners": [
         "Lírio",
         "Dudu",
@@ -15063,7 +15063,7 @@
     "761890": {
       "name": "Albion Online",
       "appid": 761890,
-      "totalHours": 4496.683333333333,
+      "totalHours": 4498.633333333333,
       "owners": [
         "Lírio",
         "Dudu",
@@ -15620,7 +15620,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 411.59999999999997,
+      "totalHours": 412.34999999999997,
       "owners": [
         "Lírio",
         "Kiri",
@@ -17317,8 +17317,8 @@
         18,
         62
       ],
-      "price": "R$ 3,49",
-      "priceUSD": 349
+      "price": "R$ 1,74",
+      "priceUSD": 174
     },
     "1407200": {
       "name": "World of Tanks",
@@ -18198,8 +18198,8 @@
         44,
         62
       ],
-      "price": "R$ 12,99",
-      "priceUSD": 1299
+      "price": "R$ 9,74",
+      "priceUSD": 974
     },
     "1812620": {
       "name": "DSX",
@@ -18915,7 +18915,7 @@
     "2357570": {
       "name": "Overwatch®",
       "appid": 2357570,
-      "totalHours": 305.6166666666667,
+      "totalHours": 309.9166666666667,
       "owners": [
         "Lírio",
         "Dudu",
@@ -19660,8 +19660,8 @@
         23,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "3405690": {
       "name": "EA SPORTS FC™ 26",
@@ -19701,7 +19701,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 4453.533333333334,
+      "totalHours": 4479.516666666666,
       "owners": [
         "Lírio",
         "Nino"
@@ -19887,7 +19887,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1775.1333333333334,
+      "totalHours": 1791.2166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -20212,6 +20212,50 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1791744734,
+      "personastate": 1,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "gameextrainfo": "Deep Rock Galactic",
+      "gameid": "548430",
+      "lobbysteamid": "109775244911957202",
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1791785437,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
+    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -20228,27 +20272,6 @@
       "primaryclanid": "103582791429521408",
       "timecreated": 1614905012,
       "personastateflags": 0
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1791685438,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -20280,33 +20303,13 @@
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
       "lastlogoff": 1791603427,
-      "personastate": 3,
+      "personastate": 1,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
       "gameextrainfo": "Bongo Cat",
       "gameid": "3419430",
       "loccountrycode": "TW"
-    },
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1791658257,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     }
   }
 }
