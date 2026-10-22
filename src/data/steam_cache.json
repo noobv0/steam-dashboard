@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T11:31:56.493Z",
+  "timestamp": "2026-10-22T11:31:14.024Z",
   "data": {
     "Lírio": [
       {
@@ -502,15 +502,15 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 377,
-        "playtime_forever": 129944,
+        "playtime_2weeks": 719,
+        "playtime_forever": 130347,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 121086,
+        "playtime_windows_forever": 121489,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 3884,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792555628,
+        "rtime_last_played": 1792641658,
         "content_descriptorids": [
           2,
           5
@@ -2610,7 +2610,7 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 1519,
+        "playtime_2weeks": 1335,
         "playtime_forever": 70243,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -2797,14 +2797,14 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_2weeks": 331,
-        "playtime_forever": 493,
+        "playtime_2weeks": 332,
+        "playtime_forever": 494,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
-        "playtime_windows_forever": 493,
+        "playtime_windows_forever": 494,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792004055,
+        "rtime_last_played": 1792628116,
         "playtime_disconnected": 0
       },
       {
@@ -4122,7 +4122,6 @@
       {
         "appid": 2400160,
         "name": "Glyphica: Typing Survival",
-        "playtime_2weeks": 8,
         "playtime_forever": 77,
         "img_icon_url": "12cbca40738a1a3a57ab91ba6b41b46d502adde4",
         "has_community_visible_stats": true,
@@ -4436,15 +4435,15 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 15340,
-        "playtime_forever": 261405,
+        "playtime_2weeks": 14382,
+        "playtime_forever": 261414,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 261405,
+        "playtime_windows_forever": 261414,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792354249,
+        "rtime_last_played": 1792619573,
         "playtime_disconnected": 33
       },
       {
@@ -4595,21 +4594,20 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 8122,
-        "playtime_forever": 43718,
+        "playtime_2weeks": 9170,
+        "playtime_forever": 44766,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 43718,
+        "playtime_windows_forever": 44766,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792580822,
+        "rtime_last_played": 1792667427,
         "playtime_disconnected": 0
       },
       {
         "appid": 4126040,
         "name": "Aniimo",
-        "playtime_2weeks": 47,
         "playtime_forever": 708,
         "img_icon_url": "911829a13677bc978f6408f89e221aaabc0e4de6",
         "has_community_visible_stats": true,
@@ -6114,7 +6112,7 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 2252,
+        "playtime_2weeks": 2131,
         "playtime_forever": 17696,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
@@ -7624,7 +7622,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 407,
+        "playtime_2weeks": 361,
         "playtime_forever": 32642,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -7928,7 +7926,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 5195,
+        "playtime_2weeks": 4768,
         "playtime_forever": 67619,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -8916,8 +8914,8 @@
         25,
         62
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 22,25",
+      "priceUSD": 2225
     },
     "25000": {
       "name": "Overgrowth",
@@ -9608,8 +9606,8 @@
         44,
         62
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 22,25",
+      "priceUSD": 2225
     },
     "223750": {
       "name": "DCS World Steam Edition",
@@ -9723,7 +9721,7 @@
     "230410": {
       "name": "Warframe",
       "appid": 230410,
-      "totalHours": 2485.783333333333,
+      "totalHours": 2492.5,
       "owners": [
         "Lírio",
         "Dudu",
@@ -10463,8 +10461,8 @@
         25,
         62
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 22,25",
+      "priceUSD": 2225
     },
     "255520": {
       "name": "Viscera Cleanup Detail: Shadow Warrior",
@@ -13447,8 +13445,8 @@
         43,
         62
       ],
-      "price": "R$ 73,99",
-      "priceUSD": 7399
+      "price": "R$ 22,19",
+      "priceUSD": 2219
     },
     "552500": {
       "name": "Warhammer: Vermintide 2",
@@ -13873,8 +13871,8 @@
         43,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 23,74",
+      "priceUSD": 2374
     },
     "588690": {
       "name": "Peace, Death!",
@@ -13977,8 +13975,8 @@
         61,
         62
       ],
-      "price": "R$ 32,25",
-      "priceUSD": 3225
+      "price": "R$ 129,00",
+      "priceUSD": 12900
     },
     "601430": {
       "name": "The Evil Within 2",
@@ -15006,8 +15004,8 @@
         25,
         62
       ],
-      "price": "R$ 89,00",
-      "priceUSD": 8900
+      "price": "R$ 35,60",
+      "priceUSD": 3560
     },
     "751780": {
       "name": "Forager",
@@ -15567,7 +15565,7 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 32.7,
+      "totalHours": 32.71666666666667,
       "owners": [
         "Lírio",
         "Nino",
@@ -18864,8 +18862,8 @@
         61,
         62
       ],
-      "price": "R$ 169,00",
-      "priceUSD": 16900
+      "price": "R$ 126,75",
+      "priceUSD": 12675
     },
     "2289970": {
       "name": "In Sink: A Co-Op Escape Prologue",
@@ -19725,7 +19723,7 @@
     "3419430": {
       "name": "Bongo Cat",
       "appid": 3419430,
-      "totalHours": 4629.05,
+      "totalHours": 4629.2,
       "owners": [
         "Lírio",
         "Nino"
@@ -20042,7 +20040,7 @@
     "3959890": {
       "name": "Tap Tap Loot",
       "appid": 3959890,
-      "totalHours": 728.6333333333333,
+      "totalHours": 746.1,
       "owners": [
         "Lírio"
       ],
@@ -20228,8 +20226,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1792284338,
-      "personastate": 1,
+      "lastlogoff": 1792618506,
+      "personastate": 4,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
@@ -20256,6 +20254,23 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1792399808,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -20305,8 +20320,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1792546503,
-      "personastate": 1,
+      "lastlogoff": 1792639923,
+      "personastate": 0,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
       "timecreated": 1496527778,
@@ -20314,23 +20329,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1792399808,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
     }
   }
 }
