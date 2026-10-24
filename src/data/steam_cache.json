@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T11:21:28.882Z",
+  "timestamp": "2026-10-24T10:39:17.871Z",
   "data": {
     "Lírio": [
       {
@@ -1343,15 +1343,15 @@
       {
         "appid": 367450,
         "name": "Poly Bridge",
-        "playtime_2weeks": 208,
-        "playtime_forever": 208,
+        "playtime_2weeks": 363,
+        "playtime_forever": 363,
         "img_icon_url": "7bc695b845364099d87469c2d9074a3782c68638",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 208,
+        "playtime_windows_forever": 363,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 1,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792687784,
+        "rtime_last_played": 1792812277,
         "playtime_disconnected": 0
       },
       {
@@ -2611,7 +2611,7 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 1459,
+        "playtime_2weeks": 1442,
         "playtime_forever": 70367,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -2824,15 +2824,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 579,
-        "playtime_forever": 19313,
+        "playtime_2weeks": 695,
+        "playtime_forever": 19429,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 19059,
+        "playtime_windows_forever": 19175,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 254,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792689932,
+        "rtime_last_played": 1792814019,
         "playtime_disconnected": 0
       },
       {
@@ -4092,7 +4092,7 @@
       {
         "appid": 2357570,
         "name": "Overwatch®",
-        "playtime_2weeks": 552,
+        "playtime_2weeks": 320,
         "playtime_forever": 18232,
         "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
         "has_community_visible_stats": true,
@@ -4436,7 +4436,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 12998,
+        "playtime_2weeks": 12012,
         "playtime_forever": 261414,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4556,7 +4556,6 @@
       {
         "appid": 3846120,
         "name": "MineMogul",
-        "playtime_2weeks": 32,
         "playtime_forever": 131,
         "img_icon_url": "81cdbce1c5d99d825aae1f37f55903e803ec8f9c",
         "playtime_windows_forever": 131,
@@ -4595,15 +4594,15 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 10593,
-        "playtime_forever": 46189,
+        "playtime_2weeks": 10688,
+        "playtime_forever": 46283,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 46189,
+        "playtime_windows_forever": 46283,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792752856,
+        "rtime_last_played": 1792758523,
         "playtime_disconnected": 0
       },
       {
@@ -6113,7 +6112,7 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 2098,
+        "playtime_2weeks": 1970,
         "playtime_forever": 17804,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
@@ -6525,8 +6524,8 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 714,
-        "playtime_forever": 6502,
+        "playtime_2weeks": 957,
+        "playtime_forever": 6745,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
       },
@@ -7567,8 +7566,8 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 18,
-        "playtime_forever": 19091,
+        "playtime_2weeks": 41,
+        "playtime_forever": 19114,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
       },
@@ -7623,7 +7622,7 @@
       {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
-        "playtime_2weeks": 292,
+        "playtime_2weeks": 242,
         "playtime_forever": 32642,
         "img_icon_url": "d866cae7ea1e471fdbc206287111f1b642373bd9",
         "has_community_visible_stats": true,
@@ -7927,8 +7926,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 5145,
-        "playtime_forever": 68063,
+        "playtime_2weeks": 4714,
+        "playtime_forever": 68703,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -9184,8 +9183,8 @@
         44,
         62
       ],
-      "price": "R$ 79,90",
-      "priceUSD": 7990
+      "price": "R$ 15,98",
+      "priceUSD": 1598
     },
     "200210": {
       "name": "Realm of the Mad God Exalt",
@@ -10067,8 +10066,8 @@
         42,
         62
       ],
-      "price": "R$ 11,99",
-      "priceUSD": 1199
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "241930": {
       "name": "Middle-earth™: Shadow of Mordor™",
@@ -11819,7 +11818,7 @@
     "367450": {
       "name": "Poly Bridge",
       "appid": 367450,
-      "totalHours": 3.4833333333333334,
+      "totalHours": 6.066666666666666,
       "owners": [
         "Lírio",
         "Dudu"
@@ -13223,7 +13222,7 @@
         62
       ],
       "price": "Grátis",
-      "priceUSD": 5999
+      "priceUSD": 1199
     },
     "520440": {
       "name": "GUILTY GEAR Xrd REV 2",
@@ -14880,8 +14879,8 @@
         44,
         62
       ],
-      "price": "R$ 59,90",
-      "priceUSD": 5990
+      "price": "R$ 35,69",
+      "priceUSD": 3569
     },
     "729720": {
       "name": "Zomborg",
@@ -15473,7 +15472,7 @@
     "892970": {
       "name": "Valheim",
       "appid": 892970,
-      "totalHours": 318.18333333333334,
+      "totalHours": 318.56666666666666,
       "owners": [
         "Lírio",
         "Nino"
@@ -15622,7 +15621,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 421.26666666666665,
+      "totalHours": 423.2,
       "owners": [
         "Lírio",
         "Kiri",
@@ -18731,7 +18730,7 @@
     "2212330": {
       "name": "Your Only Move Is HUSTLE",
       "appid": 2212330,
-      "totalHours": 113.89999999999999,
+      "totalHours": 117.95,
       "owners": [
         "Lírio",
         "Dudu",
@@ -19021,8 +19020,8 @@
         25,
         62
       ],
-      "price": "R$ 19,59",
-      "priceUSD": 1959
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "2448970": {
       "name": "Dungeonborne",
@@ -19082,8 +19081,8 @@
         29,
         62
       ],
-      "price": "R$ 32,99",
-      "priceUSD": 3299
+      "price": "R$ 6,59",
+      "priceUSD": 659
     },
     "2524890": {
       "name": "Pixel Gun 3D: PC Edition",
@@ -19910,7 +19909,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 1827.1166666666668,
+      "totalHours": 1837.7833333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -20041,7 +20040,7 @@
     "3959890": {
       "name": "Tap Tap Loot",
       "appid": 3959890,
-      "totalHours": 769.8166666666667,
+      "totalHours": 771.3833333333333,
       "owners": [
         "Lírio"
       ],
@@ -20233,6 +20232,24 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1792801929,
+      "personastate": 0,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -20244,7 +20261,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1792725986,
+      "lastlogoff": 1792810967,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -20252,6 +20269,46 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1792800772,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1792804472,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -20270,68 +20327,6 @@
       "timecreated": 1572886370,
       "personastateflags": 0,
       "loccountrycode": "BR"
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1792573910,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1792677178,
-      "personastate": 4,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "gameextrainfo": "Tap Tap Loot",
-      "gameid": "3959890",
-      "loccountrycode": "TW"
-    },
-    "Nino": {
-      "steamid": "76561198394798327",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1792719050,
-      "personastate": 4,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
-      "personastateflags": 0,
-      "gameextrainfo": "TBH: Task Bar Hero",
-      "gameid": "3678970",
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
     }
   }
 }
