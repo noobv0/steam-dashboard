@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T12:01:34.004Z",
+  "timestamp": "2026-11-01T13:00:25.110Z",
   "data": {
     "Lírio": [
       {
@@ -405,15 +405,15 @@
       {
         "appid": 213670,
         "name": "South Park™: The Stick of Truth™",
-        "playtime_2weeks": 187,
-        "playtime_forever": 638,
+        "playtime_2weeks": 447,
+        "playtime_forever": 897,
         "img_icon_url": "afad8295902080fb2aedd9aaabb3e21c10eecc85",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 638,
+        "playtime_windows_forever": 897,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793424333,
+        "rtime_last_played": 1793483441,
         "playtime_disconnected": 0
       },
       {
@@ -2650,7 +2650,7 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 1403,
+        "playtime_2weeks": 1233,
         "playtime_forever": 71100,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -2682,14 +2682,15 @@
       {
         "appid": 775500,
         "name": "SCARLET NEXUS",
-        "playtime_forever": 105,
+        "playtime_2weeks": 30,
+        "playtime_forever": 135,
         "img_icon_url": "f4ef5c4520ae18b98acd229ae84f1fb4d4efdc72",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 105,
+        "playtime_windows_forever": 135,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1695572748,
+        "rtime_last_played": 1793486636,
         "playtime_disconnected": 0
       },
       {
@@ -3908,15 +3909,15 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 268,
-        "playtime_forever": 14724,
+        "playtime_2weeks": 1406,
+        "playtime_forever": 15861,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 14722,
+        "playtime_windows_forever": 15859,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 2,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793424437,
+        "rtime_last_played": 1793536000,
         "playtime_disconnected": 0
       },
       {
@@ -4490,7 +4491,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 1964,
+        "playtime_2weeks": 465,
         "playtime_forever": 261430,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4649,7 +4650,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 7054,
+        "playtime_2weeks": 6303,
         "playtime_forever": 46283,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -6167,7 +6168,7 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 311,
+        "playtime_2weeks": 204,
         "playtime_forever": 17804,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
@@ -6579,7 +6580,7 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 1059,
+        "playtime_2weeks": 902,
         "playtime_forever": 6994,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
@@ -7792,6 +7793,16 @@
         ]
       },
       {
+        "appid": 1583850,
+        "name": "Asleep: Act 1",
+        "playtime_forever": 0,
+        "img_icon_url": "fa24e3d11e87dc854cd4e33496919d7cc1f034d0",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
         "appid": 1599340,
         "name": "Lost Ark",
         "playtime_forever": 1402,
@@ -7980,8 +7991,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 8237,
-        "playtime_forever": 75728,
+        "playtime_2weeks": 9673,
+        "playtime_forever": 77165,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -9442,7 +9453,7 @@
     "213670": {
       "name": "South Park™: The Stick of Truth™",
       "appid": 213670,
-      "totalHours": 10.633333333333333,
+      "totalHours": 14.95,
       "owners": [
         "Lírio"
       ],
@@ -12343,8 +12354,8 @@
         23,
         62
       ],
-      "price": "R$ 69,99",
-      "priceUSD": 6999
+      "price": "R$ 6,99",
+      "priceUSD": 699
     },
     "407530": {
       "name": "ARK: Survival Of The Fittest",
@@ -13839,8 +13850,8 @@
         43,
         62
       ],
-      "price": "R$ 47,49",
-      "priceUSD": 4749
+      "price": "R$ 14,24",
+      "priceUSD": 1424
     },
     "585450": {
       "name": "Shadows: Awakening",
@@ -14479,8 +14490,8 @@
         17,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 4,19",
+      "priceUSD": 419
     },
     "646910": {
       "name": "The Crew 2",
@@ -15176,7 +15187,7 @@
     "775500": {
       "name": "SCARLET NEXUS",
       "appid": 775500,
-      "totalHours": 1.75,
+      "totalHours": 2.25,
       "owners": [
         "Lírio"
       ],
@@ -16769,8 +16780,8 @@
         17,
         62
       ],
-      "price": "R$ 73,99",
-      "priceUSD": 7399
+      "price": "R$ 8,13",
+      "priceUSD": 813
     },
     "1190970": {
       "name": "House Flipper 2",
@@ -17844,6 +17855,18 @@
       "price": null,
       "priceUSD": 0
     },
+    "1583850": {
+      "name": "Asleep: Act 1",
+      "appid": 1583850,
+      "totalHours": 0,
+      "owners": [
+        "Nino"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1583850/capsule_sm_120.jpg",
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
+    },
     "1599340": {
       "name": "Lost Ark",
       "appid": 1599340,
@@ -18296,7 +18319,7 @@
     "1812620": {
       "name": "DSX",
       "appid": 1812620,
-      "totalHours": 245.4,
+      "totalHours": 264.35,
       "owners": [
         "Lírio"
       ],
@@ -19935,8 +19958,8 @@
         58,
         62
       ],
-      "price": "R$ 23,99",
-      "priceUSD": 2399
+      "price": "R$ 14,87",
+      "priceUSD": 1487
     },
     "3557620": {
       "name": "Blue Archive",
@@ -20021,7 +20044,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 2029.7666666666669,
+      "totalHours": 2053.7166666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -20327,23 +20350,6 @@
     }
   },
   "players": {
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1792988590,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -20364,28 +20370,40 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1793384925,
-      "personastate": 4,
-      "realname": "Carlos Henrique Moreira",
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1792988590,
+      "personastate": 0,
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1791974183,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
       "personastateflags": 0,
-      "gameextrainfo": "TBH: Task Bar Hero",
-      "gameid": "3678970",
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "loccountrycode": "BR"
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -20406,23 +20424,28 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Carrot": {
-      "steamid": "76561199001083134",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1791974183,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1793487559,
+      "personastate": 3,
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
+      "timecreated": 1496527778,
       "personastateflags": 0,
-      "loccountrycode": "BR"
+      "gameextrainfo": "TBH: Task Bar Hero",
+      "gameid": "3678970",
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Lírio": {
       "steamid": "76561198158302059",
@@ -20435,11 +20458,13 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1793288557,
-      "personastate": 4,
+      "lastlogoff": 1793514388,
+      "personastate": 3,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
+      "gameextrainfo": "DSX",
+      "gameid": "1812620",
       "loccountrycode": "TW"
     }
   }
