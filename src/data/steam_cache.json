@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T13:57:52.886Z",
+  "timestamp": "2026-11-04T14:06:21.820Z",
   "data": {
     "Lírio": [
       {
@@ -505,7 +505,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 989,
+        "playtime_2weeks": 926,
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -2650,7 +2650,7 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 1072,
+        "playtime_2weeks": 856,
         "playtime_forever": 71100,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -4666,7 +4666,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 3844,
+        "playtime_2weeks": 2396,
         "playtime_forever": 46283,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -6015,7 +6015,8 @@
       {
         "appid": 236390,
         "name": "War Thunder",
-        "playtime_forever": 16603,
+        "playtime_2weeks": 4,
+        "playtime_forever": 16608,
         "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
         "has_community_visible_stats": true
       },
@@ -6628,8 +6629,8 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 545,
-        "playtime_forever": 6994,
+        "playtime_2weeks": 509,
+        "playtime_forever": 7008,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
       },
@@ -9011,8 +9012,8 @@
         25,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "25000": {
       "name": "Overgrowth",
@@ -9058,8 +9059,8 @@
         43,
         62
       ],
-      "price": "R$ 1,99",
-      "priceUSD": 199
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "42910": {
       "name": "Magicka",
@@ -9704,8 +9705,8 @@
         44,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "223750": {
       "name": "DCS World Steam Edition",
@@ -9912,7 +9913,7 @@
     "236390": {
       "name": "War Thunder",
       "appid": 236390,
-      "totalHours": 276.71666666666664,
+      "totalHours": 276.8,
       "owners": [
         "Dudu"
       ],
@@ -10571,8 +10572,8 @@
         25,
         62
       ],
-      "price": "R$ 22,25",
-      "priceUSD": 2225
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "255520": {
       "name": "Viscera Cleanup Detail: Shadow Warrior",
@@ -15126,8 +15127,8 @@
         25,
         62
       ],
-      "price": "R$ 35,60",
-      "priceUSD": 3560
+      "price": "R$ 89,00",
+      "priceUSD": 8900
     },
     "751780": {
       "name": "Forager",
@@ -18865,7 +18866,7 @@
     "2212330": {
       "name": "Your Only Move Is HUSTLE",
       "appid": 2212330,
-      "totalHours": 122.1,
+      "totalHours": 122.33333333333333,
       "owners": [
         "Lírio",
         "Dudu",
@@ -18916,8 +18917,8 @@
         18,
         61
       ],
-      "price": "R$ 149,99",
-      "priceUSD": 14999
+      "price": "R$ 37,49",
+      "priceUSD": 3749
     },
     "2226280": {
       "name": "BAPBAP",
@@ -18997,8 +18998,8 @@
         61,
         62
       ],
-      "price": "R$ 126,75",
-      "priceUSD": 12675
+      "price": "R$ 169,00",
+      "priceUSD": 16900
     },
     "2289970": {
       "name": "In Sink: A Co-Op Escape Prologue",
@@ -19524,13 +19525,17 @@
         67,
         68,
         78,
+        75,
         76,
+        80,
+        74,
         55,
         56,
         57,
         58,
         79,
         59,
+        65,
         77,
         23,
         62
@@ -20376,8 +20381,8 @@
         23,
         62
       ],
-      "price": "R$ 67,49",
-      "priceUSD": 6749
+      "price": "R$ 74,99",
+      "priceUSD": 7499
     },
     "4572790": {
       "name": "Suika Game",
@@ -20453,59 +20458,6 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1791974183,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1793678654,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1793676710,
-      "personastate": 1,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -20525,6 +20477,59 @@
       "personastateflags": 0,
       "loccountrycode": "BR",
       "locstatecode": "27"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1793678654,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1793759152,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1793676710,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
     },
     "Nino": {
       "steamid": "76561198394798327",
