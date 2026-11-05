@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-04T14:06:21.820Z",
+  "timestamp": "2026-11-05T14:23:47.214Z",
   "data": {
     "Lírio": [
       {
@@ -505,7 +505,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 926,
+        "playtime_2weeks": 523,
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1364,7 +1364,7 @@
       {
         "appid": 367450,
         "name": "Poly Bridge",
-        "playtime_2weeks": 363,
+        "playtime_2weeks": 311,
         "playtime_forever": 363,
         "img_icon_url": "7bc695b845364099d87469c2d9074a3782c68638",
         "has_community_visible_stats": true,
@@ -2838,7 +2838,6 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_2weeks": 1,
         "playtime_forever": 494,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
         "playtime_windows_forever": 494,
@@ -2864,15 +2863,15 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 315,
-        "playtime_forever": 19605,
+        "playtime_2weeks": 340,
+        "playtime_forever": 19630,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 19351,
+        "playtime_windows_forever": 19376,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 254,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792883098,
+        "rtime_last_played": 1793843049,
         "playtime_disconnected": 0
       },
       {
@@ -4507,7 +4506,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 27,
+        "playtime_2weeks": 18,
         "playtime_forever": 261433,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4666,7 +4665,7 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 2396,
+        "playtime_2weeks": 1336,
         "playtime_forever": 46283,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -4680,14 +4679,15 @@
       {
         "appid": 3981100,
         "name": "Leaf it Alone",
-        "playtime_forever": 0,
+        "playtime_2weeks": 87,
+        "playtime_forever": 87,
         "img_icon_url": "180fc448c6fb2d067a67f559196196b58cb22c8c",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 87,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1793840873,
         "has_leaderboards": true,
         "playtime_disconnected": 0
       },
@@ -6096,6 +6096,14 @@
         "has_community_visible_stats": true
       },
       {
+        "appid": 308600,
+        "name": "Skillshot City",
+        "playtime_2weeks": 176,
+        "playtime_forever": 176,
+        "img_icon_url": "e0ba85c5d76697b6c1f8999f4ee5691eda138185",
+        "has_community_visible_stats": true
+      },
+      {
         "appid": 312990,
         "name": "The Expendabros",
         "playtime_forever": 103,
@@ -6680,6 +6688,14 @@
         "name": "9 Kings",
         "playtime_forever": 502,
         "img_icon_url": "d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2950790,
+        "name": "IRON NEST: Heavy Turret Simulator",
+        "playtime_2weeks": 188,
+        "playtime_forever": 188,
+        "img_icon_url": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
         "has_community_visible_stats": true
       },
       {
@@ -8757,10 +8773,7 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/6100/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        62
-      ],
+      "categories": [],
       "price": null,
       "priceUSD": 0
     },
@@ -8811,16 +8824,9 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/8850/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        1,
-        22,
-        28,
-        43,
-        62
-      ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "8870": {
       "name": "BioShock Infinite",
@@ -10318,8 +10324,8 @@
         42,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 9,39",
+      "priceUSD": 939
     },
     "246900": {
       "name": "Viscera Cleanup Detail",
@@ -11346,8 +11352,9 @@
     "308600": {
       "name": "Skillshot City",
       "appid": 308600,
-      "totalHours": 3.6666666666666665,
+      "totalHours": 6.6,
       "owners": [
+        "Dudu",
         "Bambo"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/308600/capsule_sm_120.jpg",
@@ -13568,8 +13575,8 @@
         43,
         62
       ],
-      "price": "R$ 22,19",
-      "priceUSD": 2219
+      "price": "R$ 73,99",
+      "priceUSD": 7399
     },
     "552500": {
       "name": "Warhammer: Vermintide 2",
@@ -13994,8 +14001,8 @@
         43,
         62
       ],
-      "price": "R$ 23,74",
-      "priceUSD": 2374
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "588690": {
       "name": "Peace, Death!",
@@ -15744,7 +15751,7 @@
     "960090": {
       "name": "Bloons TD 6",
       "appid": 960090,
-      "totalHours": 426.1333333333333,
+      "totalHours": 426.55,
       "owners": [
         "Lírio",
         "Kiri",
@@ -19616,6 +19623,35 @@
       "price": "R$ 23,99",
       "priceUSD": 2399
     },
+    "2950790": {
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "appid": 2950790,
+      "totalHours": 3.1333333333333333,
+      "owners": [
+        "Dudu"
+      ],
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2950790/capsule_sm_120.jpg",
+      "categories": [
+        2,
+        22,
+        28,
+        29,
+        66,
+        82,
+        68,
+        74,
+        55,
+        56,
+        57,
+        58,
+        69,
+        70,
+        23,
+        62
+      ],
+      "price": "R$ 29,99",
+      "priceUSD": 2999
+    },
     "2963540": {
       "name": "Idle Waters",
       "appid": 2963540,
@@ -19723,8 +19759,8 @@
         23,
         62
       ],
-      "price": "R$ 20,49",
-      "priceUSD": 2049
+      "price": "R$ 13,93",
+      "priceUSD": 1393
     },
     "3177970": {
       "name": "Bioweaver",
@@ -20243,14 +20279,31 @@
     "3981100": {
       "name": "Leaf it Alone",
       "appid": 3981100,
-      "totalHours": 0,
+      "totalHours": 1.45,
       "owners": [
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/3981100/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        22,
+        28,
+        67,
+        68,
+        74,
+        55,
+        56,
+        57,
+        58,
+        79,
+        69,
+        23,
+        15,
+        25,
+        62
+      ],
+      "price": "R$ 10,24",
+      "priceUSD": 1024
     },
     "4025700": {
       "name": "Heartopia",
@@ -20458,26 +20511,6 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1793682734,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Bambo": {
       "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
@@ -20489,29 +20522,11 @@
       "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
       "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1793678654,
+      "lastlogoff": 1793853892,
       "personastate": 0,
       "primaryclanid": "103582791429521408",
       "timecreated": 1614905012,
       "personastateflags": 0
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1793759152,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
     },
     "Lírio": {
       "steamid": "76561198158302059",
@@ -20524,8 +20539,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
       "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1793676710,
-      "personastate": 1,
+      "lastlogoff": 1793838011,
+      "personastate": 3,
       "primaryclanid": "103582791461380450",
       "timecreated": 1413045173,
       "personastateflags": 0,
@@ -20551,6 +20566,44 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1793759152,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
+    "Dudu": {
+      "steamid": "76561198833523657",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Anatoli",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1793854241,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
