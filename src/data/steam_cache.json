@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T14:23:47.214Z",
+  "timestamp": "2026-11-06T14:03:47.876Z",
   "data": {
     "Lírio": [
       {
@@ -475,15 +475,15 @@
       {
         "appid": 220240,
         "name": "Far Cry® 3",
-        "playtime_2weeks": 95,
-        "playtime_forever": 837,
+        "playtime_2weeks": 105,
+        "playtime_forever": 847,
         "img_icon_url": "8231f43d3dd47fb4b4111fd6bd4a849e73eb0520",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 837,
+        "playtime_windows_forever": 847,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793156610,
+        "rtime_last_played": 1793908587,
         "playtime_disconnected": 0
       },
       {
@@ -505,7 +505,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 523,
+        "playtime_2weeks": 166,
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1252,6 +1252,19 @@
         "playtime_disconnected": 0
       },
       {
+        "appid": 330020,
+        "name": "Children of Morta",
+        "playtime_forever": 0,
+        "img_icon_url": "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 0,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 0,
+        "playtime_disconnected": 0
+      },
+      {
         "appid": 331360,
         "name": "Heavy Metal Machines",
         "playtime_forever": 33,
@@ -1364,7 +1377,7 @@
       {
         "appid": 367450,
         "name": "Poly Bridge",
-        "playtime_2weeks": 311,
+        "playtime_2weeks": 154,
         "playtime_forever": 363,
         "img_icon_url": "7bc695b845364099d87469c2d9074a3782c68638",
         "has_community_visible_stats": true,
@@ -2650,15 +2663,15 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 856,
-        "playtime_forever": 71100,
+        "playtime_2weeks": 902,
+        "playtime_forever": 71270,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 70810,
+        "playtime_windows_forever": 70980,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 289,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793322632,
+        "rtime_last_played": 1793931109,
         "playtime_disconnected": 0
       },
       {
@@ -2838,13 +2851,14 @@
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_forever": 494,
+        "playtime_2weeks": 204,
+        "playtime_forever": 699,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8",
-        "playtime_windows_forever": 494,
+        "playtime_windows_forever": 699,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1792628116,
+        "rtime_last_played": 1793920907,
         "playtime_disconnected": 0
       },
       {
@@ -2863,7 +2877,7 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 340,
+        "playtime_2weeks": 317,
         "playtime_forever": 19630,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
@@ -4665,7 +4679,6 @@
       {
         "appid": 3959890,
         "name": "Tap Tap Loot",
-        "playtime_2weeks": 1336,
         "playtime_forever": 46283,
         "img_icon_url": "4f95f5ab14779c0ed8c24fc9cf6f41e53e101e9d",
         "has_community_visible_stats": true,
@@ -6098,8 +6111,8 @@
       {
         "appid": 308600,
         "name": "Skillshot City",
-        "playtime_2weeks": 176,
-        "playtime_forever": 176,
+        "playtime_2weeks": 293,
+        "playtime_forever": 293,
         "img_icon_url": "e0ba85c5d76697b6c1f8999f4ee5691eda138185",
         "has_community_visible_stats": true
       },
@@ -6225,8 +6238,8 @@
       {
         "appid": 548430,
         "name": "Deep Rock Galactic",
-        "playtime_2weeks": 107,
-        "playtime_forever": 17804,
+        "playtime_2weeks": 19,
+        "playtime_forever": 17824,
         "img_icon_url": "e033e23c29a192a17c16a7645a2b423ac64ff447",
         "has_community_visible_stats": true,
         "has_leaderboards": true,
@@ -6467,7 +6480,8 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_forever": 8980,
+        "playtime_2weeks": 82,
+        "playtime_forever": 9063,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -6637,7 +6651,7 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 509,
+        "playtime_2weeks": 506,
         "playtime_forever": 7008,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
@@ -6693,8 +6707,8 @@
       {
         "appid": 2950790,
         "name": "IRON NEST: Heavy Turret Simulator",
-        "playtime_2weeks": 188,
-        "playtime_forever": 188,
+        "playtime_2weeks": 386,
+        "playtime_forever": 386,
         "img_icon_url": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
         "has_community_visible_stats": true
       },
@@ -8057,7 +8071,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 11584,
+        "playtime_2weeks": 11002,
         "playtime_forever": 79204,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -9643,8 +9657,8 @@
         43,
         62
       ],
-      "price": "R$ 5,17",
-      "priceUSD": 517
+      "price": "R$ 20,69",
+      "priceUSD": 2069
     },
     "219760": {
       "name": "Beyond Divinity",
@@ -9673,7 +9687,7 @@
     "220240": {
       "name": "Far Cry® 3",
       "appid": 220240,
-      "totalHours": 13.95,
+      "totalHours": 14.116666666666667,
       "owners": [
         "Lírio"
       ],
@@ -11352,7 +11366,7 @@
     "308600": {
       "name": "Skillshot City",
       "appid": 308600,
-      "totalHours": 6.6,
+      "totalHours": 8.55,
       "owners": [
         "Dudu",
         "Bambo"
@@ -11548,8 +11562,8 @@
         43,
         62
       ],
-      "price": "R$ 9,51",
-      "priceUSD": 951
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "323370": {
       "name": "TERA",
@@ -11588,6 +11602,7 @@
       "appid": 330020,
       "totalHours": 0,
       "owners": [
+        "Lírio",
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/330020/capsule_sm_120.jpg",
@@ -13469,8 +13484,8 @@
         44,
         62
       ],
-      "price": "R$ 37,99",
-      "priceUSD": 3799
+      "price": "R$ 3,79",
+      "priceUSD": 379
     },
     "529180": {
       "name": "Dark and Light",
@@ -13546,7 +13561,7 @@
     "548430": {
       "name": "Deep Rock Galactic",
       "appid": 548430,
-      "totalHours": 316.8666666666667,
+      "totalHours": 317.2,
       "owners": [
         "Lírio",
         "Dudu",
@@ -15009,8 +15024,8 @@
         44,
         62
       ],
-      "price": "R$ 35,69",
-      "priceUSD": 3569
+      "price": "R$ 20,36",
+      "priceUSD": 2036
     },
     "729720": {
       "name": "Zomborg",
@@ -15194,7 +15209,7 @@
     "761890": {
       "name": "Albion Online",
       "appid": 761890,
-      "totalHours": 4526.683333333333,
+      "totalHours": 4529.516666666666,
       "owners": [
         "Lírio",
         "Dudu",
@@ -15252,8 +15267,8 @@
         23,
         62
       ],
-      "price": "R$ 41,26",
-      "priceUSD": 4126
+      "price": "R$ 61,64",
+      "priceUSD": 6164
     },
     "787810": {
       "name": "Rogue Heroes: Ruins of Tasos",
@@ -15392,8 +15407,8 @@
         42,
         62
       ],
-      "price": "R$ 4,74",
-      "priceUSD": 474
+      "price": "R$ 47,49",
+      "priceUSD": 4749
     },
     "821880": {
       "name": "Idol Manager",
@@ -15677,8 +15692,8 @@
         23,
         62
       ],
-      "price": "R$ 22,99",
-      "priceUSD": 2299
+      "price": "R$ 229,90",
+      "priceUSD": 22990
     },
     "919220": {
       "name": "Destiny or Fate",
@@ -15695,7 +15710,7 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 32.71666666666667,
+      "totalHours": 36.13333333333333,
       "owners": [
         "Lírio",
         "Nino",
@@ -16373,7 +16388,7 @@
     "1091500": {
       "name": "Cyberpunk 2077",
       "appid": 1091500,
-      "totalHours": 149.66666666666666,
+      "totalHours": 151.05,
       "owners": [
         "Kiri",
         "Dudu"
@@ -19626,7 +19641,7 @@
     "2950790": {
       "name": "IRON NEST: Heavy Turret Simulator",
       "appid": 2950790,
-      "totalHours": 3.1333333333333333,
+      "totalHours": 6.433333333333334,
       "owners": [
         "Dudu"
       ],
@@ -20492,6 +20507,24 @@
     }
   },
   "players": {
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1793908816,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
     "Kiri": {
       "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
@@ -20511,40 +20544,25 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Dudu": {
+      "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1793853892,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
+      "personaname": "Anatoli",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1793838011,
-      "personastate": 3,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1793928257,
+      "personastate": 0,
+      "realname": "Eduardo Peralta",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1525126593,
       "personastateflags": 0,
-      "loccountrycode": "TW"
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     },
     "Nino": {
       "steamid": "76561198394798327",
@@ -20585,25 +20603,22 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1793854241,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1793853892,
       "personastate": 0,
-      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
+      "timecreated": 1614905012,
+      "personastateflags": 0
     }
   }
 }
