@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T12:48:35.958Z",
+  "timestamp": "2026-11-08T13:05:45.039Z",
   "data": {
     "Lírio": [
       {
@@ -449,7 +449,6 @@
       {
         "appid": 218680,
         "name": "Scribblenauts Unlimited",
-        "playtime_2weeks": 20,
         "playtime_forever": 119,
         "img_icon_url": "e933a9993b7d0b905dbb37636a97339a2c277e0f",
         "has_community_visible_stats": true,
@@ -509,11 +508,11 @@
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 122012,
+        "playtime_windows_forever": 122013,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 3884,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793226778,
+        "rtime_last_played": 1794085208,
         "content_descriptorids": [
           2,
           5
@@ -2876,7 +2875,7 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 201,
+        "playtime_2weeks": 25,
         "playtime_forever": 19630,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
@@ -4519,7 +4518,7 @@
       {
         "appid": 3419430,
         "name": "Bongo Cat",
-        "playtime_2weeks": 18,
+        "playtime_2weeks": 17,
         "playtime_forever": 261433,
         "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
         "has_community_visible_stats": true,
@@ -4691,15 +4690,15 @@
       {
         "appid": 3981100,
         "name": "Leaf it Alone",
-        "playtime_2weeks": 87,
-        "playtime_forever": 87,
+        "playtime_2weeks": 91,
+        "playtime_forever": 91,
         "img_icon_url": "180fc448c6fb2d067a67f559196196b58cb22c8c",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 87,
+        "playtime_windows_forever": 91,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793840873,
+        "rtime_last_played": 1794085786,
         "has_leaderboards": true,
         "playtime_disconnected": 0
       },
@@ -4771,15 +4770,15 @@
       {
         "appid": 4656000,
         "name": "BOMBANANA!",
-        "playtime_2weeks": 80,
-        "playtime_forever": 80,
+        "playtime_2weeks": 81,
+        "playtime_forever": 81,
         "img_icon_url": "baf7df3f7ee5a54c02a4ee4092b13c84f36e769f",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 80,
+        "playtime_windows_forever": 81,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793598091,
+        "rtime_last_played": 1794085294,
         "content_descriptorids": [
           5
         ],
@@ -6479,8 +6478,8 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_2weeks": 187,
-        "playtime_forever": 9168,
+        "playtime_2weeks": 359,
+        "playtime_forever": 9340,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -6650,7 +6649,7 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 262,
+        "playtime_2weeks": 179,
         "playtime_forever": 7008,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
@@ -6706,8 +6705,8 @@
       {
         "appid": 2950790,
         "name": "IRON NEST: Heavy Turret Simulator",
-        "playtime_2weeks": 515,
-        "playtime_forever": 515,
+        "playtime_2weeks": 548,
+        "playtime_forever": 548,
         "img_icon_url": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
         "has_community_visible_stats": true
       },
@@ -8070,7 +8069,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 10465,
+        "playtime_2weeks": 9609,
         "playtime_forever": 79204,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -16387,7 +16386,7 @@
     "1091500": {
       "name": "Cyberpunk 2077",
       "appid": 1091500,
-      "totalHours": 152.8,
+      "totalHours": 155.66666666666666,
       "owners": [
         "Kiri",
         "Dudu"
@@ -19640,7 +19639,7 @@
     "2950790": {
       "name": "IRON NEST: Heavy Turret Simulator",
       "appid": 2950790,
-      "totalHours": 8.583333333333334,
+      "totalHours": 9.133333333333333,
       "owners": [
         "Dudu"
       ],
@@ -20293,7 +20292,7 @@
     "3981100": {
       "name": "Leaf it Alone",
       "appid": 3981100,
-      "totalHours": 1.45,
+      "totalHours": 1.5166666666666666,
       "owners": [
         "Lírio"
       ],
@@ -20477,7 +20476,7 @@
     "4656000": {
       "name": "BOMBANANA!",
       "appid": 4656000,
-      "totalHours": 1.3333333333333333,
+      "totalHours": 1.35,
       "owners": [
         "Lírio"
       ],
@@ -20506,24 +20505,6 @@
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1794014449,
-      "personastate": 1,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -20542,26 +20523,23 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
+      "personaname": "guitarhero",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1793658888,
-      "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1794014449,
+      "personastate": 4,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
       "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "loccountrycode": "TW"
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20599,6 +20577,27 @@
       "primaryclanid": "103582791429521408",
       "timecreated": 1614905012,
       "personastateflags": 0
+    },
+    "Nino": {
+      "steamid": "76561198394798327",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Nino",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1793658888,
+      "personastate": 0,
+      "realname": "Carlos Henrique Moreira",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1496527778,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Kiri": {
       "steamid": "76561199011715965",
