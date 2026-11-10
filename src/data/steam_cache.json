@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T15:40:36.698Z",
+  "timestamp": "2026-11-10T14:40:08.281Z",
   "data": {
     "Lírio": [
       {
@@ -504,7 +504,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 128,
+        "playtime_2weeks": 38,
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -1253,14 +1253,15 @@
       {
         "appid": 330020,
         "name": "Children of Morta",
-        "playtime_forever": 0,
+        "playtime_2weeks": 13,
+        "playtime_forever": 13,
         "img_icon_url": "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 13,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1794316788,
         "playtime_disconnected": 0
       },
       {
@@ -2661,7 +2662,7 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 678,
+        "playtime_2weeks": 589,
         "playtime_forever": 71270,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
@@ -4190,7 +4191,6 @@
       {
         "appid": 2379350,
         "name": "Scramble Knights Online",
-        "playtime_2weeks": 66,
         "playtime_forever": 66,
         "img_icon_url": "7669521168dffbc56d314ff1b43c3f156b9e5b45",
         "has_community_visible_stats": true,
@@ -4358,7 +4358,6 @@
       {
         "appid": 2963540,
         "name": "Idle Waters",
-        "playtime_2weeks": 2,
         "playtime_forever": 1401,
         "img_icon_url": "b0382e0ec4d5acd98c7ccce78de63f0142d104c4",
         "has_community_visible_stats": true,
@@ -4571,7 +4570,7 @@
         "appid": 3557620,
         "name": "Blue Archive",
         "playtime_forever": 1807,
-        "img_icon_url": "60ec056fcf6bcd2f89f99cac6f28719a2e87ed6a",
+        "img_icon_url": "4d674fb3da04732a2ede485dd638adcaf2ef48f0",
         "playtime_windows_forever": 1677,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 130,
@@ -4612,7 +4611,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 2927,
+        "playtime_2weeks": 2106,
         "playtime_forever": 46058,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -6478,8 +6477,8 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_2weeks": 515,
-        "playtime_forever": 9496,
+        "playtime_2weeks": 612,
+        "playtime_forever": 9593,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
         "content_descriptorids": [
@@ -6649,7 +6648,7 @@
       {
         "appid": 2212330,
         "name": "Your Only Move Is HUSTLE",
-        "playtime_2weeks": 82,
+        "playtime_2weeks": 13,
         "playtime_forever": 7008,
         "img_icon_url": "4e19013b714ac16a381c64cbc951ac3d56bf4a8a",
         "has_community_visible_stats": true
@@ -7700,7 +7699,7 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 608,
+        "playtime_2weeks": 432,
         "playtime_forever": 19786,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
@@ -8069,8 +8068,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 8014,
-        "playtime_forever": 79204,
+        "playtime_2weeks": 7529,
+        "playtime_forever": 79222,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8474,18 +8473,9 @@
         "Bambo"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/360/capsule_sm_120.jpg",
-      "categories": [
-        1,
-        67,
-        68,
-        74,
-        69,
-        70,
-        8,
-        62
-      ],
-      "price": "R$ 33,99",
-      "priceUSD": 3399
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "400": {
       "name": "Portal",
@@ -9418,8 +9408,8 @@
         44,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 9,39",
+      "priceUSD": 939
     },
     "208650": {
       "name": "Batman™: Arkham Knight",
@@ -9467,8 +9457,8 @@
         30,
         62
       ],
-      "price": "R$ 21,39",
-      "priceUSD": 2139
+      "price": "R$ 53,49",
+      "priceUSD": 5349
     },
     "212630": {
       "name": "Tom Clancy's Ghost Recon Future Soldier",
@@ -10175,8 +10165,8 @@
         43,
         62
       ],
-      "price": "R$ 9,90",
-      "priceUSD": 990
+      "price": "R$ 99,00",
+      "priceUSD": 9900
     },
     "239820": {
       "name": "Game Dev Tycoon",
@@ -10529,8 +10519,8 @@
         15,
         42
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 119,99",
+      "priceUSD": 11999
     },
     "252950": {
       "name": "Rocket League",
@@ -10716,8 +10706,8 @@
         43,
         44
       ],
-      "price": "R$ 26,49",
-      "priceUSD": 2649
+      "price": "R$ 15,89",
+      "priceUSD": 1589
     },
     "271590": {
       "name": "Grand Theft Auto V Legacy",
@@ -10900,8 +10890,8 @@
         25,
         62
       ],
-      "price": "R$ 5,87",
-      "priceUSD": 587
+      "price": "R$ 23,50",
+      "priceUSD": 2350
     },
     "285900": {
       "name": "Gang Beasts",
@@ -11190,8 +11180,8 @@
         25,
         62
       ],
-      "price": "R$ 45,99",
-      "priceUSD": 4599
+      "price": "R$ 9,49",
+      "priceUSD": 949
     },
     "301520": {
       "name": "Robocraft",
@@ -11598,15 +11588,31 @@
     "330020": {
       "name": "Children of Morta",
       "appid": 330020,
-      "totalHours": 0,
+      "totalHours": 0.21666666666666667,
       "owners": [
         "Lírio",
         "Kiri"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/330020/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        1,
+        9,
+        38,
+        39,
+        24,
+        22,
+        28,
+        23,
+        15,
+        41,
+        42,
+        43,
+        44,
+        62
+      ],
+      "price": "R$ 7,12",
+      "priceUSD": 712
     },
     "331360": {
       "name": "Heavy Metal Machines",
@@ -11823,8 +11829,8 @@
         44,
         62
       ],
-      "price": "R$ 32,99",
-      "priceUSD": 3299
+      "price": "R$ 6,59",
+      "priceUSD": 659
     },
     "359550": {
       "name": "Tom Clancy's Rainbow Six Siege",
@@ -12337,8 +12343,8 @@
         23,
         62
       ],
-      "price": "R$ 32,99",
-      "priceUSD": 3299
+      "price": "R$ 6,59",
+      "priceUSD": 659
     },
     "397080": {
       "name": "Magicka 2: Spell Balance Beta",
@@ -12944,8 +12950,8 @@
         44,
         62
       ],
-      "price": "R$ 2,96",
-      "priceUSD": 296
+      "price": "R$ 32,99",
+      "priceUSD": 3299
     },
     "454650": {
       "name": "DRAGON BALL XENOVERSE 2",
@@ -14093,8 +14099,8 @@
         43,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "601150": {
       "name": "Devil May Cry 5",
@@ -14193,8 +14199,8 @@
         44,
         62
       ],
-      "price": "R$ 11,24",
-      "priceUSD": 1124
+      "price": "R$ 22,49",
+      "priceUSD": 2249
     },
     "606150": {
       "name": "Moonlighter",
@@ -14279,8 +14285,8 @@
         23,
         62
       ],
-      "price": "R$ 37,49",
-      "priceUSD": 3749
+      "price": "R$ 61,99",
+      "priceUSD": 6199
     },
     "623990": {
       "name": "Tom Clancy's Rainbow Six Siege - Test Server",
@@ -14990,8 +14996,8 @@
         23,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 44,99",
+      "priceUSD": 4499
     },
     "728880": {
       "name": "Overcooked! 2",
@@ -15642,8 +15648,8 @@
         42,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 80,99",
+      "priceUSD": 8099
     },
     "897450": {
       "name": "The Survivalists",
@@ -15664,8 +15670,8 @@
         23,
         62
       ],
-      "price": "R$ 133,90",
-      "priceUSD": 13390
+      "price": "R$ 26,98",
+      "priceUSD": 2698
     },
     "899440": {
       "name": "GOD EATER 3",
@@ -16386,7 +16392,7 @@
     "1091500": {
       "name": "Cyberpunk 2077",
       "appid": 1091500,
-      "totalHours": 158.26666666666668,
+      "totalHours": 159.88333333333333,
       "owners": [
         "Kiri",
         "Dudu"
@@ -16628,8 +16634,8 @@
         43,
         62
       ],
-      "price": "R$ 5,49",
-      "priceUSD": 549
+      "price": "R$ 54,99",
+      "priceUSD": 5499
     },
     "1172380": {
       "name": "STAR WARS Jedi: Fallen Order™ ",
@@ -18201,8 +18207,8 @@
         44,
         62
       ],
-      "price": "R$ 74,99",
-      "priceUSD": 7499
+      "price": "R$ 22,49",
+      "priceUSD": 2249
     },
     "1677470": {
       "name": "GrandChase Classic",
@@ -18629,8 +18635,8 @@
         23,
         62
       ],
-      "price": "R$ 16,99",
-      "priceUSD": 1699
+      "price": "R$ 10,19",
+      "priceUSD": 1019
     },
     "1974050": {
       "name": "Torchlight: Infinite",
@@ -19187,8 +19193,8 @@
         23,
         62
       ],
-      "price": "R$ 24,00",
-      "priceUSD": 2400
+      "price": "R$ 32,00",
+      "priceUSD": 3200
     },
     "2400160": {
       "name": "Glyphica: Typing Survival",
@@ -19891,8 +19897,8 @@
         23,
         62
       ],
-      "price": "R$ 19,49",
-      "priceUSD": 1949
+      "price": "R$ 29,99",
+      "priceUSD": 2999
     },
     "3265700": {
       "name": "Vampire Crawlers",
@@ -20140,7 +20146,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 2087.7,
+      "totalHours": 2088,
       "owners": [
         "Lírio",
         "Nino"
@@ -20461,10 +20467,10 @@
       "categories": [
         2,
         22,
-        68,
         75,
         80,
         74,
+        57,
         77,
         18,
         23,
@@ -20505,22 +20511,23 @@
     }
   },
   "players": {
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1793853892,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1794193455,
       "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -20541,43 +20548,26 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Dudu": {
-      "steamid": "76561198833523657",
+    "Nino": {
+      "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Anatoli",
+      "personaname": "Nino",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
-      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
-      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1794197287,
-      "personastate": 0,
-      "realname": "Eduardo Peralta",
+      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
+      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
+      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
+      "lastlogoff": 1794310872,
+      "personastate": 1,
+      "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1525126593,
+      "timecreated": 1496527778,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1794193455,
-      "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
+      "locstatecode": "15",
+      "loccityid": 7726
     },
     "Carrot": {
       "steamid": "76561199001083134",
@@ -20597,26 +20587,42 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Nino": {
-      "steamid": "76561198394798327",
+    "Dudu": {
+      "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Nino",
+      "personaname": "Anatoli",
       "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/profiles/76561198394798327/",
-      "avatar": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
-      "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1793658888,
+      "profileurl": "https://steamcommunity.com/id/somdemotosserra/",
+      "avatar": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
+      "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
+      "lastlogoff": 1794283649,
       "personastate": 0,
-      "realname": "Carlos Henrique Moreira",
+      "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1496527778,
+      "timecreated": 1525126593,
       "personastateflags": 0,
       "loccountrycode": "BR",
-      "locstatecode": "15",
-      "loccityid": 7726
+      "locstatecode": "27"
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1793853892,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
     }
   }
 }
