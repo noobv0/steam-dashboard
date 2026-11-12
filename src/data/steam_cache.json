@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T13:55:07.964Z",
+  "timestamp": "2026-11-12T14:59:01.088Z",
   "data": {
     "Lírio": [
       {
@@ -483,6 +483,11 @@
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
         "rtime_last_played": 1793908587,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ],
         "playtime_disconnected": 0
       },
       {
@@ -504,7 +509,7 @@
       {
         "appid": 230410,
         "name": "Warframe",
-        "playtime_2weeks": 37,
+        "playtime_2weeks": 1,
         "playtime_forever": 130871,
         "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
         "has_community_visible_stats": true,
@@ -2662,15 +2667,15 @@
       {
         "appid": 761890,
         "name": "Albion Online",
-        "playtime_2weeks": 293,
-        "playtime_forever": 71270,
+        "playtime_2weeks": 298,
+        "playtime_forever": 71275,
         "img_icon_url": "c58d1e42e59a9c6cc57c8da69d944b37ba45a0e2",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 70980,
+        "playtime_windows_forever": 70985,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 289,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1793931109,
+        "rtime_last_played": 1794411715,
         "playtime_disconnected": 0
       },
       {
@@ -2811,14 +2816,15 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_forever": 0,
+        "playtime_2weeks": 52,
+        "playtime_forever": 52,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 0,
+        "playtime_windows_forever": 52,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 0,
+        "rtime_last_played": 1794438646,
         "playtime_disconnected": 0
       },
       {
@@ -4611,7 +4617,6 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 1420,
         "playtime_forever": 46058,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true,
@@ -7699,7 +7704,7 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 233,
+        "playtime_2weeks": 203,
         "playtime_forever": 19786,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
@@ -7915,7 +7920,8 @@
       {
         "appid": 1676840,
         "name": "For The King II",
-        "playtime_forever": 1307,
+        "playtime_2weeks": 10,
+        "playtime_forever": 1317,
         "img_icon_url": "b332e803c61299c2aa5efdf1883409e0bfafd034",
         "has_community_visible_stats": true
       },
@@ -8068,7 +8074,7 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 6953,
+        "playtime_2weeks": 5531,
         "playtime_forever": 79222,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
@@ -13248,8 +13254,8 @@
         42,
         62
       ],
-      "price": "R$ 149,00",
-      "priceUSD": 14900
+      "price": "R$ 29,80",
+      "priceUSD": 2980
     },
     "493520": {
       "name": "GTFO",
@@ -13668,8 +13674,8 @@
         25,
         62
       ],
-      "price": "R$ 6,39",
-      "priceUSD": 639
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "563560": {
       "name": "Alien Swarm: Reactive Drop",
@@ -15214,7 +15220,7 @@
     "761890": {
       "name": "Albion Online",
       "appid": 761890,
-      "totalHours": 4529.516666666666,
+      "totalHours": 4529.6,
       "owners": [
         "Lírio",
         "Dudu",
@@ -15622,7 +15628,7 @@
     "892970": {
       "name": "Valheim",
       "appid": 892970,
-      "totalHours": 329.76666666666665,
+      "totalHours": 330.6333333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -15765,8 +15771,8 @@
         28,
         62
       ],
-      "price": "R$ 9,99",
-      "priceUSD": 999
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "960090": {
       "name": "Bloons TD 6",
@@ -17802,8 +17808,8 @@
         24,
         62
       ],
-      "price": "R$ 10,89",
-      "priceUSD": 1089
+      "price": "R$ 7,62",
+      "priceUSD": 762
     },
     "1510580": {
       "name": "Toy Tinker Simulator",
@@ -18177,7 +18183,7 @@
     "1676840": {
       "name": "For The King II",
       "appid": 1676840,
-      "totalHours": 21.783333333333335,
+      "totalHours": 21.95,
       "owners": [
         "Nino"
       ],
@@ -19740,8 +19746,8 @@
         23,
         62
       ],
-      "price": "R$ 57,79",
-      "priceUSD": 5779
+      "price": "R$ 67,99",
+      "priceUSD": 6799
     },
     "3142050": {
       "name": "Warborne Above Ashes",
@@ -20512,6 +20518,24 @@
     }
   },
   "players": {
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1794487871,
+      "personastate": 3,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -20523,7 +20547,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1794367490,
+      "lastlogoff": 1794447114,
       "personastate": 1,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -20532,25 +20556,6 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1793072062,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -20572,6 +20577,23 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1794455358,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -20590,40 +20612,24 @@
       "personastateflags": 0,
       "loccountrycode": "BR"
     },
-    "Lírio": {
-      "steamid": "76561198158302059",
+    "Kiri": {
+      "steamid": "76561199011715965",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1794193455,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1793072062,
       "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1793853892,
-      "personastate": 0,
+      "realname": "Mu De Áries",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
