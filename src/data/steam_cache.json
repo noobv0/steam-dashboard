@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T15:27:51.684Z",
+  "timestamp": "2026-11-19T15:35:13.510Z",
   "data": {
     "Lírio": [
       {
@@ -1450,15 +1450,15 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 383,
-        "playtime_forever": 4084,
+        "playtime_2weeks": 431,
+        "playtime_forever": 4132,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 2848,
+        "playtime_windows_forever": 2896,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 1236,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1795014227,
+        "rtime_last_played": 1795020309,
         "content_descriptorids": [
           2,
           5
@@ -2882,7 +2882,6 @@
       {
         "appid": 960090,
         "name": "Bloons TD 6",
-        "playtime_2weeks": 25,
         "playtime_forever": 19630,
         "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
         "has_community_visible_stats": true,
@@ -4441,7 +4440,7 @@
         "appid": 3224770,
         "name": "Umamusume: Pretty Derby",
         "playtime_forever": 80,
-        "img_icon_url": "ac7d50108c18915cfe5115ffbf483cd797324b6c",
+        "img_icon_url": "e6ef0ead88a3ef46988b7aa75e83a8c97c5e48d1",
         "has_community_visible_stats": true,
         "playtime_windows_forever": 80,
         "playtime_mac_forever": 0,
@@ -4693,7 +4692,7 @@
       {
         "appid": 3981100,
         "name": "Leaf it Alone",
-        "playtime_2weeks": 91,
+        "playtime_2weeks": 4,
         "playtime_forever": 91,
         "img_icon_url": "180fc448c6fb2d067a67f559196196b58cb22c8c",
         "has_community_visible_stats": true,
@@ -6111,7 +6110,7 @@
       {
         "appid": 308600,
         "name": "Skillshot City",
-        "playtime_2weeks": 293,
+        "playtime_2weeks": 116,
         "playtime_forever": 293,
         "img_icon_url": "e0ba85c5d76697b6c1f8999f4ee5691eda138185",
         "has_community_visible_stats": true
@@ -6576,8 +6575,8 @@
       {
         "appid": 1422450,
         "name": "Deadlock",
-        "playtime_2weeks": 175,
-        "playtime_forever": 175,
+        "playtime_2weeks": 339,
+        "playtime_forever": 339,
         "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
       },
       {
@@ -6707,7 +6706,7 @@
       {
         "appid": 2950790,
         "name": "IRON NEST: Heavy Turret Simulator",
-        "playtime_2weeks": 576,
+        "playtime_2weeks": 388,
         "playtime_forever": 576,
         "img_icon_url": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
         "has_community_visible_stats": true
@@ -6935,7 +6934,8 @@
       {
         "appid": 1422450,
         "name": "Deadlock",
-        "playtime_forever": 47,
+        "playtime_2weeks": 265,
+        "playtime_forever": 312,
         "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
       },
       {
@@ -9518,8 +9518,8 @@
         43,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 22,49",
+      "priceUSD": 2249
     },
     "214170": {
       "name": "Divine Divinity",
@@ -9688,8 +9688,8 @@
         22,
         18
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "221040": {
       "name": "Resident Evil 6",
@@ -10328,8 +10328,8 @@
         42,
         62
       ],
-      "price": "R$ 9,39",
-      "priceUSD": 939
+      "price": "R$ 46,99",
+      "priceUSD": 4699
     },
     "246900": {
       "name": "Viscera Cleanup Detail",
@@ -11267,8 +11267,8 @@
         57,
         58
       ],
-      "price": "R$ 129,99",
-      "priceUSD": 12999
+      "price": "R$ 19,49",
+      "priceUSD": 1949
     },
     "304930": {
       "name": "Unturned",
@@ -12176,7 +12176,7 @@
     "381210": {
       "name": "Dead by Daylight",
       "appid": 381210,
-      "totalHours": 68.06666666666666,
+      "totalHours": 68.86666666666666,
       "owners": [
         "Lírio",
         "Kiri"
@@ -13249,8 +13249,8 @@
         42,
         62
       ],
-      "price": "R$ 29,80",
-      "priceUSD": 2980
+      "price": "R$ 149,00",
+      "priceUSD": 14900
     },
     "493520": {
       "name": "GTFO",
@@ -17522,7 +17522,7 @@
     "1422450": {
       "name": "Deadlock",
       "appid": 1422450,
-      "totalHours": 17.433333333333334,
+      "totalHours": 24.583333333333332,
       "owners": [
         "Lírio",
         "Dudu",
@@ -19010,8 +19010,8 @@
         18,
         61
       ],
-      "price": "R$ 179,00",
-      "priceUSD": 17900
+      "price": "R$ 35,80",
+      "priceUSD": 3580
     },
     "2246340": {
       "name": "Monster Hunter Wilds",
@@ -19177,8 +19177,8 @@
         18,
         61
       ],
-      "price": "R$ 249,99",
-      "priceUSD": 24999
+      "price": "R$ 62,49",
+      "priceUSD": 6249
     },
     "2379350": {
       "name": "Scramble Knights Online",
@@ -19799,8 +19799,8 @@
         23,
         62
       ],
-      "price": "R$ 13,93",
-      "priceUSD": 1393
+      "price": "R$ 20,49",
+      "priceUSD": 2049
     },
     "3177970": {
       "name": "Bioweaver",
@@ -20532,60 +20532,6 @@
     }
   },
   "players": {
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1794725035,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
-    "Bambo": {
-      "steamid": "76561199148095723",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1794887516,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
-    },
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1794923834,
-      "personastate": 1,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
     "Carrot": {
       "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
@@ -20615,7 +20561,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/99a251d72d4d64c8bfb690e2f5a6f3cac20cd209_full.jpg",
       "avatarhash": "99a251d72d4d64c8bfb690e2f5a6f3cac20cd209",
-      "lastlogoff": 1794980856,
+      "lastlogoff": 1795057986,
       "personastate": 0,
       "realname": "Eduardo Peralta",
       "primaryclanid": "103582791429521408",
@@ -20635,7 +20581,7 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1794969116,
+      "lastlogoff": 1795056111,
       "personastate": 3,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
@@ -20644,6 +20590,60 @@
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Bambo": {
+      "steamid": "76561199148095723",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1795056389,
+      "personastate": 0,
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1614905012,
+      "personastateflags": 0
+    },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1795092037,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "loccountrycode": "TW"
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1794725035,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
