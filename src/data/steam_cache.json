@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-23T17:47:22.678Z",
+  "timestamp": "2026-11-24T17:18:05.545Z",
   "data": {
     "Lírio": [
       {
@@ -1256,7 +1256,6 @@
       {
         "appid": 330020,
         "name": "Children of Morta",
-        "playtime_2weeks": 13,
         "playtime_forever": 13,
         "img_icon_url": "29e179c5c7ac3aa6d3fb15ca5b19fd1124af4e7b",
         "has_community_visible_stats": true,
@@ -1449,15 +1448,15 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 431,
-        "playtime_forever": 4132,
+        "playtime_2weeks": 461,
+        "playtime_forever": 4162,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 2896,
+        "playtime_windows_forever": 2926,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 1236,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1795020309,
+        "rtime_last_played": 1795539073,
         "content_descriptorids": [
           2,
           5
@@ -4731,14 +4730,15 @@
       {
         "appid": 4197610,
         "name": "Librarian: Tidy Up the Arcane Library!",
-        "playtime_forever": 1194,
+        "playtime_2weeks": 1,
+        "playtime_forever": 1195,
         "img_icon_url": "2ee4f16b8de69873c13c7e3432f126e8bde5f4ad",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 1194,
+        "playtime_windows_forever": 1195,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1788998256,
+        "rtime_last_played": 1795522778,
         "playtime_disconnected": 0
       },
       {
@@ -6473,7 +6473,6 @@
       {
         "appid": 1091500,
         "name": "Cyberpunk 2077",
-        "playtime_2weeks": 96,
         "playtime_forever": 9593,
         "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
         "has_community_visible_stats": true,
@@ -7170,7 +7169,8 @@
       {
         "appid": 219760,
         "name": "Beyond Divinity",
-        "playtime_forever": 0,
+        "playtime_2weeks": 1,
+        "playtime_forever": 1,
         "img_icon_url": "1b292705395f5d11cba06cedbba1a3083e1381d3"
       },
       {
@@ -7696,16 +7696,16 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 22,
-        "playtime_forever": 19808,
+        "playtime_2weeks": 124,
+        "playtime_forever": 19910,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
       },
       {
         "appid": 920490,
         "name": "Driver Booster for Steam",
-        "playtime_2weeks": 4,
-        "playtime_forever": 1086,
+        "playtime_2weeks": 7,
+        "playtime_forever": 1088,
         "img_icon_url": "94884ac2921d269ded69fe4a9f478c3a85fb45b8"
       },
       {
@@ -8047,8 +8047,8 @@
       {
         "appid": 3228590,
         "name": "Deadzone: Rogue",
-        "playtime_2weeks": 11,
-        "playtime_forever": 3728,
+        "playtime_2weeks": 51,
+        "playtime_forever": 3769,
         "img_icon_url": "ae783ad4b1b248b1f5e1969a54c24ddd15bdc227",
         "has_community_visible_stats": true
       },
@@ -8075,8 +8075,8 @@
       {
         "appid": 3678970,
         "name": "TBH: Task Bar Hero",
-        "playtime_2weeks": 18,
-        "playtime_forever": 79223,
+        "playtime_2weeks": 1,
+        "playtime_forever": 79224,
         "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
         "has_community_visible_stats": true
       },
@@ -8996,8 +8996,8 @@
         44,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 13,49",
+      "priceUSD": 1349
     },
     "21690": {
       "name": "Resident Evil 5",
@@ -9092,8 +9092,8 @@
         44,
         62
       ],
-      "price": "R$ 35,99",
-      "priceUSD": 3599
+      "price": "R$ 8,99",
+      "priceUSD": 899
     },
     "43160": {
       "name": "Metro: Last Light Complete Edition",
@@ -9620,8 +9620,8 @@
         23,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 8,99",
+      "priceUSD": 899
     },
     "219740": {
       "name": "Don't Starve",
@@ -9649,14 +9649,17 @@
     "219760": {
       "name": "Beyond Divinity",
       "appid": 219760,
-      "totalHours": 0,
+      "totalHours": 0.016666666666666666,
       "owners": [
         "Nino"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/219760/capsule_sm_120.jpg",
-      "categories": [],
-      "price": null,
-      "priceUSD": 0
+      "categories": [
+        2,
+        62
+      ],
+      "price": "R$ 1,79",
+      "priceUSD": 179
     },
     "219990": {
       "name": "Grim Dawn",
@@ -9809,8 +9812,8 @@
         44,
         62
       ],
-      "price": "R$ 16,74",
-      "priceUSD": 1674
+      "price": "R$ 66,99",
+      "priceUSD": 6699
     },
     "230230": {
       "name": "Divinity: Original Sin (Classic)",
@@ -10204,8 +10207,8 @@
         23,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 17,99",
+      "priceUSD": 1799
     },
     "242700": {
       "name": "Injustice: Gods Among Us Ultimate Edition",
@@ -10227,8 +10230,8 @@
         43,
         62
       ],
-      "price": "R$ 89,99",
-      "priceUSD": 8999
+      "price": "R$ 13,49",
+      "priceUSD": 1349
     },
     "242760": {
       "name": "The Forest",
@@ -10415,8 +10418,8 @@
         44,
         62
       ],
-      "price": "R$ 36,99",
-      "priceUSD": 3699
+      "price": "R$ 7,39",
+      "priceUSD": 739
     },
     "249870": {
       "name": "Scribblenauts Unmasked",
@@ -10450,8 +10453,8 @@
         44,
         62
       ],
-      "price": "R$ 22,39",
-      "priceUSD": 2239
+      "price": "R$ 27,99",
+      "priceUSD": 2799
     },
     "251570": {
       "name": "7 Days to Die",
@@ -11335,8 +11338,8 @@
         61,
         62
       ],
-      "price": "R$ 61,50",
-      "priceUSD": 6150
+      "price": "R$ 15,37",
+      "priceUSD": 1537
     },
     "307780": {
       "name": "Mortal Kombat X",
@@ -11803,8 +11806,8 @@
         23,
         62
       ],
-      "price": "R$ 229,99",
-      "priceUSD": 22999
+      "price": "R$ 22,99",
+      "priceUSD": 2299
     },
     "356570": {
       "name": "Party Hard",
@@ -12094,8 +12097,8 @@
         44,
         62
       ],
-      "price": "R$ 72,99",
-      "priceUSD": 7299
+      "price": "R$ 7,29",
+      "priceUSD": 729
     },
     "374040": {
       "name": "Portal Knights",
@@ -12173,7 +12176,7 @@
     "381210": {
       "name": "Dead by Daylight",
       "appid": 381210,
-      "totalHours": 68.86666666666666,
+      "totalHours": 69.36666666666666,
       "owners": [
         "Lírio",
         "Kiri"
@@ -12696,8 +12699,8 @@
         44,
         62
       ],
-      "price": "R$ 90,99",
-      "priceUSD": 9099
+      "price": "R$ 22,74",
+      "priceUSD": 2274
     },
     "436180": {
       "name": "Spacelords",
@@ -13158,8 +13161,8 @@
         17,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 3,59",
+      "priceUSD": 359
     },
     "473690": {
       "name": "Absolver",
@@ -13246,8 +13249,8 @@
         42,
         62
       ],
-      "price": "R$ 149,00",
-      "priceUSD": 14900
+      "price": "R$ 90,73",
+      "priceUSD": 9073
     },
     "493520": {
       "name": "GTFO",
@@ -13289,8 +13292,8 @@
         43,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 4,69",
+      "priceUSD": 469
     },
     "503560": {
       "name": "911 Operator",
@@ -13327,8 +13330,8 @@
         43,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "504370": {
       "name": "Battlerite",
@@ -14039,8 +14042,8 @@
         25,
         62
       ],
-      "price": "R$ 3,14",
-      "priceUSD": 314
+      "price": "R$ 10,49",
+      "priceUSD": 1049
     },
     "589360": {
       "name": "Ni no Kuni™ II: Revenant Kingdom",
@@ -14250,8 +14253,8 @@
         36,
         22
       ],
-      "price": "R$ 49,90",
-      "priceUSD": 4990
+      "price": "R$ 34,93",
+      "priceUSD": 3493
     },
     "613100": {
       "name": "House Flipper",
@@ -14284,8 +14287,8 @@
         23,
         62
       ],
-      "price": "R$ 61,99",
-      "priceUSD": 6199
+      "price": "R$ 15,49",
+      "priceUSD": 1549
     },
     "623990": {
       "name": "Tom Clancy's Rainbow Six Siege - Test Server",
@@ -14367,8 +14370,8 @@
         43,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 19,79",
+      "priceUSD": 1979
     },
     "632470": {
       "name": "Disco Elysium",
@@ -14505,8 +14508,8 @@
         23,
         62
       ],
-      "price": "R$ 9,99",
-      "priceUSD": 999
+      "price": "R$ 19,99",
+      "priceUSD": 1999
     },
     "644560": {
       "name": "Mirror",
@@ -15620,7 +15623,7 @@
     "892970": {
       "name": "Valheim",
       "appid": 892970,
-      "totalHours": 331,
+      "totalHours": 332.7,
       "owners": [
         "Lírio",
         "Nino"
@@ -15713,7 +15716,7 @@
     "920490": {
       "name": "Driver Booster for Steam",
       "appid": 920490,
-      "totalHours": 36.300000000000004,
+      "totalHours": 36.333333333333336,
       "owners": [
         "Lírio",
         "Nino",
@@ -15947,8 +15950,8 @@
         61,
         62
       ],
-      "price": "R$ 249,99",
-      "priceUSD": 24999
+      "price": "R$ 24,99",
+      "priceUSD": 2499
     },
     "990630": {
       "name": "The Last Campfire",
@@ -16361,8 +16364,8 @@
         44,
         62
       ],
-      "price": "R$ 199,99",
-      "priceUSD": 19999
+      "price": "R$ 139,99",
+      "priceUSD": 13999
     },
     "1087760": {
       "name": "The Gunk",
@@ -16760,8 +16763,8 @@
         41,
         42
       ],
-      "price": "R$ 299,90",
-      "priceUSD": 29990
+      "price": "R$ 74,97",
+      "priceUSD": 7497
     },
     "1180660": {
       "name": "Tell Me Why",
@@ -17487,8 +17490,8 @@
         18,
         62
       ],
-      "price": "R$ 3,49",
-      "priceUSD": 349
+      "price": "R$ 1,74",
+      "priceUSD": 174
     },
     "1407200": {
       "name": "World of Tanks",
@@ -18206,8 +18209,8 @@
         44,
         62
       ],
-      "price": "R$ 22,49",
-      "priceUSD": 2249
+      "price": "R$ 74,99",
+      "priceUSD": 7499
     },
     "1677470": {
       "name": "GrandChase Classic",
@@ -18634,8 +18637,8 @@
         23,
         62
       ],
-      "price": "R$ 10,19",
-      "priceUSD": 1019
+      "price": "R$ 16,99",
+      "priceUSD": 1699
     },
     "1974050": {
       "name": "Torchlight: Infinite",
@@ -18863,17 +18866,9 @@
         "Lírio"
       ],
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/2142790/capsule_sm_120.jpg",
-      "categories": [
-        2,
-        28,
-        55,
-        57,
-        58,
-        23,
-        62
-      ],
-      "price": "R$ 44,49",
-      "priceUSD": 4449
+      "categories": [],
+      "price": null,
+      "priceUSD": 0
     },
     "2149010": {
       "name": "Little Nightmares Enhanced Edition",
@@ -19732,8 +19727,8 @@
         23,
         62
       ],
-      "price": "R$ 1,99",
-      "priceUSD": 199
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "3070070": {
       "name": "TCG Card Shop Simulator",
@@ -19851,7 +19846,7 @@
     "3228590": {
       "name": "Deadzone: Rogue",
       "appid": 3228590,
-      "totalHours": 71.06666666666666,
+      "totalHours": 71.75,
       "owners": [
         "Lírio",
         "Nino"
@@ -20164,7 +20159,7 @@
     "3678970": {
       "name": "TBH: Task Bar Hero",
       "appid": 3678970,
-      "totalHours": 2088.016666666667,
+      "totalHours": 2088.0333333333333,
       "owners": [
         "Lírio",
         "Nino"
@@ -20216,9 +20211,12 @@
       "categories": [
         2,
         22,
+        28,
         68,
         76,
         74,
+        55,
+        57,
         23,
         62
       ],
@@ -20266,8 +20264,8 @@
         23,
         62
       ],
-      "price": "R$ 4,99",
-      "priceUSD": 499
+      "price": "R$ 9,99",
+      "priceUSD": 999
     },
     "3950020": {
       "name": "Duet Night Abyss",
@@ -20413,7 +20411,7 @@
     "4197610": {
       "name": "Librarian: Tidy Up the Arcane Library!",
       "appid": 4197610,
-      "totalHours": 19.9,
+      "totalHours": 19.916666666666668,
       "owners": [
         "Lírio"
       ],
@@ -20524,66 +20522,11 @@
         70,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 11,99",
+      "priceUSD": 1199
     }
   },
   "players": {
-    "Lírio": {
-      "steamid": "76561198158302059",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1795430670,
-      "personastate": 1,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
-      "personastateflags": 0,
-      "loccountrycode": "TW"
-    },
-    "Carrot": {
-      "steamid": "76561199001083134",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1794872715,
-      "personastate": 0,
-      "realname": "CarrotcakezZ",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
-    },
-    "Kiri": {
-      "steamid": "76561199011715965",
-      "communityvisibilitystate": 3,
-      "profilestate": 1,
-      "personaname": "Kiri",
-      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
-      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
-      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
-      "lastlogoff": 1794725035,
-      "personastate": 0,
-      "realname": "Mu De Áries",
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1576600351,
-      "personastateflags": 0,
-      "loccountrycode": "BR",
-      "locstatecode": "27"
-    },
     "Dudu": {
       "steamid": "76561198833523657",
       "communityvisibilitystate": 3,
@@ -20621,6 +20564,45 @@
       "timecreated": 1614905012,
       "personastateflags": 0
     },
+    "Lírio": {
+      "steamid": "76561198158302059",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1795430670,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "gameextrainfo": "Dead by Daylight",
+      "gameid": "381210",
+      "lobbysteamid": "109775241216372306",
+      "loccountrycode": "TW"
+    },
+    "Carrot": {
+      "steamid": "76561199001083134",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1794872715,
+      "personastate": 0,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
+      "personastateflags": 0,
+      "loccountrycode": "BR"
+    },
     "Nino": {
       "steamid": "76561198394798327",
       "communityvisibilitystate": 3,
@@ -20632,15 +20614,36 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1795403843,
-      "personastate": 3,
+      "lastlogoff": 1795488457,
+      "personastate": 1,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
       "timecreated": 1496527778,
       "personastateflags": 0,
+      "gameextrainfo": "Valheim",
+      "gameid": "892970",
       "loccountrycode": "BR",
       "locstatecode": "15",
       "loccityid": 7726
+    },
+    "Kiri": {
+      "steamid": "76561199011715965",
+      "communityvisibilitystate": 3,
+      "profilestate": 1,
+      "personaname": "Kiri",
+      "profileurl": "https://steamcommunity.com/profiles/76561199011715965/",
+      "avatar": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/4a2ee12a293182b7f826e94cb47ca51736db79c7_full.jpg",
+      "avatarhash": "4a2ee12a293182b7f826e94cb47ca51736db79c7",
+      "lastlogoff": 1794725035,
+      "personastate": 0,
+      "realname": "Mu De Áries",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1576600351,
+      "personastateflags": 0,
+      "loccountrycode": "BR",
+      "locstatecode": "27"
     }
   }
 }
