@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T16:43:18.919Z",
+  "timestamp": "2026-11-27T16:29:57.989Z",
   "data": {
     "Lírio": [
       {
@@ -1307,14 +1307,15 @@
       {
         "appid": 356190,
         "name": "Middle-earth™: Shadow of War™",
-        "playtime_forever": 339,
+        "playtime_2weeks": 304,
+        "playtime_forever": 643,
         "img_icon_url": "316c479e5d51d21e15eb8f82338fce82c42c4115",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 339,
+        "playtime_windows_forever": 643,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 0,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1727180633,
+        "rtime_last_played": 1795794713,
         "content_descriptorids": [
           2,
           5
@@ -1448,7 +1449,7 @@
       {
         "appid": 381210,
         "name": "Dead by Daylight",
-        "playtime_2weeks": 491,
+        "playtime_2weeks": 380,
         "playtime_forever": 4192,
         "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
         "has_community_visible_stats": true,
@@ -2177,14 +2178,15 @@
       {
         "appid": 582010,
         "name": "Monster Hunter: World",
-        "playtime_forever": 12290,
+        "playtime_2weeks": 78,
+        "playtime_forever": 12369,
         "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 11367,
+        "playtime_windows_forever": 11446,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 923,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1785723783,
+        "rtime_last_played": 1795733080,
         "playtime_disconnected": 93
       },
       {
@@ -3939,15 +3941,15 @@
       {
         "appid": 1812620,
         "name": "DSX",
-        "playtime_2weeks": 157,
-        "playtime_forever": 16973,
+        "playtime_2weeks": 1292,
+        "playtime_forever": 18108,
         "img_icon_url": "a4960d1d3f5edd6963a7a34df26732626ac504cc",
         "has_community_visible_stats": true,
-        "playtime_windows_forever": 16971,
+        "playtime_windows_forever": 18106,
         "playtime_mac_forever": 0,
         "playtime_linux_forever": 2,
         "playtime_deck_forever": 0,
-        "rtime_last_played": 1794790112,
+        "rtime_last_played": 1795794550,
         "playtime_disconnected": 0
       },
       {
@@ -5602,7 +5604,6 @@
       {
         "appid": 2950790,
         "name": "IRON NEST: Heavy Turret Simulator",
-        "playtime_2weeks": 28,
         "playtime_forever": 576,
         "img_icon_url": "9e5fd22a0678b6d1b82850f2f95a83f82f2a1c96",
         "has_community_visible_stats": true
@@ -6598,8 +6599,8 @@
       {
         "appid": 892970,
         "name": "Valheim",
-        "playtime_2weeks": 353,
-        "playtime_forever": 20140,
+        "playtime_2weeks": 554,
+        "playtime_forever": 20340,
         "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143",
         "has_community_visible_stats": true
       },
@@ -7833,8 +7834,8 @@
         23,
         62
       ],
-      "price": "R$ 34,99",
-      "priceUSD": 3499
+      "price": "R$ 5,24",
+      "priceUSD": 524
     },
     "20920": {
       "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
@@ -7862,8 +7863,8 @@
         25,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 8,99",
+      "priceUSD": 899
     },
     "21000": {
       "name": "LEGO® Batman™: The Videogame",
@@ -8244,8 +8245,8 @@
         44,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 7,49",
+      "priceUSD": 749
     },
     "207140": {
       "name": "SpeedRunners",
@@ -8452,8 +8453,8 @@
         43,
         62
       ],
-      "price": "R$ 29,99",
-      "priceUSD": 2999
+      "price": "R$ 14,99",
+      "priceUSD": 1499
     },
     "218680": {
       "name": "Scribblenauts Unlimited",
@@ -8894,8 +8895,8 @@
         44,
         62
       ],
-      "price": "R$ 27,99",
-      "priceUSD": 2799
+      "price": "R$ 8,39",
+      "priceUSD": 839
     },
     "238960": {
       "name": "Path of Exile",
@@ -9550,8 +9551,8 @@
         44,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 9,39",
+      "priceUSD": 939
     },
     "275850": {
       "name": "No Man's Sky",
@@ -9854,8 +9855,8 @@
         61,
         62
       ],
-      "price": "R$ 159,99",
-      "priceUSD": 15999
+      "price": "R$ 63,99",
+      "priceUSD": 6399
     },
     "297130": {
       "name": "Titan Souls",
@@ -9872,8 +9873,8 @@
         43,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 4,69",
+      "priceUSD": 469
     },
     "298110": {
       "name": "Far Cry 4",
@@ -10110,8 +10111,8 @@
         44,
         62
       ],
-      "price": "R$ 46,99",
-      "priceUSD": 4699
+      "price": "R$ 9,39",
+      "priceUSD": 939
     },
     "312520": {
       "name": "Rain World",
@@ -10414,7 +10415,7 @@
     "356190": {
       "name": "Middle-earth™: Shadow of War™",
       "appid": 356190,
-      "totalHours": 5.65,
+      "totalHours": 10.716666666666667,
       "owners": [
         "Lírio"
       ],
@@ -11463,8 +11464,8 @@
         29,
         62
       ],
-      "price": "R$ 13,79",
-      "priceUSD": 1379
+      "price": "R$ 45,99",
+      "priceUSD": 4599
     },
     "460790": {
       "name": "Bayonetta",
@@ -11643,8 +11644,8 @@
         43,
         62
       ],
-      "price": "R$ 88,99",
-      "priceUSD": 8899
+      "price": "R$ 8,89",
+      "priceUSD": 889
     },
     "489520": {
       "name": "Minion Masters",
@@ -11865,8 +11866,8 @@
         43,
         62
       ],
-      "price": "R$ 79,99",
-      "priceUSD": 7999
+      "price": "R$ 7,99",
+      "priceUSD": 799
     },
     "526870": {
       "name": "Satisfactory",
@@ -12044,8 +12045,8 @@
         57,
         62
       ],
-      "price": "R$ 88,99",
-      "priceUSD": 8899
+      "price": "R$ 8,89",
+      "priceUSD": 889
     },
     "552520": {
       "name": "Far Cry 5",
@@ -12220,7 +12221,7 @@
     "582010": {
       "name": "Monster Hunter: World",
       "appid": 582010,
-      "totalHours": 976.7500000000001,
+      "totalHours": 978.0666666666667,
       "owners": [
         "Lírio",
         "Dudu",
@@ -13760,7 +13761,7 @@
     "892970": {
       "name": "Valheim",
       "appid": 892970,
-      "totalHours": 336.53333333333336,
+      "totalHours": 339.8666666666667,
       "owners": [
         "Lírio",
         "Nino"
@@ -13901,8 +13902,8 @@
         42,
         62
       ],
-      "price": "R$ 27,89",
-      "priceUSD": 2789
+      "price": "R$ 5,57",
+      "priceUSD": 557
     },
     "960690": {
       "name": "One Step From Eden",
@@ -14471,8 +14472,8 @@
         61,
         62
       ],
-      "price": "R$ 199,90",
-      "priceUSD": 19990
+      "price": "R$ 59,97",
+      "priceUSD": 5997
     },
     "1094710": {
       "name": "Royal Crown",
@@ -15915,8 +15916,8 @@
         23,
         62
       ],
-      "price": "R$ 59,99",
-      "priceUSD": 5999
+      "price": "R$ 35,99",
+      "priceUSD": 3599
     },
     "1623730": {
       "name": "Palworld",
@@ -16245,7 +16246,7 @@
     "1812620": {
       "name": "DSX",
       "appid": 1812620,
-      "totalHours": 282.8833333333333,
+      "totalHours": 301.8,
       "owners": [
         "Lírio"
       ],
@@ -17171,8 +17172,8 @@
         23,
         62
       ],
-      "price": "R$ 24,99",
-      "priceUSD": 2499
+      "price": "R$ 16,24",
+      "priceUSD": 1624
     },
     "2670630": {
       "name": "Supermarket Simulator",
@@ -17374,8 +17375,8 @@
         23,
         62
       ],
-      "price": "R$ 19,99",
-      "priceUSD": 1999
+      "price": "R$ 39,99",
+      "priceUSD": 3999
     },
     "2792610": {
       "name": "Stickman Killing Zombie",
@@ -18321,22 +18322,25 @@
     }
   },
   "players": {
-    "Bambo": {
-      "steamid": "76561199148095723",
+    "Lírio": {
+      "steamid": "76561198158302059",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "Bambohdh",
-      "commentpermission": 2,
-      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
-      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
-      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
-      "lastlogoff": 1795236304,
-      "personastate": 0,
-      "primaryclanid": "103582791429521408",
-      "timecreated": 1614905012,
-      "personastateflags": 0
+      "personaname": "guitarhero",
+      "commentpermission": 1,
+      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
+      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
+      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
+      "lastlogoff": 1795737349,
+      "personastate": 1,
+      "primaryclanid": "103582791461380450",
+      "timecreated": 1413045173,
+      "personastateflags": 0,
+      "gameextrainfo": "Middle-earth™: Shadow of War™",
+      "gameid": "356190",
+      "loccountrycode": "TW"
     },
     "Kiri": {
       "steamid": "76561199011715965",
@@ -18363,8 +18367,8 @@
       "avatarmedium": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_medium.jpg",
       "avatarfull": "https://avatars.steamstatic.com/234b8ccbb1d4c5e910628a4593f6d5cf491b9efc_full.jpg",
       "avatarhash": "234b8ccbb1d4c5e910628a4593f6d5cf491b9efc",
-      "lastlogoff": 1795660759,
-      "personastate": 1,
+      "lastlogoff": 1795749056,
+      "personastate": 3,
       "realname": "Carlos Henrique Moreira",
       "primaryclanid": "103582791429521408",
       "timecreated": 1496527778,
@@ -18373,23 +18377,23 @@
       "locstatecode": "15",
       "loccityid": 7726
     },
-    "Lírio": {
-      "steamid": "76561198158302059",
+    "Carrot": {
+      "steamid": "76561199001083134",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "guitarhero",
-      "commentpermission": 1,
-      "profileurl": "https://steamcommunity.com/id/jitayingxiong/",
-      "avatar": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7_full.jpg",
-      "avatarhash": "ae6d7fc8ebeac5a00b3ce189fb42e5231dadf3c7",
-      "lastlogoff": 1795573765,
+      "personaname": "CarrotcakezZ",
+      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
+      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
+      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
+      "lastlogoff": 1794872715,
       "personastate": 0,
-      "primaryclanid": "103582791461380450",
-      "timecreated": 1413045173,
+      "realname": "CarrotcakezZ",
+      "primaryclanid": "103582791429521408",
+      "timecreated": 1572886370,
       "personastateflags": 0,
-      "loccountrycode": "TW"
+      "loccountrycode": "BR"
     },
     "Dudu": {
       "steamid": "76561198833523657",
@@ -18411,23 +18415,22 @@
       "loccountrycode": "BR",
       "locstatecode": "27"
     },
-    "Carrot": {
-      "steamid": "76561199001083134",
+    "Bambo": {
+      "steamid": "76561199148095723",
       "communityvisibilitystate": 3,
       "profilestate": 1,
-      "personaname": "CarrotcakezZ",
-      "profileurl": "https://steamcommunity.com/profiles/76561199001083134/",
-      "avatar": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778.jpg",
-      "avatarmedium": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_medium.jpg",
-      "avatarfull": "https://avatars.steamstatic.com/e06a95488a4146582b5f2e95d0e555e891df9778_full.jpg",
-      "avatarhash": "e06a95488a4146582b5f2e95d0e555e891df9778",
-      "lastlogoff": 1794872715,
+      "personaname": "Bambohdh",
+      "commentpermission": 2,
+      "profileurl": "https://steamcommunity.com/profiles/76561199148095723/",
+      "avatar": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4.jpg",
+      "avatarmedium": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_medium.jpg",
+      "avatarfull": "https://avatars.steamstatic.com/268893744c7dbf2313351603412cb029e279c0d4_full.jpg",
+      "avatarhash": "268893744c7dbf2313351603412cb029e279c0d4",
+      "lastlogoff": 1795236304,
       "personastate": 0,
-      "realname": "CarrotcakezZ",
       "primaryclanid": "103582791429521408",
-      "timecreated": 1572886370,
-      "personastateflags": 0,
-      "loccountrycode": "BR"
+      "timecreated": 1614905012,
+      "personastateflags": 0
     }
   }
 }
